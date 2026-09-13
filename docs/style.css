@@ -58,6 +58,11 @@
 
 * { box-sizing: border-box; }
 
+html {
+  -webkit-text-size-adjust: 100%; /* impede o Safari/iOS de auto-inflar o tamanho do texto em colunas estreitas, o que empurra o layout pra fora da tela só no iPhone */
+  text-size-adjust: 100%;
+}
+
 html, body {
   margin: 0;
   padding: 0;
@@ -216,7 +221,7 @@ a:hover { text-decoration: underline; }
 
 .overview-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: minmax(0, 1fr);
   gap: 8px;
 }
 
@@ -337,12 +342,15 @@ a:hover { text-decoration: underline; }
 
 .subject-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  /* minmax(0, 1fr) em vez de 1fr: Safari/iOS é mais rígido que o Chrome ao
+     encolher colunas de grid abaixo do conteúdo — sem o 0 explícito aqui,
+     o min-width:0 do .subject-card sozinho não é suficiente no iPhone. */
+  grid-template-columns: minmax(0, 1fr);
   gap: 14px;
 }
 
 @media (min-width: 620px) {
-  .subject-grid.two-col { grid-template-columns: 1fr 1fr; }
+  .subject-grid.two-col { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
 }
 
 .subject-card {

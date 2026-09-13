@@ -127,6 +127,40 @@ priorizando os blocos mais antigos/menos revisados.
 - Conteúdo (teoria + lei seca) já escrito para os blocos citados acima está
   em `subjects.<slug>.blockContent.<blockId>`.
 
+## Link que a Bianca usa (Artifact, além do GitHub Pages)
+
+Para ela não precisar de nenhuma configuração, o site também é publicado
+como um Artifact (hospedado pela Anthropic, link direto, sem precisar
+habilitar GitHub Pages):
+
+**https://claude.ai/code/artifact/11593dc5-4acd-474d-937f-c0582ab0749f**
+
+Esse é o link que o usuário manda pra Bianca. Ele é independente do
+GitHub Pages (que continua sendo a "fonte de verdade" versionada em
+`docs/`) — a cada nova semana gerada, republique este Artifact também:
+
+1. Rode `scripts/generate_week.py <N>` normalmente (gera `docs/semana-NN.html`
+   e atualiza `docs/index.html`).
+2. Republique o Artifact usando o MESMO `url` acima (nunca publique sem
+   `url`, senão cria um artifact novo e quebra o link já enviado pra ela):
+   - `file_path`: um HTML mínimo (sem `<!doctype>/<html>/<head>/<body>` —
+     o Artifact envolve isso sozinho) com `<title>Tutoria OAB da Bianca</title>`,
+     um `<link rel="stylesheet" href="style.css">`, um cartão de
+     "Abrindo a semana mais recente…" e `<script>location.replace("semana-NN.html")</script>`
+     apontando para a semana mais nova.
+   - `files`: `style.css`, `app.js` (verbatim de `docs/`), e um
+     `semana-NN.html` para CADA semana já gerada (verbatim de `docs/`,
+     sem editar) — mantenha todas as semanas anteriores publicadas
+     também, não só a mais recente, para não quebrar o histórico.
+   - **Nunca** nomeie um arquivo de suporte `index.html` — esse caminho é
+     reservado para o conteúdo de `file_path` no Artifact. Se quiser levar
+     a página de "semanas anteriores" (`docs/index.html`) para o Artifact
+     também, publique-a sob outro nome (ex.: `semanas.html`) e ajuste o
+     link "Semanas anteriores" dentro de cada `semana-NN.html` publicado
+     (troque `href="index.html"` por `href="semanas.html"` só nessa cópia
+     usada no Artifact — o arquivo em `docs/` continua apontando para
+     `index.html` normalmente, que é correto lá).
+
 ## Arquitetura técnica
 
 ```

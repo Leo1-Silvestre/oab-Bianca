@@ -1,0 +1,1278 @@
+{
+  "examDate": "2027-01-10",
+  "startDate": "2026-09-14",
+  "weeksTotal": 17,
+  "currentWeek": 1,
+  "pureReviewFromWeek": 15,
+  "reviewIntervals": [
+    1,
+    3,
+    6
+  ],
+  "reviewFixedInterval": 9,
+  "schedule": {
+    "monday": [
+      "constitucional",
+      "etica"
+    ],
+    "tuesday": [
+      "civil",
+      "processoCivil"
+    ],
+    "wednesday": [
+      "penal",
+      "processoPenal"
+    ],
+    "thursday": [
+      "administrativo",
+      "etica"
+    ],
+    "friday": [
+      "tributario",
+      "processoDoTrabalho"
+    ],
+    "saturday": "revisao_geral",
+    "sunday": null
+  },
+  "subjects": {
+    "constitucional": {
+      "name": "Constitucional",
+      "color": "#3b82f6",
+      "icon": "🏛️",
+      "days": [
+        "monday"
+      ],
+      "materials": {
+        "revisao": "Revisão - Constitucional.pdf",
+        "gabaritaco": "Gabaritaço - Constitucional.pdf"
+      },
+      "blocks": [
+        {
+          "id": 1,
+          "title": "Teoria da Constituição",
+          "desc": "Poder constituinte (originário/derivado), limites das emendas, cláusulas pétreas, mutação x emenda, recepção/revogação, eficácia das normas."
+        },
+        {
+          "id": 2,
+          "title": "Direitos e Garantias Fundamentais",
+          "desc": "Dimensões e características dos direitos, hierarquia de normas, tratados internacionais de direitos humanos, principais direitos do art. 5º."
+        },
+        {
+          "id": 3,
+          "title": "Remédios Constitucionais",
+          "desc": "Habeas corpus, habeas data, mandado de segurança (individual/coletivo), mandado de injunção, ação popular, ação civil pública."
+        },
+        {
+          "id": 4,
+          "title": "Nacionalidade e Direitos Políticos",
+          "desc": "Brasileiro nato/naturalizado, perda da nacionalidade, extradição, voto, plebiscito/referendo/iniciativa popular, elegibilidade e inelegibilidades."
+        },
+        {
+          "id": 5,
+          "title": "Organização do Estado",
+          "desc": "Princípio da simetria, União, Estados, Distrito Federal, Territórios, formação e criação de entes federativos."
+        },
+        {
+          "id": 6,
+          "title": "Repartição de Competências e Intervenção Federal",
+          "desc": "Competências exclusiva/privativa/comum/concorrente da União, competência dos Municípios, hipóteses e procedimento de intervenção federal."
+        },
+        {
+          "id": 7,
+          "title": "Poder Legislativo",
+          "desc": "Estrutura bicameral, funções, CPI, imunidades parlamentares material e formal, foro privilegiado."
+        },
+        {
+          "id": 8,
+          "title": "Processo Legislativo",
+          "desc": "Iniciativa (popular/privativa), lei ordinária x complementar, sanção e veto, medida provisória, emenda constitucional, lei delegada."
+        },
+        {
+          "id": 9,
+          "title": "Poder Executivo e Poder Judiciário",
+          "desc": "Impedimento e vacância presidencial, crimes comuns e de responsabilidade do Presidente, garantias da magistratura, súmula vinculante, cláusula de reserva de plenário."
+        },
+        {
+          "id": 10,
+          "title": "Controle de Constitucionalidade",
+          "desc": "Controle difuso x concentrado, ADI, ADC, ADO, ADPF."
+        },
+        {
+          "id": 11,
+          "title": "Defesa do Estado",
+          "desc": "Estado de defesa x estado de sítio."
+        },
+        {
+          "id": 12,
+          "title": "Ordem Social",
+          "desc": "Saúde, educação, desporto, indígenas, seguridade social (previdência e assistência social)."
+        }
+      ],
+      "blockContent": {
+        "1": {
+          "teoria": "Nossa primeira aula é a base de todo o Direito Constitucional: a teoria do poder constituinte e a eficácia das normas constitucionais.\n\nTudo começa distinguindo poder constituinte originário e derivado. O originário instaura uma ordem jurídica nova — é inicial, autônomo, ilimitado juridicamente e incondicionado, não se subordinando ao ordenamento anterior. Quando surge uma nova Constituição, toda a Constituição anterior é revogada por completo (mesmo os dispositivos compatíveis com o novo texto), mas as normas infraconstitucionais anteriores podem ser recepcionadas, desde que compatíveis materialmente com a nova ordem — pouco importa a forma originária. Fixe também: o Brasil NÃO adota a teoria da inconstitucionalidade superveniente — só existe inconstitucionalidade originária.\n\nJá o poder constituinte derivado é secundário, limitado e condicionado, e se divide em três: decorrente (cria e reforma as Constituições estaduais, respeitando as normas de reprodução obrigatória da CF), reformador (altera o texto da CF via emendas, art. 60) e revisor (mecanismo extraordinário do art. 3º do ADCT, com eficácia já exaurida segundo o STF).\n\nO procedimento de emenda constitucional (art. 60) é decoreba obrigatória: iniciativa de 1/3 da Câmara ou do Senado, do Presidente da República, ou de mais da metade das Assembleias Legislativas (cada uma por maioria relativa); discussão e votação em dois turnos em cada Casa, aprovada com 3/5 dos votos; promulgação direta pelas Mesas da Câmara e do Senado — sem sanção presidencial. Há três tipos de limitação: circunstanciais (não se emenda a Constituição na vigência de intervenção federal, estado de defesa ou estado de sítio), formais (o procedimento acima) e materiais — as cláusulas pétreas (forma federativa, voto direto/secreto/universal/periódico, separação dos poderes e direitos e garantias individuais), que só podem ser ampliadas, nunca reduzidas ou abolidas.\n\nNão confunda emenda com mutação constitucional: a mutação é processo informal, feito pelo Judiciário através da interpretação, que muda o sentido do texto sem alterar sua redação.\n\nPor fim, a classificação de José Afonso da Silva organiza a eficácia das normas em plena (aplicação imediata e integral), contida (eficácia imediata, mas restringível por lei) e limitada (depende de regulamentação — subdividida em programática, que fixa metas do Estado, e institutiva, que organiza órgãos e entidades).",
+          "referencia": "Revisão - Constitucional, seção \"Teoria da Constituição\"; Gabaritaço - Constitucional, Dicas 01 a 05 (Poder Constituinte Originário e Derivado, Mutação Constitucional, Procedimento das Emendas e Cláusulas Pétreas).",
+          "lei_seca": [
+            [
+              "Art. 60, caput e I a III, CF/88",
+              "Legitimados para propor emenda constitucional (1/3 da Câmara ou Senado; Presidente da República; maioria das Assembleias Legislativas)."
+            ],
+            [
+              "Art. 60, §1º, CF/88",
+              "Limitação circunstancial: proíbe emenda na vigência de intervenção federal, estado de defesa ou estado de sítio."
+            ],
+            [
+              "Art. 60, §2º, CF/88",
+              "Quórum de aprovação da PEC: discussão e votação em 2 turnos, 3/5 dos votos em cada Casa."
+            ],
+            [
+              "Art. 60, §3º, CF/88",
+              "Promulgação da emenda pelas Mesas da Câmara e do Senado, sem sanção presidencial."
+            ],
+            [
+              "Art. 60, §4º, I a IV, CF/88",
+              "Cláusulas pétreas: forma federativa de Estado, voto direto/secreto/universal/periódico, separação dos Poderes, direitos e garantias individuais."
+            ],
+            [
+              "Art. 60, §5º, CF/88",
+              "Matéria de PEC rejeitada ou prejudicada não pode ser reapresentada na mesma sessão legislativa."
+            ],
+            [
+              "Art. 3º, ADCT",
+              "Previsão do poder constituinte derivado revisor (STF: eficácia já exaurida)."
+            ],
+            [
+              "Art. 25, CF/88",
+              "Poder constituinte derivado decorrente: Estados se organizam por Constituições e leis próprias, observados os princípios da CF."
+            ],
+            [
+              "Art. 18, §2º, CF/88",
+              "Exemplo de norma de eficácia limitada institutiva (organização dos Territórios por lei complementar)."
+            ],
+            [
+              "Art. 5º, XIII, CF/88",
+              "Exemplo de norma de eficácia contida (livre exercício profissional, \"atendidas as qualificações que a lei estabelecer\")."
+            ],
+            [
+              "Art. 6º, CF/88",
+              "Exemplo de norma de eficácia limitada programática (direitos sociais como meta do Estado)."
+            ]
+          ]
+        }
+      }
+    },
+    "administrativo": {
+      "name": "Administrativo",
+      "color": "#14b8a6",
+      "icon": "📋",
+      "days": [
+        "thursday"
+      ],
+      "materials": {
+        "revisao": "Revisão - Administrativo.pdf",
+        "gabaritaco": "Gabaritaço - Administrativo.pdf"
+      },
+      "blocks": [
+        {
+          "id": 1,
+          "title": "Princípios da Administração Pública",
+          "desc": "Supremacia e indisponibilidade do interesse público, autotutela (Súmula 473 STF) e os princípios expressos do art. 37 CF (LIMPE)."
+        },
+        {
+          "id": 2,
+          "title": "Poderes Administrativos",
+          "desc": "Poder hierárquico (delegação/avocação), disciplinar, de polícia e regulamentar, e a distinção entre poder vinculado e discricionário."
+        },
+        {
+          "id": 3,
+          "title": "Organização da Administração Pública I — Direta x Indireta",
+          "desc": "Desconcentração x descentralização (outorga/delegação), regime de autarquias (inclusive especiais/profissionais) e fundações públicas."
+        },
+        {
+          "id": 4,
+          "title": "Organização da Administração Pública II — Entidades Estatais e Terceiro Setor",
+          "desc": "Empresas públicas, sociedades de economia mista, agências reguladoras e entidades do terceiro setor (serviços sociais autônomos, entidades de apoio, OS, OSCIP, OSC)."
+        },
+        {
+          "id": 5,
+          "title": "Atos Administrativos",
+          "desc": "Ato administrativo x ato da administração, requisitos/elementos (competência, objeto, forma, motivo, finalidade), atributos e ato vinculado x discricionário."
+        },
+        {
+          "id": 6,
+          "title": "Agentes Públicos",
+          "desc": "Cargo x emprego x função pública, cargo em comissão, formas de provimento e vacância, estabilidade, estágio probatório e vitaliciedade."
+        },
+        {
+          "id": 7,
+          "title": "Improbidade Administrativa",
+          "desc": "Sujeitos, tipos de improbidade (enriquecimento ilícito, dano ao erário, lesão a princípios) e sanções, conforme a Lei 14.230/21."
+        },
+        {
+          "id": 8,
+          "title": "Intervenção do Estado na Propriedade",
+          "desc": "Desapropriação (comum, sancionatória urbana/rural, confiscatória), servidão administrativa, tombamento, requisição, ocupação temporária e limitação administrativa."
+        },
+        {
+          "id": 9,
+          "title": "Responsabilidade Civil do Estado e Serviços Públicos",
+          "desc": "Teoria do risco administrativo, direito de regresso, responsabilidade por omissão; princípios do serviço público, concessão x permissão e PPPs."
+        },
+        {
+          "id": 10,
+          "title": "Licitações e Contratos Administrativos",
+          "desc": "Princípios licitatórios, modalidades e critérios de julgamento, fases, dispensa e inexigibilidade, cláusulas exorbitantes dos contratos."
+        }
+      ],
+      "blockContent": {
+        "1": {
+          "teoria": "Os princípios do Direito Administrativo se dividem em dois grupos: os implícitos, que sustentam toda a lógica do regime jurídico-administrativo, e os explícitos, previstos no art. 37, caput, da CF/88.\n\nOs dois princípios implícitos são as \"pedras de toque\" do regime. A Supremacia do Interesse Público estabelece que o interesse coletivo prevalece sobre o particular sempre que houver conflito. Já a Indisponibilidade do Interesse Público impede que o agente público disponha, por vontade própria, dos interesses que administra.\n\nDecorrência direta desses dois princípios é a Autotutela: a Administração pode rever seus próprios atos sem precisar de autorização do Judiciário (Súmula 473, STF), podendo anular atos ilegais e revogar atos inconvenientes ou inoportunos. Atenção: para anular um ato, há prazo decadencial de 5 anos contados da sua prática, desde que o destinatário esteja de boa-fé (art. 54, Lei 9.784/99); havendo má-fé, esse prazo não corre.\n\nJá os princípios expressos no art. 37, caput, formam o mnemônico LIMPE. Legalidade significa que o agente público só pode fazer o que a lei expressamente autoriza. Impessoalidade veda que a atuação beneficie ou prejudique alguém por razões pessoais — é por isso que a Súmula Vinculante 13 (STF) veda o nepotismo. Moralidade exige honestidade, lealdade e boa-fé. Publicidade estabelece a transparência como regra, mas admite sigilo quando a informação compromete a segurança do Estado/sociedade ou viola a intimidade/vida privada (Lei 12.527/11 — LAI); atenção também à Súmula 266, STJ: o diploma deve ser exigido na posse, não na inscrição do concurso. Por fim, Eficiência exige atuação de qualidade com o menor custo possível — mas não pode suprimir garantias processuais em nome da celeridade.\n\nEsses princípios formam a base interpretativa de toda a matéria de Administrativo e costumam aparecer embutidos, ainda que implicitamente, em praticamente todas as questões da prova.",
+          "referencia": "Gabaritaço - Administrativo, Dicas 01 a 09 (seção \"Princípios da Adm. Pública\"). A Revisão em tabelas não trata desse tema isoladamente, por isso este bloco se apoia principalmente no Gabaritaço.",
+          "lei_seca": [
+            [
+              "Art. 37, caput, CF/88",
+              "Traz os princípios expressos da Administração Pública (LIMPE)."
+            ],
+            [
+              "Art. 5º, X e XXXIII, CF/88",
+              "Fundamento constitucional das exceções à publicidade e do direito de acesso à informação."
+            ],
+            [
+              "Art. 6º, Lei 8.987/95",
+              "Conceito de serviço adequado, base do princípio da continuidade."
+            ],
+            [
+              "Art. 7º, Lei 12.527/2011 (LAI)",
+              "Lista os direitos que compõem o acesso à informação pública."
+            ],
+            [
+              "Art. 10, Lei 12.527/2011 (LAI)",
+              "Disciplina como o pedido de acesso à informação deve ser feito e processado."
+            ],
+            [
+              "Art. 54, Lei 9.784/99",
+              "Prazo decadencial de 5 anos para a Administração anular atos favoráveis quando o destinatário estiver de boa-fé."
+            ],
+            [
+              "Súmula Vinculante 13, STF",
+              "Veda o nepotismo na nomeação de cônjuge, companheiro ou parente até o 3º grau para cargos de confiança."
+            ],
+            [
+              "Súmula 473, STF",
+              "Consagra o poder-dever de autotutela: a Administração pode anular atos ilegais e revogar os inconvenientes/inoportunos."
+            ],
+            [
+              "Súmula 266, STJ",
+              "O diploma/habilitação legal deve ser exigido na posse, não na inscrição do concurso público."
+            ]
+          ]
+        }
+      }
+    },
+    "civil": {
+      "name": "Civil",
+      "color": "#f59e0b",
+      "icon": "📜",
+      "days": [
+        "tuesday"
+      ],
+      "materials": {
+        "revisao": "Revisão - Civil.pdf",
+        "gabaritaco": "Gabaritaço - Civil.pdf"
+      },
+      "blocks": [
+        {
+          "id": 1,
+          "title": "Parte Geral: Pessoas Naturais e Negócio Jurídico",
+          "desc": "Capacidade, incapacidade, emancipação, direitos da personalidade, elementos e defeitos do negócio jurídico, nulidade e anulabilidade."
+        },
+        {
+          "id": 2,
+          "title": "Obrigações: Modalidades",
+          "desc": "Obrigação de dar (certa/incerta), fazer/não fazer, alternativa, divisível/indivisível, solidária e cessão de crédito."
+        },
+        {
+          "id": 3,
+          "title": "Obrigações: Inadimplemento",
+          "desc": "Inadimplemento absoluto/relativo, mora do devedor e do credor, juros, cláusula penal e arras."
+        },
+        {
+          "id": 4,
+          "title": "Contratos: Teoria Geral",
+          "desc": "Classificações, formação, exceção de contrato não cumprido, estipulação em favor de terceiro, vício redibitório e evicção."
+        },
+        {
+          "id": 5,
+          "title": "Contratos em Espécie I: Compra e Venda e Doação",
+          "desc": "Regras especiais (venda entre cônjuges/ascendentes-descendentes), revogação da doação."
+        },
+        {
+          "id": 6,
+          "title": "Contratos em Espécie II: Mútuo, Comodato, Fiança, Locação e Empreitada",
+          "desc": "Distinções entre os contratos e regras do benefício de ordem na fiança."
+        },
+        {
+          "id": 7,
+          "title": "Responsabilidade Civil",
+          "desc": "Elementos, objetiva x subjetiva, direta x indireta, excludentes de responsabilidade e de ilicitude, prazos prescricionais, espécies de dano."
+        },
+        {
+          "id": 8,
+          "title": "Direitos Reais: Posse",
+          "desc": "Conceito, classificação, efeitos da posse e responsabilidade do possuidor."
+        },
+        {
+          "id": 9,
+          "title": "Direitos Reais: Propriedade",
+          "desc": "Atributos, usucapião (modalidades e prazos), ações petitórias e servidão."
+        },
+        {
+          "id": 10,
+          "title": "Família: Direito Pessoal",
+          "desc": "Casamento (invalidades), união estável, poder familiar e guarda."
+        },
+        {
+          "id": 11,
+          "title": "Família: Direito Patrimonial",
+          "desc": "Regimes de bens e alimentos."
+        },
+        {
+          "id": 12,
+          "title": "Sucessões: Sucessão em Geral e Legítima",
+          "desc": "Herança e princípio da saisine, aceitação/renúncia, indignidade e deserdação, ordem de vocação hereditária, direito de representação, comoriência."
+        },
+        {
+          "id": 13,
+          "title": "Sucessões: Sucessão Testamentária",
+          "desc": "Testamento, capacidade para testar, codicilo, legados e colação."
+        }
+      ],
+      "blockContent": {
+        "1": {
+          "teoria": "Todo edital de Civil começa pela Parte Geral, e os dois pilares que a OAB mais cobra são pessoa natural e negócio jurídico — o alicerce de tudo que vem depois (contratos, família, sucessões são negócios jurídicos aplicados).\n\nSobre pessoa natural, o ponto central é a capacidade. Capacidade de direito todo mundo tem, desde o nascimento com vida. Já a capacidade de fato depende da idade e do discernimento: são absolutamente incapazes apenas os menores de 16 anos; são relativamente incapazes os maiores de 16 e menores de 18, os ébrios habituais, os viciados em tóxico, os pródigos e quem tenha discernimento reduzido por causa transitória ou permanente — esses precisam de assistência, não de representação. A emancipação antecipa a maioridade e pode ser voluntária (pais, por escritura pública, sem homologação judicial), judicial (pelo juiz, ouvido o tutor) ou legal (casamento, emprego público efetivo, colação de grau em curso superior, economia própria aos 16 anos) — uma vez emancipado, não há volta. Complementam esse bloco os direitos da personalidade (vida, nome, imagem, honra, privacidade), intransmissíveis e irrenunciáveis.\n\nJá o negócio jurídico tem elementos essenciais (agente capaz, objeto lícito/possível/determinável, forma legal) e elementos acidentais: condição (evento futuro e incerto), termo (evento futuro e certo) e encargo (ônus que não suspende nada, salvo se estipulado como condição). Quando a vontade se forma viciada, temos os defeitos do negócio jurídico: os vícios de consentimento (erro, dolo, coação, lesão, estado de perigo) prejudicam uma das próprias partes e geram anulabilidade; os vícios sociais (fraude contra credores e simulação) prejudicam terceiros — a simulação é a única hipótese que gera nulidade. Por fim, entenda a lógica de nulidade x anulabilidade: nulo é o que fere ordem pública (qualquer um alega, inclusive o juiz de ofício, sem prazo); anulável é o que fere interesse particular (só o prejudicado alega, dentro de prazo decadencial, e o negócio produz efeitos normalmente até ser desconstituído por sentença).",
+          "referencia": "Gabaritaço - Civil, seções \"Pessoas Naturais\" e \"Negócio Jurídico\"; complementar com Revisão - Civil, seção \"Negócio Jurídico\".",
+          "lei_seca": [
+            [
+              "Art. 3º, CC",
+              "Hipótese remanescente de incapacidade absoluta (apenas os menores de 16 anos)."
+            ],
+            [
+              "Art. 4º, CC",
+              "Hipóteses de incapacidade relativa (16 a 18 anos, ébrios habituais, viciados em tóxico, pródigos, discernimento reduzido)."
+            ],
+            [
+              "Art. 5º, CC",
+              "Maioridade aos 18 anos e as três formas de emancipação (voluntária, judicial, legal)."
+            ],
+            [
+              "Art. 11, CC",
+              "Direitos da personalidade são intransmissíveis e irrenunciáveis."
+            ],
+            [
+              "Art. 104, CC",
+              "Requisitos de validade do negócio jurídico: agente capaz, objeto lícito/possível/determinado, forma prescrita ou não defesa em lei."
+            ],
+            [
+              "Art. 121, CC",
+              "Conceito de condição (evento futuro e incerto)."
+            ],
+            [
+              "Art. 131, CC",
+              "Conceito de termo (evento futuro e certo)."
+            ],
+            [
+              "Art. 136, CC",
+              "Conceito de encargo (modo), que não suspende a aquisição nem o exercício do direito."
+            ],
+            [
+              "Art. 138, CC",
+              "Erro substancial como vício de consentimento apto a anular o negócio."
+            ],
+            [
+              "Art. 145, CC",
+              "Dolo como causa de anulação do negócio jurídico."
+            ],
+            [
+              "Art. 151, CC",
+              "Coação como vício do consentimento."
+            ],
+            [
+              "Art. 156, CC",
+              "Estado de perigo."
+            ],
+            [
+              "Art. 157, CC",
+              "Lesão (desproporção manifesta entre prestações por necessidade ou inexperiência)."
+            ],
+            [
+              "Art. 158, CC",
+              "Fraude contra credores e a ação pauliana."
+            ],
+            [
+              "Art. 167, CC",
+              "Simulação: o negócio simulado é nulo, mas subsiste o que se dissimulou, se válido na substância e na forma."
+            ],
+            [
+              "Art. 166, CC",
+              "Hipóteses legais de nulidade absoluta do negócio jurídico."
+            ],
+            [
+              "Art. 171, CC",
+              "Hipóteses legais de anulabilidade."
+            ]
+          ]
+        }
+      }
+    },
+    "processoCivil": {
+      "name": "Processo Civil",
+      "color": "#6366f1",
+      "icon": "⚙️",
+      "days": [
+        "tuesday"
+      ],
+      "materials": {
+        "revisao": "Revisão - Processo Civil.pdf",
+        "gabaritaco": "Gabaritaço - Processo Civil.pdf"
+      },
+      "blocks": [
+        {
+          "id": 1,
+          "title": "Atos Processuais, Prazos e Citação",
+          "desc": "Conceito e nulidade dos atos processuais, publicidade x segredo de justiça, contagem de prazos e modalidades de citação."
+        },
+        {
+          "id": 2,
+          "title": "Partes, Procuradores e Responsabilidade Processual",
+          "desc": "Capacidade das partes, poderes do procurador, atos atentatórios à dignidade da justiça, litigância de má-fé, honorários e gratuidade da justiça."
+        },
+        {
+          "id": 3,
+          "title": "Intervenção de Terceiros",
+          "desc": "Assistência, denunciação da lide, chamamento ao processo, incidente de desconsideração da personalidade jurídica (IDPJ) e amicus curiae."
+        },
+        {
+          "id": 4,
+          "title": "Litisconsórcio",
+          "desc": "Classificações (ativo/passivo, inicial/ulterior, facultativo/necessário, unitário/simples) e regras de prazo e limitação pelo juiz."
+        },
+        {
+          "id": 5,
+          "title": "Tutela Provisória",
+          "desc": "Tutela de urgência (cautelar e antecipada, antecedente e incidental), estabilização da tutela e tutela de evidência."
+        },
+        {
+          "id": 6,
+          "title": "Petição Inicial e Juízo de Admissibilidade",
+          "desc": "Requisitos, pedido e cumulação de pedidos, valor da causa, emenda, indeferimento da inicial e improcedência liminar do pedido."
+        },
+        {
+          "id": 7,
+          "title": "Audiência de Conciliação/Mediação e Defesa do Réu",
+          "desc": "Regras da audiência, contestação, reconvenção e revelia."
+        },
+        {
+          "id": 8,
+          "title": "Saneamento, Julgamento Antecipado e Audiência de Instrução",
+          "desc": "Julgamento antecipado (total e parcial) do mérito, saneamento do processo e dinâmica da AIJ."
+        },
+        {
+          "id": 9,
+          "title": "Sentença e Coisa Julgada",
+          "desc": "Conceito de sentença, coisa julgada formal e material, extinção com/sem resolução do mérito, vícios da sentença e remessa necessária."
+        },
+        {
+          "id": 10,
+          "title": "Cumprimento de Sentença",
+          "desc": "Títulos executivos judiciais e espécies de cumprimento (pagar quantia, alimentos, entregar coisa, fazer/não fazer)."
+        },
+        {
+          "id": 11,
+          "title": "Processo de Execução",
+          "desc": "Título executivo extrajudicial, princípios da execução, defesa do executado (embargos), fraude à execução e expropriação de bens."
+        },
+        {
+          "id": 12,
+          "title": "Recursos e Ações Autônomas de Impugnação",
+          "desc": "Prazos, juízo de admissibilidade, recursos em espécie (apelação, agravo de instrumento, embargos de declaração, REsp, RE), ação rescisória e IRDR."
+        },
+        {
+          "id": 13,
+          "title": "Procedimentos Especiais",
+          "desc": "Ação de consignação em pagamento, ações possessórias, oposição, dissolução parcial de sociedade e ação de exigir contas."
+        }
+      ],
+      "blockContent": {
+        "1": {
+          "teoria": "Todo processo judicial avança por meio de atos processuais — as ações praticadas pelas partes, pelo juiz e pelos auxiliares da justiça. Quando um ato desrespeita a forma exigida em lei, ele pode ser nulo: nulidade absoluta, quando fere norma de ordem pública, é reconhecível de ofício e a qualquer tempo; nulidade relativa, ligada a interesse das partes, deve ser alegada na primeira oportunidade sob pena de preclusão. Cuidado: pelo princípio da instrumentalidade das formas (art. 188, CPC), o ato praticado de modo diverso é válido se atingir sua finalidade essencial.\n\nQuanto à publicidade, a regra é que os atos processuais são públicos; excepcionalmente tramitam em segredo de justiça quando envolvem interesse público, direito de família, dados protegidos pela intimidade ou arbitragem sigilosa (art. 189, CPC).\n\nSobre prazos, fixe três regras centrais: (1) contam-se apenas em dias úteis; (2) exclui-se o dia do começo e inclui-se o dia do vencimento; (3) havendo omissão da lei e do juiz, aplica-se prazo supletivo de 5 dias. Há também prazo em dobro para Ministério Público, Defensoria Pública, Advocacia Pública e litisconsortes com procuradores de escritórios distintos — mas essa dobra NÃO vale em processos eletrônicos.\n\nA citação é o ato que dá ciência formal ao réu da existência da ação e o convoca a se defender; deve ser efetivada em até 45 dias da propositura. O CPC prevê cinco modalidades: meio eletrônico (preferencial), pelos Correios com AR, por oficial de justiça, por hora certa (cabível após duas tentativas frustradas do oficial quando há suspeita de ocultação do réu) e por edital, para réu desconhecido, incerto ou inacessível — quem requer edital dolosamente, sem preencher os requisitos, paga multa de 5 vezes o salário-mínimo. A citação válida torna litigiosa a coisa, constitui em mora o devedor e interrompe a prescrição.",
+          "referencia": "Gabaritaço - Processo Civil, Dicas 01 a 07 (seção \"Atos Processuais\"). A Revisão em tabelas não possui seção própria sobre este tema, então o aprofundamento deve ser feito pelo Gabaritaço.",
+          "lei_seca": [
+            [
+              "Art. 188, CPC",
+              "Princípio da instrumentalidade das formas: ato praticado de modo diverso é válido se atingir a finalidade essencial."
+            ],
+            [
+              "Art. 189, CPC",
+              "Publicidade dos atos processuais e hipóteses de segredo de justiça."
+            ],
+            [
+              "Art. 218/219, CPC",
+              "Prazos legais, judiciais e regra da contagem somente em dias úteis."
+            ],
+            [
+              "Art. 224, CPC",
+              "Contagem de prazo excluindo o dia do começo e incluindo o dia do vencimento."
+            ],
+            [
+              "Art. 229, CPC",
+              "Prazo em dobro para litisconsortes com procuradores de escritórios distintos; não se aplica a processos eletrônicos."
+            ],
+            [
+              "Art. 238, CPC",
+              "Conceito de citação: ato de convocação do réu, executado ou interessado para integrar a relação processual."
+            ],
+            [
+              "Art. 240, CPC",
+              "Efeitos da citação válida (litigiosidade da coisa, mora do devedor, interrupção da prescrição)."
+            ],
+            [
+              "Art. 246, CPC",
+              "Rol das modalidades de citação, com o meio eletrônico como preferencial."
+            ],
+            [
+              "Art. 252, CPC",
+              "Citação por hora certa, cabível após duas tentativas frustradas com suspeita de ocultação."
+            ],
+            [
+              "Art. 255, CPC",
+              "Citação por edital, para réu desconhecido, incerto ou inacessível."
+            ],
+            [
+              "Art. 258, CPC",
+              "Multa de 5 vezes o salário-mínimo por requerimento doloso de citação por edital."
+            ]
+          ]
+        }
+      }
+    },
+    "penal": {
+      "name": "Penal",
+      "color": "#dc2626",
+      "icon": "🔒",
+      "days": [
+        "wednesday"
+      ],
+      "materials": {
+        "revisao": "Revisão - Penal.pdf",
+        "gabaritaco": "Gabaritaço - Penal.pdf"
+      },
+      "blocks": [
+        {
+          "id": 1,
+          "title": "Princípios e Eficácia da Lei Penal no Tempo e no Espaço",
+          "desc": "Retroatividade benéfica, abolitio criminis, lei temporária/excepcional, teorias do tempo e lugar do crime, territorialidade e extraterritorialidade."
+        },
+        {
+          "id": 2,
+          "title": "Fato Típico",
+          "desc": "Conduta (dolo/culpa), nexo causal, concausas, tipicidade, erro de tipo, iter criminis e tentativa."
+        },
+        {
+          "id": 3,
+          "title": "Ilicitude e Culpabilidade",
+          "desc": "Excludentes de ilicitude (legítima defesa, estado de necessidade, estrito cumprimento do dever legal, exercício regular de direito), imputabilidade, embriaguez, erro de proibição."
+        },
+        {
+          "id": 4,
+          "title": "Concurso de Pessoas e Concurso de Crimes",
+          "desc": "Coautoria, participação, comunicabilidade de circunstâncias; concurso material, formal e crime continuado."
+        },
+        {
+          "id": 5,
+          "title": "Das Penas I — Espécies de Pena e Dosimetria",
+          "desc": "Regimes de cumprimento, as três fases da dosimetria (pena-base, agravantes/atenuantes, causas de aumento/diminuição)."
+        },
+        {
+          "id": 6,
+          "title": "Das Penas II — Benefícios e Execução Penal",
+          "desc": "Substituição por restritivas de direito, sursis, reincidência/maus antecedentes, livramento condicional, progressão de regime, remição."
+        },
+        {
+          "id": 7,
+          "title": "Crimes Contra a Vida",
+          "desc": "Homicídio (privilegiado/qualificado), feminicídio, induzimento/instigação/auxílio ao suicídio e automutilação, infanticídio, aborto."
+        },
+        {
+          "id": 8,
+          "title": "Crimes Contra a Honra e Contra a Dignidade Sexual",
+          "desc": "Calúnia, difamação, injúria; estupro, estupro de vulnerável, importunação e assédio sexual."
+        },
+        {
+          "id": 9,
+          "title": "Crimes Contra o Patrimônio",
+          "desc": "Furto, roubo, extorsão, extorsão mediante sequestro, estelionato, apropriação indébita, receptação, dano."
+        },
+        {
+          "id": 10,
+          "title": "Crimes Contra a Administração Pública",
+          "desc": "Peculato, concussão, corrupção ativa e passiva, prevaricação, favorecimento real e pessoal."
+        },
+        {
+          "id": 11,
+          "title": "Legislação Penal Especial",
+          "desc": "Lei de Drogas, Lei Maria da Penha, Lei dos Crimes Hediondos, Lei de Abuso de Autoridade e pontos-chave da Lei de Execução Penal (LEP)."
+        }
+      ],
+      "blockContent": {
+        "1": {
+          "teoria": "Vamos começar pelo alicerce do Direito Penal: como a lei penal se aplica no tempo e no espaço.\n\nA regra-mestra da eficácia da lei no tempo é simples: lei penal que beneficia o réu retroage; lei que prejudica, não retroage — isso vale até mesmo depois do trânsito em julgado (art. 2º, CP). O caso mais radical dessa retroatividade benéfica é a abolitio criminis: quando uma lei nova deixa de considerar crime uma conduta, cessam a execução e os efeitos penais da condenação (mas não os efeitos civis). Quando a lei nova cria um crime novo, é novatio legis incriminadora — não retroage. Se apenas piora o tratamento de um crime já existente, é novatio legis in pejus — também não retroage. Se melhora, é novatio legis in mellius — retroage sempre.\n\nDuas exceções fogem dessa lógica: a lei temporária (tem prazo certo de vigência) e a lei excepcional (vale enquanto durar uma situação anormal, como guerra ou calamidade). Ambas têm ultratividade: continuam se aplicando ao fato cometido durante sua vigência, mesmo depois de revogadas.\n\nPara saber QUANDO o crime se considera praticado, o Código adota a teoria da atividade (art. 4º): o momento da conduta, não do resultado. Para saber ONDE o crime se considera praticado, o CP adota a teoria da ubiquidade (art. 6º): tanto o lugar da conduta quanto o do resultado. Mnemônico útil: LUTA — Lugar → Ubiquidade, Tempo → Atividade. Duas exceções importantes: no Juizado Especial Criminal prevalece a teoria da atividade (art. 63, Lei 9.099/95); e para fins de competência no CPP, em crimes plurilocais, prevalece a teoria do resultado (art. 70, CPP).\n\nPor fim, a territorialidade é a regra: a lei brasileira aplica-se aos crimes cometidos no território nacional (art. 5º). Excepcionalmente, cabe extraterritorialidade — incondicionada, condicionada e hipercondicionada.",
+          "referencia": "Gabaritaço - Penal, Dicas 01 a 06 (seção \"Eficácia da Lei Penal no Tempo e no Espaço\"); Revisão - Penal, mesma seção.",
+          "lei_seca": [
+            [
+              "Art. 1º, CP",
+              "Princípio da legalidade: não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal."
+            ],
+            [
+              "Art. 2º, CP",
+              "Lei penal no tempo: irretroatividade da lei mais gravosa e retroatividade da lei mais benéfica (abolitio criminis)."
+            ],
+            [
+              "Art. 3º, CP",
+              "Lei excepcional ou temporária: aplica-se ao fato praticado durante sua vigência, mesmo após cessada (ultratividade)."
+            ],
+            [
+              "Art. 4º, CP",
+              "Tempo do crime: adota a teoria da atividade (momento da conduta)."
+            ],
+            [
+              "Art. 5º, CP",
+              "Territorialidade: regra geral de aplicação da lei brasileira aos crimes no território nacional."
+            ],
+            [
+              "Art. 6º, CP",
+              "Lugar do crime: adota a teoria da ubiquidade (conduta ou resultado)."
+            ],
+            [
+              "Art. 7º, CP",
+              "Extraterritorialidade: hipóteses incondicionada, condicionada e hipercondicionada."
+            ],
+            [
+              "Súmula 711, STF",
+              "A lei penal mais grave aplica-se ao crime continuado ou permanente se sua vigência é anterior à cessação da continuidade/permanência."
+            ],
+            [
+              "Art. 63, Lei 9.099/95",
+              "Competência do Juizado Especial Criminal determinada pelo lugar da infração (teoria da atividade)."
+            ],
+            [
+              "Art. 70, CPP",
+              "Competência para julgar determinada, em regra, pelo lugar da consumação (teoria do resultado)."
+            ]
+          ]
+        }
+      }
+    },
+    "processoPenal": {
+      "name": "Processo Penal",
+      "color": "#e11d48",
+      "icon": "👮",
+      "days": [
+        "wednesday"
+      ],
+      "materials": {
+        "revisao": "Revisão - Processo Penal.pdf",
+        "gabaritaco": "Gabaritaço - Processo Penal.pdf"
+      },
+      "blocks": [
+        {
+          "id": 1,
+          "title": "Inquérito Policial e Investigação Preliminar",
+          "desc": "Natureza jurídica, características, notitia criminis, instauração, prazos de conclusão, arquivamento/desarquivamento e juiz das garantias."
+        },
+        {
+          "id": 2,
+          "title": "Ação Penal: Pública, Privada e Acordo de Não Persecução Penal",
+          "desc": "Titularidade, classificação, denúncia/queixa, prazos, institutos extintivos e requisitos do ANPP."
+        },
+        {
+          "id": 3,
+          "title": "Competência em Processo Penal",
+          "desc": "Competência absoluta x relativa, lugar da infração, conexão/continência, prevenção, foro por prerrogativa de função."
+        },
+        {
+          "id": 4,
+          "title": "Teoria da Prova, Cadeia de Custódia e Meios de Obtenção",
+          "desc": "Teoria da árvore dos frutos envenenados e exceções, cadeia de custódia, corpo de delito/perícia, busca e apreensão e interceptação telefônica."
+        },
+        {
+          "id": 5,
+          "title": "Provas Pessoais: Interrogatório, Confissão, Depoimento e Prova Testemunhal",
+          "desc": "Direitos do acusado no interrogatório, confissão, oitiva da vítima, regras sobre testemunhas e acareação."
+        },
+        {
+          "id": 6,
+          "title": "Prisão, Medidas Cautelares e Liberdade Provisória",
+          "desc": "Flagrante e suas espécies, audiência de custódia, prisão preventiva, temporária, domiciliar, liberdade provisória/fiança."
+        },
+        {
+          "id": 7,
+          "title": "Procedimento Comum e Institutos Despenalizadores",
+          "desc": "Recebimento/rejeição da denúncia, absolvição sumária, emendatio/mutatio libelli, transação penal, sursis e suspensão condicional do processo."
+        },
+        {
+          "id": 8,
+          "title": "Tribunal do Júri",
+          "desc": "Fases do procedimento (sumário da culpa e juízo da causa), decisões (pronúncia, impronúncia, desclassificação, absolvição sumária) e recursos cabíveis."
+        },
+        {
+          "id": 9,
+          "title": "Recursos e Ações Autônomas de Impugnação",
+          "desc": "RESE, apelação, agravo em execução, carta testemunhável, embargos, revisão criminal, habeas corpus e mandado de segurança."
+        }
+      ],
+      "blockContent": {
+        "1": {
+          "teoria": "O inquérito policial é o procedimento administrativo, conduzido pela polícia judiciária, destinado a reunir elementos de informação sobre autoria e materialidade de um crime. Suas características, muito cobradas em prova: é inquisitivo (contraditório apenas diferido), escrito (art. 9º, CPP), sigiloso (art. 20, CPP), discricionário, dispensável (o MP pode denunciar sem IP) e indisponível (o delegado jamais pode arquivá-lo por conta própria — art. 17, CPP). A instauração parte da notitia criminis, de ofício, por requisição do MP ou por requerimento do ofendido. Atenção: denúncia anônima, isoladamente, NÃO autoriza a instauração imediata do IP — antes, exige diligências preliminares que confirmem a verossimilhança da notícia.\n\nApesar do caráter inquisitivo, algumas provas podem ser produzidas já na fase investigativa: as cautelares, as não repetíveis e as antecipadas.\n\nQuanto aos prazos de conclusão, a regra geral do CPP é de 10 dias para indiciado preso e 30 dias para solto, havendo prazos especiais na Justiça Federal, na Lei de Drogas e em casos de prisão temporária em crime hediondo.\n\nEncerrado o inquérito, se o MP não se convencer da autoria/materialidade, requer o arquivamento ao juiz. O ponto mais cobrado é o (des)arquivamento: em regra, a decisão faz apenas coisa julgada formal, permitindo reabertura com provas novas — caso do arquivamento por insuficiência de provas (Súmula 524, STF). Já quando o motivo for atipicidade, excludente de culpabilidade ou de punibilidade, forma-se coisa julgada material, e o desarquivamento fica vedado.\n\nPor fim, o juiz das garantias atua exclusivamente na fase investigatória e é o único competente para decretar prisão temporária, não atuando em infrações de menor potencial ofensivo, casos de competência do júri, violência doméstica e algumas leis especiais.",
+          "referencia": "Gabaritaço - Processo Penal, Dicas 01 a 08 (Inquérito Policial); Revisão - Processo Penal, seção \"Inquérito Policial\".",
+          "lei_seca": [
+            [
+              "Art. 4º, CPP",
+              "Define a polícia judiciária como responsável pela apuração das infrações penais e sua autoria."
+            ],
+            [
+              "Art. 5º, CPP",
+              "Formas de instauração do inquérito e a regra da denúncia anônima (§3º)."
+            ],
+            [
+              "Art. 9º, CPP",
+              "Exige que todas as peças do inquérito sejam reduzidas a escrito."
+            ],
+            [
+              "Art. 10, CPP",
+              "Prazos de conclusão do inquérito: 10 dias (preso) e 30 dias (solto)."
+            ],
+            [
+              "Art. 17, CPP",
+              "Indisponibilidade: a autoridade policial não pode mandar arquivar os autos do inquérito."
+            ],
+            [
+              "Art. 18, CPP",
+              "Fundamento legal do desarquivamento: cabem novas diligências se houver notícia de novas provas."
+            ],
+            [
+              "Art. 20, CPP",
+              "Sigilo do inquérito, necessário à elucidação do fato ou exigido pelo interesse social."
+            ],
+            [
+              "Súmula 524, STF",
+              "Arquivado o inquérito a pedido do MP, a ação penal só pode ser iniciada com provas novas."
+            ],
+            [
+              "Súmula Vinculante 14",
+              "Direito do defensor de ter acesso aos elementos de prova já documentados no inquérito."
+            ]
+          ]
+        }
+      }
+    },
+    "etica": {
+      "name": "Ética",
+      "color": "#8b5cf6",
+      "icon": "⚖️",
+      "days": [
+        "monday",
+        "thursday"
+      ],
+      "materials": {
+        "revisao": "Revisão - Ética.pdf",
+        "gabaritaco": "Gabaritaço - Ética.pdf",
+        "aulao": "Aulão - Ética.pdf"
+      },
+      "blocks": [
+        {
+          "id": 1,
+          "title": "Atividades Privativas da Advocacia e Nulidade dos Atos",
+          "desc": "Postulação, consultoria/assessoria/direção jurídica, exceções ao jus postulandi e hipóteses de nulidade."
+        },
+        {
+          "id": 2,
+          "title": "Mandato Judicial e Substabelecimento",
+          "desc": "Outorga, renúncia e revogação do mandato; substabelecimento com e sem reserva de poderes."
+        },
+        {
+          "id": 3,
+          "title": "Requisitos de Inscrição e Inscrição Principal na OAB",
+          "desc": "Capacidade civil, diploma, idoneidade moral, exame de ordem e local/efeitos da inscrição principal."
+        },
+        {
+          "id": 4,
+          "title": "Inscrição Suplementar, Transferência, Cancelamento, Licenciamento e Estágio",
+          "desc": "Demais modalidades de registro e a figura do estagiário de Direito."
+        },
+        {
+          "id": 5,
+          "title": "Prerrogativas Gerais: Hierarquia, Comunicação com Clientes e Inviolabilidade do Escritório",
+          "desc": "Tratamento isonômico, contato com presos e proteção de instrumentos de trabalho."
+        },
+        {
+          "id": 6,
+          "title": "Prisão do Advogado (Flagrante e Especial) e Colaboração Premiada",
+          "desc": "Direito à presença da OAB, sala de Estado Maior e vedação de delação contra cliente."
+        },
+        {
+          "id": 7,
+          "title": "Direitos da Advogada, Exame de Autos e Retirada por Atraso do Juiz",
+          "desc": "Prerrogativas de gestante/lactante/adotante, acesso a autos e tolerância de 30 minutos."
+        },
+        {
+          "id": 8,
+          "title": "Imunidade Profissional, \"Pela Ordem\" e Desagravo Público",
+          "desc": "Inviolabilidade por manifestações profissionais e procedimento do desagravo."
+        },
+        {
+          "id": 9,
+          "title": "Sigilo Profissional",
+          "desc": "Dever de sigilo, exceções e relação com o Código Penal e o Código de Ética."
+        },
+        {
+          "id": 10,
+          "title": "Sociedade de Advogados: Tipos, Registro e Sociedade Unipessoal",
+          "desc": "Sociedade simples x unipessoal, personalidade jurídica e vedações à forma empresária."
+        },
+        {
+          "id": 11,
+          "title": "Sociedade de Advogados: Sócios, Filiais, Associação e Interesses Opostos",
+          "desc": "Pluralidade de sociedades, contrato de associação (art. 17-A) e vedação de patrocínio de interesses conflitantes."
+        },
+        {
+          "id": 12,
+          "title": "Advogado Empregado",
+          "desc": "Independência profissional, dedicação exclusiva, jornada e adicional noturno."
+        },
+        {
+          "id": 13,
+          "title": "Honorários Convencionais e por Arbitramento Judicial",
+          "desc": "Critérios de fixação, forma verbal/escrita e honorários do dativo."
+        },
+        {
+          "id": 14,
+          "title": "Honorários Sucumbenciais, Assistenciais e Pro Bono",
+          "desc": "Percentuais, natureza autônoma, vedação de compensação e regras da advocacia pro bono."
+        },
+        {
+          "id": 15,
+          "title": "Cobrança, Execução, Vedações e Prescrição dos Honorários",
+          "desc": "Títulos executivos, liberação de bens bloqueados, pacto quota litis e prazo de 5 anos."
+        },
+        {
+          "id": 16,
+          "title": "Incompatibilidade: Conceito e Hipóteses",
+          "desc": "Proibição total do exercício, cargos do Executivo/Legislativo/Judiciário/MP e demais hipóteses do art. 28."
+        },
+        {
+          "id": 17,
+          "title": "Impedimento: Conceito, Hipóteses e Distinção com a Incompatibilidade",
+          "desc": "Servidores públicos, parlamentares comuns e a diferença entre proibição total e parcial."
+        },
+        {
+          "id": 18,
+          "title": "Infrações Disciplinares: Censura e TAC",
+          "desc": "Hipóteses de censura, sigilo da sanção e Termo de Ajustamento de Conduta."
+        },
+        {
+          "id": 19,
+          "title": "Infrações Disciplinares: Suspensão, Exclusão, Multa e Reabilitação",
+          "desc": "Durações, hipóteses, critérios de fixação da multa e prazo de reabilitação."
+        },
+        {
+          "id": 20,
+          "title": "Processo Disciplinar: Instauração, Tramitação e Prazos",
+          "desc": "Abertura de ofício/representação, sigilo, relator e prazo geral de 15 dias."
+        },
+        {
+          "id": 21,
+          "title": "Processo Disciplinar: Suspensão Preventiva, Procedimento e Recursos",
+          "desc": "Competência do TED, fases (instauração/instrução/julgamento) e cabimento recursal."
+        },
+        {
+          "id": 22,
+          "title": "Estrutura da OAB: Conselho Federal, Seccionais e Subseções",
+          "desc": "Organização, competências e composição dos órgãos."
+        },
+        {
+          "id": 23,
+          "title": "Eleições e Mandato dos Órgãos da OAB",
+          "desc": "Regras eleitorais e duração de 3 anos do mandato dos órgãos."
+        },
+        {
+          "id": 24,
+          "title": "Publicidade Profissional: Regras Gerais, Cartão de Visita, Placas e Marketing Jurídico",
+          "desc": "Permissões e vedações, Provimento 205/2021 e impulsionamento de conteúdo."
+        }
+      ],
+      "blockContent": {
+        "1": {
+          "teoria": "A advocacia é essencial à administração da Justiça (art. 133 da CF/88, refletido no art. 2º do Estatuto). Isso significa que existem atividades que só podem ser exercidas por quem está regularmente inscrito na OAB — são as chamadas atividades privativas de advocacia, previstas no art. 1º da Lei 8.906/94: (i) a postulação perante órgãos do Poder Judiciário e os juizados especiais, e (ii) as atividades de consultoria, assessoria e direção jurídica.\n\nNa postulação, a regra geral é que só o advogado representa a parte em juízo. Mas há exceções importantes: na Justiça do Trabalho existe o jus postulandi, que autoriza a própria parte a atuar sozinha, porém apenas nas Varas do Trabalho e nos TRTs — nunca no TST, em ação rescisória, ação cautelar ou mandado de segurança (Súmula 425/TST). Nos Juizados Especiais, a assistência por advogado é dispensada em causas de até 20 salários mínimos (estadual) e até 60 salários mínimos (federal). E o habeas corpus pode ser impetrado por qualquer pessoa, sem necessidade de capacidade postulatória.\n\nJá a consultoria, assessoria e direção jurídica podem ser prestadas de forma verbal ou escrita, independentemente de contrato de honorários ou de outorga de mandato — diferença essencial em relação à postulação judicial, que exige procuração (salvo urgência, com prazo de 15 dias, prorrogável, para juntada do instrumento).\n\nPor fim, um ponto muito explorado em prova: os atos privativos da advocacia praticados por quem não preenche os requisitos legais são nulos de pleno direito (art. 4º do Estatuto). Isso vale tanto para quem nunca teve inscrição quanto para o advogado impedido, suspenso, licenciado ou em situação de incompatibilidade no momento do ato.",
+          "referencia": "Gabaritaço - Ética, Dicas 01 e 02 (Funções Privativas de Advogado; Nulidade dos Atos); Revisão - Ética, seção \"Atividades da Advocacia e Mandato Judicial\".",
+          "lei_seca": [
+            [
+              "Art. 1º, Lei 8.906/94",
+              "Define as atividades privativas de advocacia: postulação judicial e consultoria/assessoria/direção jurídica."
+            ],
+            [
+              "Art. 2º, Lei 8.906/94",
+              "O advogado é indispensável à administração da justiça e inviolável por seus atos e manifestações, nos limites da lei."
+            ],
+            [
+              "Art. 3º, Lei 8.906/94",
+              "O exercício da advocacia e o uso da denominação \"advogado\" são privativos dos inscritos na OAB."
+            ],
+            [
+              "Art. 3º-A, Lei 8.906/94",
+              "A impetração de habeas corpus não constitui atividade privativa de advocacia."
+            ],
+            [
+              "Art. 4º, Lei 8.906/94",
+              "São nulos os atos privativos de advocacia praticados por quem não é inscrito, ou por advogado impedido, suspenso, licenciado ou em atividade incompatível."
+            ],
+            [
+              "Art. 5º, Lei 8.906/94",
+              "A postulação em juízo é feita mediante procuração, dispensada em caso de urgência, com prazo de 15 dias para juntada do instrumento."
+            ],
+            [
+              "Súmula 425, TST",
+              "O jus postulandi na Justiça do Trabalho limita-se às Varas do Trabalho e aos TRTs."
+            ]
+          ]
+        },
+        "2": {
+          "teoria": "Na segunda sessão da semana, avançamos para o mandato judicial — o instrumento que formaliza a representação do cliente em juízo — e o substabelecimento.\n\nO mandato é o contrato pelo qual o cliente (mandante) outorga poderes ao advogado (mandatário) para representá-lo. Materializa-se na procuração, que pode ser por instrumento público ou particular (a grande maioria dos casos), e traz dois tipos de poderes: os da cláusula \"ad judicia\" (poderes gerais para o foro, que autorizam a prática de todos os atos do processo, exceto os que exigem poderes especiais) e os poderes especiais (cláusula \"ad judicia et extra\"), necessários para atos como receber citação, confessar, reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito, receber e dar quitação, firmar compromisso e assinar declaração de hipossuficiência.\n\nO mandato pode terminar por renúncia (o advogado abandona a causa, mas deve continuar representando o cliente por 10 dias após a comunicação, para evitar prejuízo, salvo se antes for substituído — art. 112, CPC) ou por revogação (o cliente destitui o advogado, a qualquer tempo, independentemente de justificativa).\n\nJá o substabelecimento é o ato pelo qual o advogado transfere a outro colega, no todo ou em parte, os poderes recebidos do cliente. Pode ser com reserva de poderes (o substabelecente continua podendo atuar no processo, mantendo os poderes para si) ou sem reserva de poderes (o substabelecente se desliga completamente da causa, transferindo integralmente sua atuação ao substabelecido). Atenção: o substabelecimento não precisa de autorização expressa do cliente na procuração, mas é boa prática comunicá-lo, e o advogado substabelecente responde solidariamente pelos atos do substabelecido em determinadas hipóteses de culpa na escolha.",
+          "referencia": "Gabaritaço - Ética, seção \"Mandato Judicial e Substabelecimento\"; Revisão - Ética, seção \"Atividades da Advocacia e Mandato Judicial\".",
+          "lei_seca": [
+            [
+              "Art. 5º, §3º, Lei 8.906/94",
+              "O advogado que renunciar ao mandato continua, durante os 10 dias seguintes, a representar o mandante, salvo se substituído antes do término desse prazo."
+            ],
+            [
+              "Art. 111, CPC",
+              "A renúncia ao mandato deve ser comunicada ao mandante ou ao substabelecido."
+            ],
+            [
+              "Art. 112, CPC",
+              "Procedimento da renúncia: o advogado prova que comunicou o mandante para que este nomeie sucessor."
+            ],
+            [
+              "Art. 667, Código Civil",
+              "Responsabilidade do mandatário/substabelecente por culpa na escolha do substabelecido, quando não autorizado."
+            ],
+            [
+              "Art. 5º, caput, Lei 8.906/94",
+              "Formas de outorga do mandato (instrumento público ou particular)."
+            ]
+          ]
+        }
+      }
+    },
+    "processoDoTrabalho": {
+      "name": "Processo do Trabalho",
+      "color": "#f97316",
+      "icon": "🛠️",
+      "days": [
+        "friday"
+      ],
+      "materials": {
+        "revisao": "Revisão - Processo do Trabalho.pdf",
+        "gabaritaco": "Gabaritaço - Proc do Trabalho.pdf"
+      },
+      "blocks": [
+        {
+          "id": 1,
+          "title": "Justiça do Trabalho e Competência",
+          "desc": "Competência material e territorial da Justiça do Trabalho, incompetência territorial e competência subsidiária da Justiça Estadual."
+        },
+        {
+          "id": 2,
+          "title": "Despesas Processuais e Gratuidade de Justiça",
+          "desc": "Custas processuais, depósito recursal (isenções e redução pela metade), justiça gratuita e honorários."
+        },
+        {
+          "id": 3,
+          "title": "Ação Trabalhista e Petição Inicial",
+          "desc": "Jus postulandi, procedimentos sumário/sumaríssimo/ordinário, emenda x aditamento à inicial, perempção e litigância de má-fé."
+        },
+        {
+          "id": 4,
+          "title": "Defesa do Réu",
+          "desc": "Contestação, reconvenção, revelia e suas exceções, notificação/citação e prazos prescricionais (bienal e quinquenal)."
+        },
+        {
+          "id": 5,
+          "title": "Audiência Trabalhista e Provas",
+          "desc": "Audiência una, regras de atraso, conciliação, homologação de acordo, ônus da prova e prova testemunhal."
+        },
+        {
+          "id": 6,
+          "title": "Recursos Trabalhistas I",
+          "desc": "Preparo recursal, Recurso Ordinário, Recurso de Revista e Embargos de Declaração."
+        },
+        {
+          "id": 7,
+          "title": "Recursos Trabalhistas II",
+          "desc": "Agravo de Petição, Agravo de Instrumento, Agravo Interno, Recurso Adesivo, Embargos de Divergência e Recurso Extraordinário."
+        },
+        {
+          "id": 8,
+          "title": "Execução Trabalhista",
+          "desc": "Títulos executivos judiciais e extrajudiciais, procedimento de execução, embargos à execução e prescrição intercorrente."
+        },
+        {
+          "id": 9,
+          "title": "Ações Especiais do Processo do Trabalho",
+          "desc": "Inquérito para apuração de falta grave, IDPJ, homologação de acordo extrajudicial, mandado de segurança, ação rescisória e ação de cumprimento."
+        }
+      ],
+      "blockContent": {
+        "1": {
+          "teoria": "Nossa primeira aula de Processo do Trabalho trata da organização e da competência da Justiça do Trabalho — a base para entender todo o resto da matéria.\n\nA Justiça do Trabalho processa e julga as causas decorrentes de relação de trabalho, conforme o art. 114 da Constituição Federal. Sua competência material é ampla: além dos dissídios entre empregado e empregador, abrange indenizações por dano moral e material — inclusive as decorrentes de acidente de trabalho, mesmo quando ajuizadas por dependentes ou sucessores do trabalhador falecido (Súmula 392, TST) —, a execução de ofício das contribuições previdenciárias incidentes sobre as condenações que profere (Súmula Vinculante 53, STF), habeas corpus e habeas data envolvendo relação de trabalho, mandado de segurança e a análise da abusividade de greve (Súmula 189, TST). Por outro lado, ela NÃO julga litígios entre o poder público e seus servidores estatutários, nem cobrança de honorários de profissional liberal contra cliente, que é matéria de Justiça Estadual (Súmula 363, STJ).\n\nJá a competência territorial responde: qual Vara do Trabalho deve julgar o caso? A regra geral do art. 651 da CLT manda ajuizar a ação no local onde o empregado prestava serviços — não necessariamente onde o contrato foi assinado. Há exceções: o empregado viajante/agente comercial ajuíza no local da agência ou filial a que estiver subordinado; e, quando o empregador promove atividades fora da localidade da contratação, o empregado pode escolher entre o local da celebração do contrato ou o da prestação de serviços.\n\nSe o réu entender que o processo foi ajuizado no lugar errado, deve apresentar exceção de incompetência territorial em peça própria, no prazo de 5 dias úteis contados da notificação e sempre antes da audiência (art. 800, CLT).\n\nPor fim: nas comarcas sem Vara do Trabalho nem TRT, a Justiça Estadual julga a causa de forma subsidiária — mas o recurso dessa decisão vai para o TRT, nunca para o Tribunal de Justiça.",
+          "referencia": "Gabaritaço - Processo do Trabalho, seção \"Competência\" (Dicas 01 a 05).",
+          "lei_seca": [
+            [
+              "Art. 651, CLT",
+              "Fixa a competência territorial pela regra geral do local da prestação de serviços, com exceções."
+            ],
+            [
+              "Art. 800, CLT",
+              "Disciplina a exceção de incompetência territorial: prazo de 5 dias úteis, antes da audiência."
+            ],
+            [
+              "Art. 114, CF/88",
+              "Define a competência material da Justiça do Trabalho."
+            ],
+            [
+              "Súmula Vinculante 22, STF",
+              "Competência da Justiça do Trabalho para ações de indenização por dano moral/material decorrente de acidente de trabalho."
+            ],
+            [
+              "Súmula Vinculante 53, STF",
+              "Competência da Justiça do Trabalho para executar de ofício as contribuições previdenciárias."
+            ],
+            [
+              "Súmula 189, TST",
+              "Competência da Justiça do Trabalho para declarar a abusividade da greve."
+            ],
+            [
+              "Súmula 392, TST",
+              "Competência da Justiça do Trabalho para indenização por dano moral/material mesmo quando proposta por dependentes/sucessores."
+            ],
+            [
+              "Súmula 363, STJ",
+              "Compete à Justiça Estadual processar ação de cobrança de honorários de profissional liberal contra cliente."
+            ]
+          ]
+        }
+      }
+    },
+    "tributario": {
+      "name": "Tributário",
+      "color": "#16a34a",
+      "icon": "💰",
+      "days": [
+        "friday"
+      ],
+      "materials": {
+        "revisao": "Revisão - Tributário.pdf",
+        "gabaritaco": "Gabaritaço - Tributário.pdf"
+      },
+      "blocks": [
+        {
+          "id": 1,
+          "title": "Sistema Constitucional Tributário e Competência Tributária",
+          "desc": "Competência x capacidade tributária ativa, competência privativa, comum, cumulativa, residual, extraordinária e concorrente."
+        },
+        {
+          "id": 2,
+          "title": "Princípios Constitucionais Tributários",
+          "desc": "Legalidade, anterioridade anual e nonagesimal, isonomia, não confisco, irretroatividade, liberdade de tráfego e pecúnia non olet."
+        },
+        {
+          "id": 3,
+          "title": "Imunidades Tributárias",
+          "desc": "Recíproca, templos religiosos, partidos/sindicatos/entidades de educação e assistência social, livros/jornais/periódicos; distinção imunidade x isenção."
+        },
+        {
+          "id": 4,
+          "title": "Conceito de Tributo e Espécies Tributárias",
+          "desc": "Teoria pentapartida: impostos, taxas, contribuição de melhoria, empréstimos compulsórios e contribuições especiais."
+        },
+        {
+          "id": 5,
+          "title": "Impostos Federais em Espécie",
+          "desc": "II, IE, IR, IPI, IOF, ITR, IGF, IEG (fato gerador, exceções a legalidade/anterioridade, repartição de receitas)."
+        },
+        {
+          "id": 6,
+          "title": "Impostos Estaduais e Municipais em Espécie",
+          "desc": "ITCMD, ICMS, IPVA, IPTU, ITBI e ISS."
+        },
+        {
+          "id": 7,
+          "title": "Obrigação Tributária",
+          "desc": "Fato gerador, sujeito ativo e passivo, solidariedade tributária, capacidade tributária passiva e domicílio tributário."
+        },
+        {
+          "id": 8,
+          "title": "Responsabilidade Tributária",
+          "desc": "Responsabilidade por substituição (para frente/para trás), por transferência, dos sucessores, de terceiros, por infrações e denúncia espontânea."
+        },
+        {
+          "id": 9,
+          "title": "Lançamento Tributário e Suspensão da Exigibilidade do Crédito",
+          "desc": "Modalidades de lançamento, hipóteses do art. 151 do CTN e noções de processo administrativo tributário."
+        },
+        {
+          "id": 10,
+          "title": "Extinção e Exclusão do Crédito Tributário",
+          "desc": "Pagamento, imputação de pagamento, prescrição e decadência, compensação, isenção e anistia."
+        },
+        {
+          "id": 11,
+          "title": "Execução Fiscal e Processo Judicial Tributário",
+          "desc": "CDA, embargos à execução fiscal, exceção de pré-executividade e demais meios de defesa do contribuinte em juízo."
+        }
+      ],
+      "blockContent": {
+        "1": {
+          "teoria": "A competência tributária é o ponto de partida do Direito Tributário: é a aptidão, conferida pela Constituição Federal, para que União, Estados, Distrito Federal e Municípios criem tributos por meio de lei. A CF não cria tributos, apenas distribui essa competência. A competência tributária é facultativa, indelegável, imprescritível, irrenunciável e inalterável. Não confunda com capacidade tributária ativa, que é a atribuição administrativa de arrecadar e fiscalizar tributos — essa sim pode ser delegada, como ocorre com o ITR: é de competência da União, mas sua fiscalização e cobrança podem ser delegadas aos Municípios (art. 153, §4º, III, CF).\n\nA Constituição distribui a competência de várias formas. Primeiro, a competência privativa: cada ente possui seus próprios impostos (art. 153, União; art. 155, Estados/DF; art. 156, Municípios), além de taxas e contribuição de melhoria, de competência comum a todos os entes. Já os empréstimos compulsórios e as contribuições especiais são, em regra, privativos da União, exigindo lei complementar nos casos de empréstimo compulsório, IGF e impostos residuais.\n\nExiste ainda a competência extraordinária: só a União pode instituir o Imposto Extraordinário de Guerra (art. 154, II, CF), única hipótese de bitributação autorizada pela Constituição. Já a competência residual (art. 154, I, e art. 195, §4º, CF) permite à União criar novos impostos ou contribuições sociais não previstos na CF, por lei complementar e sem repetir fato gerador ou base de cálculo já existente.\n\nA competência cumulativa (art. 147, CF) é hoje praticamente teórica, aplicável a eventuais Territórios Federais. Por fim, não confunda competência para instituir tributo com competência para legislar sobre Direito Tributário: esta é concorrente entre União, Estados e DF (art. 24, CF).\n\nFixe esta regra de prova: quem tem competência para instituir um tributo é, em regra, o único ente que pode conceder isenção sobre ele — é vedada a isenção heterônoma (art. 151, III, CF).",
+          "referencia": "Gabaritaço - Tributário, seção \"Competência Tributária\"; Revisão - Tributário, seção \"Competência Tributária\".",
+          "lei_seca": [
+            [
+              "Art. 145, CF",
+              "Atribui à União, Estados, DF e Municípios a competência para instituir impostos, taxas e contribuições de melhoria."
+            ],
+            [
+              "Art. 146, CF",
+              "Reserva à lei complementar normas gerais em matéria tributária e as limitações constitucionais ao poder de tributar."
+            ],
+            [
+              "Art. 148, CF",
+              "Empréstimo compulsório: hipóteses de guerra/calamidade e investimento urgente, exigindo lei complementar."
+            ],
+            [
+              "Art. 149, CF",
+              "Contribuições sociais, CIDE e contribuições corporativas, de competência exclusiva da União."
+            ],
+            [
+              "Art. 151, III, CF",
+              "Veda à União instituir isenções de tributos de competência de Estados, DF e Municípios (isenção heterônoma)."
+            ],
+            [
+              "Art. 153, CF",
+              "Impostos de competência da União (II, IE, IR, IPI, IOF, ITR, IGF)."
+            ],
+            [
+              "Art. 154, CF",
+              "Competência residual (inciso I) e extraordinária de guerra (inciso II) da União."
+            ],
+            [
+              "Art. 155, CF",
+              "Impostos de competência dos Estados e do DF (ITCMD, ICMS, IPVA)."
+            ],
+            [
+              "Art. 156, CF",
+              "Impostos de competência dos Municípios (IPTU, ITBI, ISS)."
+            ],
+            [
+              "Art. 24, CF",
+              "Competência legislativa concorrente entre União, Estados e DF em matéria tributária."
+            ],
+            [
+              "Art. 7º, CTN",
+              "Indelegabilidade da competência tributária; delegabilidade apenas da capacidade tributária ativa."
+            ]
+          ]
+        }
+      }
+    }
+  },
+  "progress": {
+    "constitucional": {
+      "1": {
+        "firstStudiedWeek": 1,
+        "reviews": [],
+        "nextReviewWeek": 2
+      }
+    },
+    "administrativo": {
+      "1": {
+        "firstStudiedWeek": 1,
+        "reviews": [],
+        "nextReviewWeek": 2
+      }
+    },
+    "civil": {
+      "1": {
+        "firstStudiedWeek": 1,
+        "reviews": [],
+        "nextReviewWeek": 2
+      }
+    },
+    "processoCivil": {
+      "1": {
+        "firstStudiedWeek": 1,
+        "reviews": [],
+        "nextReviewWeek": 2
+      }
+    },
+    "penal": {
+      "1": {
+        "firstStudiedWeek": 1,
+        "reviews": [],
+        "nextReviewWeek": 2
+      }
+    },
+    "processoPenal": {
+      "1": {
+        "firstStudiedWeek": 1,
+        "reviews": [],
+        "nextReviewWeek": 2
+      }
+    },
+    "etica": {
+      "1": {
+        "firstStudiedWeek": 1,
+        "reviews": [],
+        "nextReviewWeek": 2
+      },
+      "2": {
+        "firstStudiedWeek": 1,
+        "reviews": [],
+        "nextReviewWeek": 2
+      }
+    },
+    "processoDoTrabalho": {
+      "1": {
+        "firstStudiedWeek": 1,
+        "reviews": [],
+        "nextReviewWeek": 2
+      }
+    },
+    "tributario": {
+      "1": {
+        "firstStudiedWeek": 1,
+        "reviews": [],
+        "nextReviewWeek": 2
+      }
+    }
+  },
+  "estimatedFirstCycleCompletionWeek": {
+    "constitucional": 12,
+    "administrativo": 10,
+    "civil": 13,
+    "processoCivil": 13,
+    "penal": 11,
+    "processoPenal": 9,
+    "etica": 12,
+    "processoDoTrabalho": 9,
+    "tributario": 11
+  }
+}

@@ -200,6 +200,26 @@ O placeholder de questões segue exatamente o padrão pedido:
 `.questions-box` em cada card de matéria — troque manualmente pelo link real
 do TecConcursos quando o usuário mandar.
 
+### Cache-busting de style.css/app.js (`assetVersion`)
+
+`content/state.json` → `assetVersion` (inteiro, hoje = 2) é anexado como
+`?v=N` em todo `<link href="style.css">` e `<script src="app.js">` gerados
+pelo `generate_week.py`. Isso existe porque já aconteceu de um navegador
+(inclusive num notebook, não só celular) mostrar um `style.css` antigo em
+cache mesmo depois de eu já ter corrigido e republicado o arquivo — sem essa
+versão na URL, não tem como forçar o navegador a buscar o CSS/JS novo.
+
+**Toda vez que você editar `docs/style.css` ou `docs/app.js`**, incremente
+`assetVersion` em `content/state.json` ANTES de gerar/regerar as páginas —
+isso já propaga automaticamente pro `<link>`/`<script>` de toda semana
+gerada dali pra frente via `generate_week.py`. Se só o CSS/JS mudou (sem
+mudar o conteúdo/progresso de nenhuma semana), NÃO rode o gerador de novo
+para semanas já existentes (isso re-executaria o algoritmo de revisão
+espaçada indevidamente) — em vez disso, atualize manualmente o `?v=N` nas
+tags `<link>`/`<script>` de cada `docs/semana-NN.html` e `docs/index.html`
+já publicado (troca de string simples), e também no `file_path` usado para
+publicar o Artifact (ver seção anterior).
+
 ## Como gerar a próxima semana
 
 Quando o usuário pedir para gerar a próxima semana (ex.: "gera a semana 2"):

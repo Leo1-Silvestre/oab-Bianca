@@ -439,6 +439,7 @@ def render_week_html(state, plan, week_num):
         nav_prev = '<a class="nav-link" href="semana-{:02d}.html">← Semana {}</a>'.format(week_num - 1, week_num - 1)
 
     overview_rows = render_overview(state, plan)
+    asset_v = state.get("assetVersion", 1)
 
     return """<!doctype html>
 <html lang="pt-BR">
@@ -446,7 +447,7 @@ def render_week_html(state, plan, week_num):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Semana {week_num} — Tutoria OAB da Bianca</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v={asset_v}">
 </head>
 <body>
   <div class="topbar">
@@ -485,7 +486,7 @@ def render_week_html(state, plan, week_num):
     <p style="margin-top:10px;">Feito com carinho para a Bianca passar na OAB. 💜</p>
   </div>
 
-  <script src="app.js"></script>
+  <script src="app.js?v={asset_v}"></script>
   <script>
     OAB.initCountdown("{exam_date}");
     OAB.initToday();
@@ -500,6 +501,7 @@ def render_week_html(state, plan, week_num):
         day_sections="\n\n".join(day_sections),
         nav_prev=nav_prev,
         exam_date=state["examDate"],
+        asset_v=asset_v,
     )
 
 
@@ -518,13 +520,14 @@ def render_index_html(state, all_weeks):
             )
         )
     latest = max(all_weeks)
+    asset_v = state.get("assetVersion", 1)
     return """<!doctype html>
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Tutoria OAB da Bianca</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v={asset_v}">
 <meta http-equiv="refresh" content="0; url=semana-{latest:02d}.html">
 </head>
 <body>
@@ -546,11 +549,11 @@ def render_index_html(state, all_weeks):
     </div>
   </div>
   <div class="site-footer"><p>Feito com carinho para a Bianca passar na OAB. 💜</p></div>
-  <script src="app.js"></script>
+  <script src="app.js?v={asset_v}"></script>
   <script>OAB.initCountdown("{exam_date}");</script>
 </body>
 </html>
-""".format(items="\n".join(items), latest=latest, exam_date=state["examDate"])
+""".format(items="\n".join(items), latest=latest, exam_date=state["examDate"], asset_v=asset_v)
 
 
 def main():

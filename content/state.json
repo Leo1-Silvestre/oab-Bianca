@@ -1,8 +1,8 @@
 {
   "examDate": "2027-01-10",
   "startDate": "2026-09-14",
-  "weeksTotal": 17,
-  "currentWeek": 1,
+  "weeksTotal": 16,
+  "currentWeek": 2,
   "pureReviewFromWeek": 15,
   "reviewIntervals": [
     1,
@@ -158,6 +158,72 @@
               "Exemplo de norma de eficácia limitada programática (direitos sociais como meta do Estado)."
             ]
           ]
+        },
+        "2": {
+          "teoria": "Este bloco fecha o \"capítulo zero\" dos direitos fundamentais: como eles se classificam, que força normativa têm e quais são os principais direitos do art. 5º que não se enquadram em remédios constitucionais (isso fica para o próximo bloco).\n\nComece pelas dimensões (ou \"gerações\") dos direitos fundamentais, que mostram a evolução histórica do conceito: 1ª dimensão são os direitos de liberdade (civis e políticos, como vida, liberdade, igualdade formal, propriedade); 2ª dimensão são os direitos de igualdade material (econômicos, sociais e culturais, como saúde e educação); 3ª dimensão são os direitos de fraternidade/solidariedade, cujo titular é a coletividade (meio ambiente equilibrado, desenvolvimento). Guarde a lógica: liberdade → igualdade → fraternidade.\n\nOs direitos fundamentais têm cinco características centrais que caem literalmente em prova: inalienabilidade (não podem ser transferidos), imprescritibilidade (não se perdem com o tempo), irrenunciabilidade (não se pode abrir mão deles, mesmo que a pessoa queira), universalidade (valem para todos, sem distinção) e complementariedade (coexistem e se somam).\n\nO ponto mais cobrado do bloco é a hierarquia das normas e a força dos tratados internacionais de direitos humanos. Em regra, tratado internacional entra no ordenamento como lei ordinária. Mas se o tratado versar sobre direitos humanos e for aprovado por rito especial — em cada Casa do Congresso, em dois turnos, por 3/5 dos votos (art. 5º, §3º) — ele ganha status de emenda constitucional. Se aprovado pelo rito comum (maioria simples, turno único), fica com status supralegal: abaixo da Constituição, mas acima das leis ordinárias. Essa é a famosa pirâmide: constitucional → supralegal → infraconstitucional → infralegal. Lembre também que as normas definidoras de direitos e garantias fundamentais têm aplicação imediata (art. 5º, §1º) e que os direitos e garantias individuais são cláusula pétrea (art. 60, §4º, IV) — nenhuma emenda pode aboli-los, embora nenhum direito fundamental seja absoluto: em colisão, resolve-se por ponderação, no caso concreto.\n\nPor fim, memorize o conteúdo específico de alguns incisos do art. 5º que a banca adora contextualizar em casos práticos: liberdade de exercício de trabalho/ofício (condicionada às qualificações que a lei exigir), liberdade de expressão artística e intelectual (sem censura), assistência religiosa (mesmo a quem está preso, internado ou hospitalizado), acesso à informação pública, direito de reunião (pacífica, sem armas, só com aviso prévio — e o STF dispensa até esse aviso), inviolabilidade domiciliar (regra: só de dia com ordem judicial; exceção: a qualquer hora em flagrante, desastre ou socorro), princípio da pessoalidade da pena (a pena não passa do condenado, mas a obrigação de reparar dano é cível e pode atingir sucessores), direitos do preso (info sobre seus direitos, silêncio, assistência de família e advogado) e o direito à proteção de dados pessoais, incluído pela EC 115/2022.",
+          "referencia": "Gabaritaço - Constitucional, Dicas 06 a 14 (seção \"Direitos e Garantias Fundamentais\"); Revisão - Constitucional, seção \"Direitos e Garantias Fundamentais\".",
+          "lei_seca": [
+            [
+              "Art. 5º, §1º, CF",
+              "As normas definidoras de direitos e garantias fundamentais têm aplicação imediata."
+            ],
+            [
+              "Art. 5º, §3º, CF",
+              "Tratado internacional de direitos humanos aprovado em 2 turnos, por 3/5 dos votos em cada Casa, equivale a emenda constitucional."
+            ],
+            [
+              "Art. 60, §4º, IV, CF",
+              "Direitos e garantias individuais são cláusula pétrea; não podem ser abolidos nem por emenda constitucional."
+            ],
+            [
+              "Art. 5º, VII, CF",
+              "É assegurada, nos termos da lei, a prestação de assistência religiosa em entidades civis e militares de internação coletiva."
+            ],
+            [
+              "Art. 5º, IX, CF",
+              "É livre a expressão de atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença."
+            ],
+            [
+              "Art. 5º, XI, CF",
+              "A casa é inviolável; entrada sem consentimento só de dia por determinação judicial, ou a qualquer hora em flagrante, desastre ou socorro."
+            ],
+            [
+              "Art. 5º, XIII, CF",
+              "É livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações que a lei estabelecer."
+            ],
+            [
+              "Art. 5º, XVI, CF",
+              "Direito de reunião pacífica, sem armas, em locais abertos ao público, mediante aviso prévio à autoridade."
+            ],
+            [
+              "Art. 5º, XVII, CF",
+              "É plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar."
+            ],
+            [
+              "Art. 5º, XXII, CF",
+              "É garantido o direito de propriedade."
+            ],
+            [
+              "Art. 5º, XXXIII, CF",
+              "Direito de receber dos órgãos públicos informações de interesse particular, coletivo ou geral."
+            ],
+            [
+              "Art. 5º, XXXVI, CF",
+              "A lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada."
+            ],
+            [
+              "Art. 5º, XLV, CF",
+              "Nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano ser estendida aos sucessores até o limite do patrimônio transferido."
+            ],
+            [
+              "Art. 5º, LXIII, CF",
+              "O preso será informado de seus direitos, entre eles o de permanecer calado, com assistência da família e de advogado."
+            ],
+            [
+              "Art. 5º, LXXIX, CF (EC 115/2022)",
+              "É assegurado o direito à proteção dos dados pessoais, inclusive nos meios digitais."
+            ]
+          ]
         }
       }
     },
@@ -264,6 +330,68 @@
             [
               "Súmula 266, STJ",
               "O diploma/habilitação legal deve ser exigido na posse, não na inscrição do concurso público."
+            ]
+          ]
+        },
+        "2": {
+          "teoria": "Os poderes administrativos são instrumentos que a lei confere ao Estado para que ele cumpra suas finalidades públicas, sempre em caráter de dever-poder (o agente não escolhe se usa, mas deve usá-los quando a lei manda). O bloco de hoje trata de quatro poderes específicos, mais a distinção entre atos vinculados e discricionários, que perpassa todos eles.\n\nO Poder Hierárquico é o poder de organização interna: dar ordens, fiscalizar, rever atos de subordinados e distribuir/escalonar competências dentro da mesma pessoa jurídica. É dele que nascem a delegação e a avocação de competência (Lei 9.784/99, arts. 12 a 15). A delegação pode ocorrer mesmo entre órgãos que não sejam hierarquicamente subordinados entre si, por razões técnicas, sociais, econômicas, jurídicas ou territoriais; precisa ser publicada no meio oficial e é revogável a qualquer tempo pela autoridade delegante. Não podem ser delegados: edição de atos normativos, decisão de recursos administrativos e matérias de competência exclusiva. Já a avocação — \"puxar\" para si competência de órgão hierarquicamente inferior — só é permitida em caráter excepcional, por motivos relevantes e devidamente justificados.\n\nO Poder Disciplinar é o poder de apurar infrações e aplicar penalidades a quem tem vínculo jurídico específico com a Administração — servidores e também particulares contratados (ex.: empresa que descumpre contrato administrativo). É diferente do poder hierárquico, mas os dois costumam andar juntos.\n\nO Poder de Polícia é exercido em face do particular (não de quem já tem vínculo com o Estado) para restringir o uso da liberdade e da propriedade em nome do interesse coletivo — ex.: embargo de obra irregular, apreensão de mercadoria. Tem natureza preventiva (fiscalização, normas) e repressiva (sanção pelo descumprimento), e três atributos clássicos: discricionariedade (juízo de oportunidade e conveniência, com exceção dos atos vinculados), autoexecutoriedade (a Administração executa sua decisão sem precisar do Judiciário) e coercibilidade (o ato deve ser obedecido independentemente da vontade do administrado).\n\nO Poder Regulamentar permite ao Executivo editar decretos para dar fiel execução à lei, sem inovar a ordem jurídica. Excepcionalmente existe o decreto autônomo, cabível só para organização/funcionamento da administração federal (sem criar/extinguir órgão nem aumentar despesa) e para extinguir cargos ou funções públicas vagos.\n\nPor fim, ato vinculado é aquele em que a lei já define todos os elementos objetivamente, sem espaço de valoração do agente (ex.: licença, que gera direito subjetivo do particular); ato discricionário é aquele em que a lei deixa margem de escolha quanto à oportunidade e conveniência — nos limites da lei, nunca confundindo discricionariedade com arbitrariedade.",
+          "referencia": "Gabaritaço - Administrativo, Dicas 10 a 15 (seção \"Poderes Administrativos\").",
+          "lei_seca": [
+            [
+              "Art. 12, Lei 9.784/99",
+              "Permite a delegação de parte da competência a outros órgãos ou titulares, ainda que não hierarquicamente subordinados, por razões técnicas, sociais, econômicas, jurídicas ou territoriais."
+            ],
+            [
+              "Art. 13, Lei 9.784/99",
+              "Veda a delegação de edição de atos normativos, decisão de recursos administrativos e matérias de competência exclusiva."
+            ],
+            [
+              "Art. 14, Lei 9.784/99",
+              "Exige publicação do ato de delegação no meio oficial; a delegação é revogável a qualquer tempo pela autoridade delegante."
+            ],
+            [
+              "Art. 15, Lei 9.784/99",
+              "Permite a avocação temporária de competência de órgão hierarquicamente inferior apenas em caráter excepcional e por motivos relevantes justificados."
+            ],
+            [
+              "Art. 37, caput, CF/88",
+              "Fixa os princípios (legalidade, impessoalidade, moralidade, publicidade, eficiência) que balizam o exercício de todos os poderes administrativos."
+            ],
+            [
+              "Art. 5º, II, CF/88",
+              "Princípio da legalidade, fundamento do ato vinculado."
+            ],
+            [
+              "Art. 78, CTN",
+              "Traz o conceito legal de poder de polícia."
+            ],
+            [
+              "Art. 78, parágrafo único, CTN",
+              "Considera regular o exercício do poder de polícia quando praticado por órgão competente e nos limites da lei."
+            ],
+            [
+              "Art. 1º, Lei 9.873/99",
+              "Fixa em 5 anos o prazo de prescrição para a ação punitiva da Administração no exercício do poder de polícia."
+            ],
+            [
+              "Art. 84, IV, CF/88",
+              "Atribui ao Presidente da República o poder regulamentar (decretos e regulamentos para fiel execução da lei)."
+            ],
+            [
+              "Art. 84, VI, CF/88",
+              "Hipóteses de decreto autônomo: organização/funcionamento da administração federal sem aumento de despesa nem criação/extinção de órgão, e extinção de cargos/funções públicas vagos."
+            ],
+            [
+              "Súmula 346, STF",
+              "A Administração Pública pode declarar a nulidade dos seus próprios atos."
+            ],
+            [
+              "Súmula 473, STF",
+              "A Administração pode anular seus atos ilegais e revogar os inconvenientes/inoportunos, respeitados os direitos adquiridos e ressalvada a apreciação judicial."
+            ],
+            [
+              "Súmula 510, STF",
+              "Praticado o ato por autoridade no exercício de competência delegada, contra ela (e não contra o delegante) cabe o mandado de segurança."
             ]
           ]
         }
@@ -421,6 +549,80 @@
               "Hipóteses legais de anulabilidade."
             ]
           ]
+        },
+        "2": {
+          "teoria": "Este bloco reúne as modalidades que uma obrigação pode assumir, um dos temas mais cobrados de Civil na prova. Comece pela obrigação de dar: coisa certa é o bem individualizado (aquele carro específico), enquanto coisa incerta é indicada só por gênero e quantidade (um cavalo, sem dizer qual). Na coisa incerta, a escolha cabe ao devedor, salvo previsão em contrário, e ele não pode entregar a pior nem é obrigado a entregar a melhor. O risco pela perda da coisa muda de mãos com a \"concentração\" (escolha/individualização): antes dela, o devedor não pode alegar perda por força maior; depois, o risco passa ao credor com a tradição.\n\nNa obrigação de fazer, o devedor executa uma prestação positiva, que pode ser fungível (qualquer pessoa cumpre, ex.: pintar uma casa) ou infungível/personalíssima (só aquele devedor, por suas qualidades pessoais). Sendo infungível e o devedor culpado pelo inadimplemento, o credor pode exigir indenização por perdas e danos. Na obrigação de não fazer, o devedor se compromete a se abster de um ato; se ele praticar o ato vedado, o credor pode exigir que desfaça, inclusive por conta própria em caso de urgência.\n\nA obrigação alternativa tem duas ou mais prestações possíveis, bastando ao devedor cumprir uma delas (em regra, a escolha é do devedor). Se uma das prestações se tornar impossível sem culpa de ninguém, a obrigação subsiste quanto à que restou — não se resolve o contrato, o devedor simplesmente cumpre com a opção remanescente.\n\nQuanto à divisibilidade: obrigação divisível é fracionável sem perda de valor ou natureza (dinheiro), e cada devedor/credor responde só pela sua cota; indivisível não admite fracionamento (um cavalo), e qualquer devedor responde pelo todo, embora o pagamento de um extinga a dívida para todos.\n\nNa solidariedade (que nunca se presume, só decorre de lei ou de vontade das partes), há solidariedade passiva (vários devedores, cada um deve o total) e ativa (vários credores, cada um pode exigir e receber o total). Convertida a obrigação em perdas e danos por culpa de um devedor, todos continuam respondendo pelo equivalente, mas só o culpado responde pelas perdas e danos extras.\n\nPor fim, a cessão de crédito permite ao credor transferir seu direito a um terceiro (cessionário), salvo se a natureza da obrigação, a lei ou cláusula contratual vedarem — cláusula proibitiva não vale contra cessionário de boa-fé se não constar do título. O cedente, em regra, responde apenas pela existência do crédito, não pela solvência do devedor, salvo estipulação expressa em contrário.",
+          "referencia": "Gabaritaço - Civil, Dicas 12 a 16 (seção \"Obrigações\"); Revisão - Civil, seção \"Obrigações: Modalidades\".",
+          "lei_seca": [
+            [
+              "Art. 233, CC",
+              "Obrigação de dar coisa certa abrange os acessórios, salvo disposição em contrário."
+            ],
+            [
+              "Art. 234, CC",
+              "Se a coisa certa se perder sem culpa do devedor antes da tradição, resolve-se a obrigação; havendo culpa, responde pelo equivalente + perdas e danos."
+            ],
+            [
+              "Art. 244, CC",
+              "Nas coisas determinadas por gênero e quantidade, a escolha cabe ao devedor (salvo previsão diversa), que não pode dar a pior nem é obrigado a dar a melhor."
+            ],
+            [
+              "Art. 246, CC",
+              "Antes da escolha, o devedor não pode alegar perda ou deterioração da coisa, nem por força maior ou caso fortuito."
+            ],
+            [
+              "Art. 247, CC",
+              "Na obrigação de fazer, o devedor que recusar a prestação personalíssima incorre em perdas e danos."
+            ],
+            [
+              "Art. 248, CC",
+              "Se a prestação de fazer se tornar impossível sem culpa do devedor, resolve-se a obrigação; havendo culpa, responde por perdas e danos."
+            ],
+            [
+              "Art. 250, CC",
+              "Extingue-se a obrigação de não fazer se, sem culpa do devedor, se tornar impossível abster-se do ato."
+            ],
+            [
+              "Art. 251, CC",
+              "Praticado o ato vedado, o credor pode exigir que o devedor desfaça, sob pena de desfazer à custa dele; em urgência, pode agir sem autorização judicial."
+            ],
+            [
+              "Art. 252, CC",
+              "Na obrigação alternativa, a escolha cabe ao devedor, se outra coisa não se estipulou."
+            ],
+            [
+              "Art. 255, CC",
+              "Se uma das prestações alternativas não puder ser objeto de obrigação ou se tornar inexequível, subsistirá a obrigação quanto à outra."
+            ],
+            [
+              "Art. 257, CC",
+              "Se a obrigação for indivisível e concorrerem dois ou mais devedores, cada um estará obrigado pela dívida toda."
+            ],
+            [
+              "Art. 264, CC",
+              "Há solidariedade quando, na mesma obrigação, concorre mais de um credor ou devedor, cada um com direito ou obrigação à dívida toda."
+            ],
+            [
+              "Art. 265, CC",
+              "A solidariedade não se presume; resulta da lei ou da vontade das partes."
+            ],
+            [
+              "Art. 275, CC",
+              "O credor pode exigir e receber de um ou alguns dos devedores, parcial ou totalmente, a dívida comum; pagamento parcial mantém os demais obrigados pelo resto."
+            ],
+            [
+              "Art. 279, CC",
+              "Impossibilitando-se a prestação por culpa de um devedor solidário, subsiste o encargo do equivalente para todos, mas só o culpado responde pelas perdas e danos."
+            ],
+            [
+              "Art. 286, CC",
+              "O credor pode ceder seu crédito, salvo se a isso se opuser a natureza da obrigação, a lei ou a convenção com o devedor."
+            ],
+            [
+              "Art. 296, CC",
+              "Salvo estipulação em contrário, o cedente não responde pela solvência do devedor, apenas pela existência do crédito ao tempo em que cedeu."
+            ]
+          ]
         }
       }
     },
@@ -552,6 +754,76 @@
               "Multa de 5 vezes o salário-mínimo por requerimento doloso de citação por edital."
             ]
           ]
+        },
+        "2": {
+          "teoria": "Este bloco reúne tudo que envolve quem pode estar em juízo e como devem se comportar autor, réu e procuradores durante o processo.\n\nCapacidade das partes: é preciso distinguir capacidade de ser parte (decorre da personalidade jurídica) de capacidade processual (aptidão para praticar atos no processo sem assistência ou representação). Toda pessoa no exercício de seus direitos tem capacidade para estar em juízo. Quando há incapacidade: a relativa exige assistência; a absoluta exige representação. Faltando representante, havendo conflito de interesses entre o incapaz e quem deveria representá-lo, ou tratando-se de réu revel citado por edital/hora certa ou de réu preso, o juiz nomeia curador especial — função normalmente exercida pela Defensoria Pública, que tem direito a honorários nesse papel (Súmula Vinculante 47/STF). Vício de capacidade ou de representação não anula de plano: suspende-se o processo para regularização; se não sanado, extingue-se o feito (se o vício for do autor), exclui-se o réu irregular, ou considera-se revel o terceiro.\n\nPoderes do procurador: o advogado precisa de procuração para atuar, salvo para evitar preclusão, decadência, prescrição ou para praticar ato urgente — situação em que pode agir sem o instrumento, desde que o junte em até 15 dias, prorrogáveis uma vez por igual período.\n\nResponsabilidade processual: a lei impõe deveres de lealdade a partes, procuradores e demais participantes (expor os fatos conforme a verdade, não formular pretensão infundada, cumprir as decisões judiciais, não inovar ilegalmente o estado do bem litigioso). Descumprir os deveres de cumprir decisões ou de não inovar ilegalmente configura ato atentatório à dignidade da justiça, sancionado com multa de até 20% do valor da causa (ou até 10 salários mínimos, se a causa for irrisória). Já a litigância de má-fé pune quem age com deslealdade processual — alterar a verdade dos fatos, usar o processo para fim ilegal, resistir injustificadamente, recorrer com intuito manifestamente protelatório — com multa de 1% a 10% do valor da causa, além de indenização à parte prejudicada e reembolso de honorários e despesas.\n\nHonorários: os advocatícios sucumbenciais têm natureza alimentar e são fixados entre 10% e 20% sobre a condenação, o proveito econômico ou o valor da causa, com faixas escalonadas quando a Fazenda Pública é vencida. Os periciais são adiantados por quem requereu a perícia, ou rateados quando determinada de ofício ou pedida por ambas as partes, sendo definitivamente suportados pelo vencido ao final.\n\nGratuidade da justiça: a pessoa natural obtém com mera declaração de hipossuficiência (presunção relativa, sob pena de multa em caso de má-fé); a pessoa jurídica precisa comprovar documentalmente (Súmula 481/STJ). O benefício não afasta o dever de pagar multas processuais e pode ser requerido a qualquer momento do processo.",
+          "referencia": "Gabaritaço - Processo Civil, Dicas 08 a 14 (seção \"Partes e Procuradores\") — a Revisão em tabelas não tem seção correspondente a este bloco.",
+          "lei_seca": [
+            [
+              "Art. 70, CPC",
+              "Toda pessoa no exercício de seus direitos tem capacidade para estar em juízo."
+            ],
+            [
+              "Art. 71, CPC",
+              "Incapaz deve ser representado (incapacidade absoluta) ou assistido (incapacidade relativa) por pais, tutor ou curador."
+            ],
+            [
+              "Art. 72, CPC",
+              "Hipóteses de nomeação de curador especial (incapaz sem representante ou em conflito de interesses; réu revel citado por edital ou hora certa; réu preso)."
+            ],
+            [
+              "Art. 76, CPC",
+              "Vício de capacidade processual ou de representação: suspensão do processo para regularização, sob pena de extinção, exclusão ou revelia."
+            ],
+            [
+              "Art. 77, CPC",
+              "Deveres de lealdade das partes e procuradores; ato atentatório à dignidade da justiça, com multa de até 20% do valor da causa."
+            ],
+            [
+              "Art. 79, CPC",
+              "Responde por perdas e danos quem litigar de má-fé como autor, réu ou interveniente."
+            ],
+            [
+              "Art. 80, CPC",
+              "Rol das condutas caracterizadoras de litigância de má-fé."
+            ],
+            [
+              "Art. 81, CPC",
+              "Multa de 1% a 10% do valor da causa, mais indenização e honorários, ao litigante de má-fé."
+            ],
+            [
+              "Art. 85, CPC",
+              "Honorários advocatícios sucumbenciais: natureza alimentar, faixas de 10% a 20%, vedada a compensação."
+            ],
+            [
+              "Art. 86, CPC",
+              "Sucumbência recíproca: distribuição proporcional das despesas e honorários entre as partes."
+            ],
+            [
+              "Art. 95, CPC",
+              "Honorários periciais adiantados por quem requereu a perícia, ou rateados quando de ofício ou pedida por ambas as partes."
+            ],
+            [
+              "Art. 96, CPC",
+              "Honorários periciais definitivamente suportados pelo vencido ao final do processo."
+            ],
+            [
+              "Art. 98, CPC",
+              "Requisitos e abrangência da gratuidade da justiça, para pessoa natural ou jurídica hipossuficiente."
+            ],
+            [
+              "Art. 99, CPC",
+              "A gratuidade da justiça pode ser requerida a qualquer tempo, na petição inicial, contestação, recurso ou por petição simples."
+            ],
+            [
+              "Súmula Vinculante 47, STF",
+              "O defensor público, quando nomeado curador especial, exerce múnus público e tem direito a honorários."
+            ],
+            [
+              "Súmula 481, STJ",
+              "Faz jus à gratuidade da justiça a pessoa jurídica, com ou sem fins lucrativos, que comprovar sua impossibilidade de arcar com os encargos processuais."
+            ]
+          ]
         }
       }
     },
@@ -669,6 +941,68 @@
               "Competência para julgar determinada, em regra, pelo lugar da consumação (teoria do resultado)."
             ]
           ]
+        },
+        "2": {
+          "teoria": "O fato típico é o primeiro dos três substratos do crime (fato típico → ilícito → culpável) e reúne quatro elementos: conduta, resultado, nexo causal e tipicidade.\n\nA conduta é o comportamento humano voluntário, comissivo (ação) ou omissivo (deixar de agir quando havia dever jurídico de fazê-lo). Ela pode ser dolosa — quando o agente quer o resultado (dolo direto) ou assume o risco de produzi-lo (dolo eventual) — ou culposa, quando o agente não quer nem assume o risco do resultado, mas ele ocorre por imprudência, negligência ou imperícia. Dentro da culpa, distingue-se a culpa consciente (o agente prevê o resultado mas acredita que conseguirá evitá-lo) da culpa inconsciente (sequer prevê algo previsível). Não há conduta juridicamente relevante em casos de coação física irresistível ou de mero reflexo.\n\nO nexo causal é o vínculo entre a conduta e o resultado naturalístico, relevante apenas nos crimes materiais. O CP adota a teoria da equivalência dos antecedentes: causa é tudo aquilo sem o qual o resultado não teria ocorrido. As concausas testam esse vínculo: as relativamente independentes (preexistentes, concomitantes ou supervenientes) mantêm o agente respondendo pelo resultado — exceto a superveniente relativamente independente que, por si só, produz o resultado, hipótese em que o agente responde só pelos atos praticados (ex.: vítima baleada morre no incêndio da ambulância). Já as concausas absolutamente independentes rompem o nexo causal por completo, respondendo o agente apenas pela tentativa do que pretendia.\n\nA tipicidade é o encaixe perfeito entre o fato e a norma penal (tipicidade formal), exigindo-se também relevância da lesão ao bem jurídico (tipicidade material) — daí o princípio da insignificância afastar o crime quando a ofensa é mínima. O erro de tipo ocorre quando o agente tem falsa percepção da realidade sobre elemento do tipo, excluindo sempre o dolo; se evitável, subsiste a punição por culpa (se prevista em lei); se inevitável, isenta de pena. Distingue-se do erro sobre a pessoa e do erro na execução (aberratio ictus), nos quais responde-se considerando a vítima pretendida.\n\nO iter criminis é o caminho do crime: cogitação, preparação, execução e consumação. A tentativa ocorre quando, iniciada a execução, o crime não se consuma por circunstâncias alheias à vontade do agente (pena reduzida de 1 a 2/3). Não admitem tentativa os crimes culposos, omissivos próprios, unissubsistentes, habituais, preterdolosos e as contravenções penais. Distinga-se ainda desistência voluntária e arrependimento eficaz (excluem a tipicidade, respondendo o agente só pelos atos já praticados) do arrependimento posterior (causa de diminuição de pena após a consumação) e do crime impossível (por ineficácia absoluta do meio ou impropriedade absoluta do objeto).",
+          "referencia": "Gabaritaço - Penal, Dicas 07 a 13 (Fato Típico, Erro de Tipo, Desistência Voluntária, Arrependimento Eficaz e Posterior); Revisão - Penal, seção \"Fato Típico\".",
+          "lei_seca": [
+            [
+              "Art. 13, caput, CP",
+              "Nexo causal: causa é a ação/omissão sem a qual o resultado não teria ocorrido (teoria da equivalência dos antecedentes)."
+            ],
+            [
+              "Art. 13, §1º, CP",
+              "Causa superveniente relativamente independente que por si só produz o resultado: agente responde só pelos atos já praticados."
+            ],
+            [
+              "Art. 14, I, CP",
+              "Crime consumado: quando nele se reúnem todos os elementos de sua definição legal."
+            ],
+            [
+              "Art. 14, II e parágrafo único, CP",
+              "Crime tentado: execução iniciada, não consumado por circunstâncias alheias à vontade do agente; pena reduzida de 1 a 2/3."
+            ],
+            [
+              "Art. 15, CP",
+              "Desistência voluntária e arrependimento eficaz: agente responde apenas pelos atos já praticados."
+            ],
+            [
+              "Art. 16, CP",
+              "Arrependimento posterior: reparação do dano/restituição da coisa até o recebimento da denúncia/queixa, em crime sem violência ou grave ameaça, reduz a pena de 1/3 a 2/3."
+            ],
+            [
+              "Art. 17, CP",
+              "Crime impossível: por ineficácia absoluta do meio ou por absoluta impropriedade do objeto."
+            ],
+            [
+              "Art. 18, I, CP",
+              "Crime doloso: quando o agente quis o resultado (dolo direto) ou assumiu o risco de produzi-lo (dolo eventual)."
+            ],
+            [
+              "Art. 18, II, CP",
+              "Crime culposo: quando o agente deu causa ao resultado por imprudência, negligência ou imperícia."
+            ],
+            [
+              "Art. 20, caput, CP",
+              "Erro de tipo: erro sobre elemento constitutivo do tipo legal exclui o dolo, mas permite punição por crime culposo se previsto em lei."
+            ],
+            [
+              "Art. 20, §3º, CP",
+              "Erro sobre a pessoa: não isenta de pena, considerando-se as condições da vítima pretendida, e não da real."
+            ],
+            [
+              "Art. 73, CP",
+              "Erro na execução (aberratio ictus): aplica-se a mesma regra do erro sobre a pessoa quanto à vítima pretendida."
+            ],
+            [
+              "Art. 74, CP",
+              "Resultado diverso do pretendido (aberratio criminis): agente responde por culpa se previsto como crime culposo, aplicando-se o concurso formal se também atingir o resultado pretendido."
+            ],
+            [
+              "Súmula 582, STJ",
+              "Consuma-se o roubo com a inversão da posse mediante violência ou grave ameaça, ainda que por breve tempo, mesmo seguida de perseguição imediata e recuperação da coisa."
+            ]
+          ]
         }
       }
     },
@@ -770,6 +1104,68 @@
             [
               "Súmula Vinculante 14",
               "Direito do defensor de ter acesso aos elementos de prova já documentados no inquérito."
+            ]
+          ]
+        },
+        "2": {
+          "teoria": "A ação penal é o instrumento pelo qual se provoca o Judiciário para aplicar a lei penal ao caso concreto. No CPP, ela se divide em pública (titularidade do Ministério Público, via denúncia) e privada (titularidade do ofendido, via queixa-crime).\n\nA ação penal pública rege-se por três princípios: oficialidade (só o MP a promove), obrigatoriedade (havendo justa causa, o MP tem o dever de denunciar, não a faculdade) e indisponibilidade (uma vez oferecida a denúncia, o MP não pode desistir da ação nem de recurso já interposto, embora possa pedir absolvição ou desclassificação nas alegações finais). Classifica-se em incondicionada (regra geral) ou condicionada à representação do ofendido ou requisição do Ministro da Justiça. A representação é retratável até o oferecimento da denúncia; na Lei Maria da Penha, até o recebimento, em audiência específica com juiz e MP.\n\nA ação penal privada rege-se pela oportunidade (o ofendido decide se propõe), disponibilidade (pode renunciar antes de ajuizar ou perdoar depois de iniciada) e indivisibilidade (deve abranger todos os autores e partícipes). Classifica-se em exclusivamente privada, personalíssima (só o próprio ofendido, sem sucessão) e subsidiária da pública (quando o MP fica inerte no prazo legal).\n\nOs institutos extintivos da ação privada: decadência (perda do direito de queixa por inércia, em regra 6 meses do conhecimento da autoria); renúncia (desistência voluntária antes do ajuizamento, unilateral, dispensa homologação judicial); perdão (concedido após o início da ação, é bilateral — só produz efeito se aceito pelo querelado, e beneficia a todos os réus se um deles recusar não afeta os demais que aceitarem); e perempção (perda do direito de prosseguir por inércia do querelante já durante o processo — ex.: não movimentar por 30 dias — extingue o processo).\n\nO Acordo de Não Persecução Penal (ANPP) é negócio jurídico entre MP e investigado (sempre com defensor) que evita o processo mediante confissão formal e circunstanciada, pena mínima abstrata inferior a 4 anos, ausência de violência/grave ameaça, e necessidade/suficiência para reprovação e prevenção. As condições (reparar dano, renunciar bens, prestar serviços, pagar prestação pecuniária, outra condição) são fixadas conforme o caso. Há impedimentos: cabimento de transação penal, reincidência/habitualidade delitiva, violência doméstica e crimes hediondos/equiparados.",
+          "referencia": "Gabaritaço - Processo Penal, Dicas 09 a 15 (Ação Penal, Institutos Extintivos e ANPP); Revisão - Processo Penal, seção \"Ação Penal\".",
+          "lei_seca": [
+            [
+              "Art. 24, CPP",
+              "Titularidade: ação pública promovida por denúncia do MP; nos demais casos, ação privada por queixa do ofendido."
+            ],
+            [
+              "Art. 25, CPP",
+              "A representação é irretratável depois de oferecida a denúncia (retratação só até esse momento)."
+            ],
+            [
+              "Art. 28-A, caput, CPP",
+              "Requisitos cumulativos do ANPP: confissão formal e circunstanciada, pena mínima abstrata < 4 anos, ausência de violência/grave ameaça, necessidade e suficiência da medida."
+            ],
+            [
+              "Art. 28-A, §1º, CPP",
+              "Condições do ANPP: reparar o dano, renunciar a bens/direitos, prestar serviços à comunidade, pagar prestação pecuniária, ou cumprir outra condição proporcional."
+            ],
+            [
+              "Art. 28-A, §2º, CPP",
+              "Impedimentos ao ANPP: cabimento de transação penal, reincidência/habitualidade delitiva, violência doméstica, crime hediondo ou equiparado."
+            ],
+            [
+              "Art. 29, CPP",
+              "Ação penal privada subsidiária da pública, cabível quando o MP não oferece denúncia no prazo legal."
+            ],
+            [
+              "Art. 31, CPP",
+              "Sucessão processual (cônjuge, ascendente, descendente ou irmão) em caso de morte ou ausência do ofendido."
+            ],
+            [
+              "Art. 38, CPP",
+              "Prazo decadencial de 6 meses para queixa ou representação, contado do dia em que se veio a saber quem é o autor do crime."
+            ],
+            [
+              "Art. 41, CPP",
+              "Requisitos formais da denúncia/queixa: exposição do fato com todas as circunstâncias, qualificação do acusado, classificação do crime."
+            ],
+            [
+              "Art. 46, CPP",
+              "Prazo para oferecimento da denúncia: 5 dias se o réu estiver preso, 15 dias se solto, contados do recebimento do inquérito pelo MP."
+            ],
+            [
+              "Art. 48, CPP",
+              "Princípio da indivisibilidade: a queixa contra um dos autores obriga o processamento de todos."
+            ],
+            [
+              "Arts. 49 a 56, CPP",
+              "Renúncia e perdão do ofendido: a manifestação de vontade em relação a um dos autores estende-se a todos; o perdão só produz efeito se aceito pelo querelado."
+            ],
+            [
+              "Art. 60, CPP",
+              "Hipóteses de perempção: inércia do querelante por 30 dias sem justificativa, falta a ato processual obrigatório, ou não formular pedido de condenação nas alegações finais."
+            ],
+            [
+              "Art. 107, CP",
+              "Causas de extinção da punibilidade (decadência, perempção, renúncia e perdão aceito estão entre elas)."
             ]
           ]
         }
@@ -970,6 +1366,78 @@
               "Formas de outorga do mandato (instrumento público ou particular)."
             ]
           ]
+        },
+        "3": {
+          "teoria": "A inscrição na OAB é o ato que habilita o bacharel em Direito a exercer a advocacia, e a Lei nº 8.906/94 exige, no art. 8º, o preenchimento cumulativo de sete requisitos: capacidade civil; diploma ou certidão de graduação em Direito (nacional ou estrangeiro, este com revalidação); título de eleitor; quitação com o serviço militar (só para candidatos do sexo masculino); aprovação no Exame de Ordem; ausência de exercício de atividade incompatível com a advocacia; e idoneidade moral. Cumpridos esses requisitos, o candidato ainda presta compromisso formal perante o Conselho competente, ato que o investe efetivamente na condição de advogado.\n\nO requisito que mais rende pegadinha de prova é a idoneidade moral: a lei exige que a declaração de inidoneidade seja aprovada por, no mínimo, 2/3 dos votos de todos os membros do conselho, em decisão motivada. Também não é automática: quem foi condenado por crime infamante é considerado moralmente inidôneo, salvo se tiver obtido reabilitação judicial. Vale reforçar que nacionalidade brasileira não é requisito de inscrição — o estrangeiro pode advogar no Brasil desde que cumpra os demais requisitos, inclusive a revalidação do diploma.\n\nSuperados os requisitos, o bacharel aprovado no Exame de Ordem realiza a inscrição principal: é a porta de entrada na advocacia, feita perante o Conselho Seccional do Estado onde pretende exercer a profissão habitualmente — isto é, no seu domicílio profissional. A inscrição principal permite o exercício pleno de todas as atividades privativas da advocacia dentro daquele Estado, e também autoriza atuação eventual em outros Estados, limitada a até 5 causas novas por ano (acima disso, torna-se obrigatória a inscrição suplementar, tema do próximo bloco).\n\nPor fim, memorize que a carteira profissional emitida pela OAB não é apenas uma credencial de trabalho: por força de lei, ela vale como prova de identidade civil para todos os fins legais, podendo substituir RG ou CNH em qualquer repartição.",
+          "referencia": "Gabaritaço - Ética, Dicas 07 e 08 (Requisitos de Inscrição / Inscrição Principal); Revisão - Ética, seção \"Inscrição na OAB\".",
+          "lei_seca": [
+            [
+              "Art. 8º, Lei 8.906/94",
+              "Lista os 7 requisitos cumulativos para inscrição no quadro de advogados."
+            ],
+            [
+              "Art. 8º, §§1º a 3º, Lei 8.906/94",
+              "Negativa de idoneidade moral exige decisão de no mínimo 2/3 dos membros do conselho; condenação por crime infamante afasta a idoneidade, salvo reabilitação judicial."
+            ],
+            [
+              "Art. 9º, caput, Lei 8.906/94",
+              "O pedido de inscrição como advogado é dirigido ao Conselho Seccional em cujo território o candidato pretende estabelecer domicílio profissional."
+            ],
+            [
+              "Art. 10, caput, Lei 8.906/94",
+              "A inscrição definitiva depende de decisão do Conselho Seccional sobre o requerimento do interessado."
+            ],
+            [
+              "Art. 10, §1º, Lei 8.906/94",
+              "Se o Conselho não decidir o pedido em 90 dias, a inscrição considera-se automaticamente efetivada."
+            ],
+            [
+              "Art. 10, §2º, Lei 8.906/94",
+              "Cabe recurso ao Conselho Federal contra a decisão do Conselho Seccional que negar a inscrição."
+            ],
+            [
+              "Art. 13, Lei 8.906/94",
+              "A carteira de identidade profissional é de uso obrigatório e vale como prova de identidade civil para todos os fins legais."
+            ]
+          ]
+        },
+        "4": {
+          "teoria": "Além da inscrição principal, o Estatuto prevê outras modalidades de registro que costumam ser cobradas por comparação. A inscrição suplementar é devida quando o advogado já inscrito em um Estado passa a exercer a advocacia habitualmente em outro — o critério objetivo é mais de 5 causas novas por ano, ou a criação de filial/atuação continuada na área de outro Conselho Seccional. Nesse caso, a inscrição principal permanece válida, soma-se a ela a suplementar, e o advogado passa a pagar anuidade em ambos os Conselhos. Já a inscrição por transferência ocorre quando o advogado muda definitivamente seu domicílio profissional para outro Estado: diferentemente da suplementar, aqui a inscrição principal anterior é cancelada e a nova passa a ser a principal — não há acúmulo de registros.\n\nO cancelamento da inscrição é a saída definitiva dos quadros da OAB, com extinção do registro. Suas hipóteses são: pedido do próprio advogado; morte; perda de algum requisito de inscrição; aplicação da pena de exclusão; e exercício de atividade incompatível em caráter definitivo. Na maioria dessas hipóteses (exceto o pedido do próprio interessado), o cancelamento deve ser promovido de ofício pelo Conselho. Para voltar a advogar depois de cancelada a inscrição, é preciso requerer nova inscrição — que recebe número diferente do original, e, se o cancelamento decorreu de exclusão, exige prova de reabilitação.\n\nO licenciamento, por sua vez, é o afastamento temporário e reversível: o advogado continua registrado, mas fica impedido de praticar atos privativos, inclusive em causa própria. Suas hipóteses são pedido justificado, exercício temporário de atividade incompatível, ou doença mental considerada curável. Ao contrário do cancelamento, o retorno após licenciamento não exige novo processo nem gera novo número de inscrição.\n\nPor fim, o estágio profissional é a porta de entrada dos acadêmicos de Direito (últimos dois anos do curso) nos quadros da OAB, com inscrição no Conselho Seccional onde funciona o curso, duração de 2 anos (prorrogável por mais 1). Sob responsabilidade do advogado, o estagiário pode assinar petições de juntada, retirar/devolver autos e assinar carga, obter certidões e praticar atos extrajudiciais mediante autorização ou substabelecimento.",
+          "referencia": "Gabaritaço - Ética, Dicas 09 a 13 (Inscrição Suplementar, Transferência, Cancelamento, Licenciamento e Estágio); Revisão - Ética, seção \"Inscrição na OAB\".",
+          "lei_seca": [
+            [
+              "Art. 9º, §2º, Lei 8.906/94",
+              "A inscrição do estagiário é condicional, pelo prazo de 2 anos (prorrogável por mais 1), no Conselho Seccional onde funciona o curso jurídico."
+            ],
+            [
+              "Art. 11, Lei 8.906/94",
+              "Hipóteses de cancelamento da inscrição: pedido do interessado, exclusão, morte, perda de requisito e exercício definitivo de atividade incompatível."
+            ],
+            [
+              "Art. 11, §1º, Lei 8.906/94",
+              "Nas hipóteses de exclusão, perda de requisito ou incompatibilidade definitiva, o cancelamento é promovido de ofício pelo conselho competente."
+            ],
+            [
+              "Art. 11, §2º, Lei 8.906/94",
+              "O novo pedido de inscrição após cancelamento não restaura o número de inscrição anterior."
+            ],
+            [
+              "Art. 11, §3º, Lei 8.906/94",
+              "Após pena de exclusão, o novo pedido de inscrição deve vir acompanhado de prova de reabilitação."
+            ],
+            [
+              "Art. 12, Lei 8.906/94",
+              "Hipóteses de licenciamento: pedido justificado, exercício temporário de atividade incompatível e doença mental considerada curável."
+            ],
+            [
+              "Art. 14, Lei 8.906/94",
+              "Disciplina o estágio profissional de advocacia, com duração de 2 anos, realizável nos últimos anos do curso jurídico."
+            ],
+            [
+              "Regulamento Geral do Estatuto (RGOAB)",
+              "Atos que o estagiário pode praticar isoladamente, sob responsabilidade do advogado: assinar petição de juntada, retirar/devolver autos, obter certidões e praticar atos extrajudiciais mediante autorização ou substabelecimento."
+            ]
+          ]
         }
       }
     },
@@ -1067,6 +1535,60 @@
             [
               "Súmula 363, STJ",
               "Compete à Justiça Estadual processar ação de cobrança de honorários de profissional liberal contra cliente."
+            ]
+          ]
+        },
+        "2": {
+          "teoria": "Este bloco reúne tudo que envolve \"quem paga o quê\" num processo trabalhista, tema recorrente na prova. Comece pelas custas processuais: incidem à alíquota de 2% sobre o valor da causa, da condenação ou do acordo, respeitado o piso de R$ 10,64 e o teto de quatro vezes o limite máximo do RGPS. A regra geral é que paga quem perde, após o trânsito em julgado. Havendo acordo, a CLT manda dividir as custas em partes iguais entre os litigantes, salvo disposição diversa no próprio acordo. Ficam isentos de custas: beneficiários da justiça gratuita, entes federativos, autarquias e fundações públicas, o MPT e a massa falida — mas a gratuidade isenta de custas, não de multas por litigância de má-fé.\n\nO depósito recursal é outra exigência de preparo, exclusiva de quem recorre de decisão condenatória em pecúnia (tipicamente a empresa): não é pagamento à parte contrária, mas garantia do juízo para a futura execução. Estão totalmente isentos os mesmos beneficiários das custas, mais entidades filantrópicas e empresas em recuperação judicial; pagam apenas a metade entidades sem fins lucrativos, empregador doméstico, MEI, ME e EPP.\n\nA justiça gratuita é concedida a quem recebe até 40% do teto do RGPS ou comprova insuficiência de recursos, podendo ser reconhecida de ofício ou a requerimento, em qualquer fase do processo. Ela isenta custas, depósito recursal e, em regra, honorários — mas não protege quem usa a gratuidade de má-fé.\n\nNos honorários advocatícios sucumbenciais, o percentual vai de 5% a 15% sobre a liquidação, o proveito econômico ou o valor atualizado da causa — repare na diferença em relação ao CPC (10% a 20%). Em procedência parcial há sucumbência recíproca, vedada a compensação entre os valores. Se o vencido for beneficiário da gratuidade, a exigibilidade fica suspensa por dois anos, e o STF afastou a cobrança automática depois desse prazo.\n\nJá os honorários periciais e os do intérprete seguem a mesma lógica entre si: paga quem perdeu no objeto daquela prova específica, e se esse perdedor for beneficiário da gratuidade, quem assume é a União. O assistente técnico foge à regra: paga sempre quem o contratou/indicou, esteja ele vencedor, vencido, ou mesmo beneficiário da justiça gratuita.",
+          "referencia": "Gabaritaço - Processo do Trabalho, Dicas 06 a 11 (Custas, Depósito Recursal, Justiça Gratuita, Honorários); Revisão - Processo do Trabalho, seção \"Despesas Processuais\".",
+          "lei_seca": [
+            [
+              "Art. 789, caput, CLT",
+              "Custas processuais de 2% sobre o valor da causa/condenação/acordo, com mínimo de R$ 10,64 e máximo de 4x o teto do RGPS."
+            ],
+            [
+              "Art. 789, §3º, CLT",
+              "Havendo acordo, as custas são divididas em partes iguais entre os litigantes, salvo convenção diversa."
+            ],
+            [
+              "Art. 790, CLT",
+              "Direito à justiça gratuita para quem percebe até 40% do teto do RGPS ou comprova insuficiência de recursos."
+            ],
+            [
+              "Art. 790-A, CLT",
+              "Isenção de custas para beneficiários da justiça gratuita, entes federativos, autarquias/fundações públicas, MPT e massa falida."
+            ],
+            [
+              "Art. 790-B, CLT",
+              "Honorários periciais pagos pela parte sucumbente no objeto da perícia; se esta for beneficiária da gratuidade, responde a União."
+            ],
+            [
+              "Art. 791-A, caput, CLT",
+              "Honorários advocatícios sucumbenciais de 5% a 15% sobre a liquidação da sentença, o proveito econômico ou o valor atualizado da causa."
+            ],
+            [
+              "Art. 791-A, §3º, CLT",
+              "Sucumbência recíproca gera honorários recíprocos entre as partes, vedada a compensação."
+            ],
+            [
+              "Art. 791-A, §4º, CLT",
+              "Honorários do beneficiário da gratuidade vencido ficam sob condição suspensiva de exigibilidade por 2 anos."
+            ],
+            [
+              "Art. 819, CLT",
+              "Honorários do intérprete pagos pela parte sucumbente, ou pela União quando o vencido for beneficiário da justiça gratuita."
+            ],
+            [
+              "Art. 899, caput, CLT",
+              "Depósito recursal como pressuposto de admissibilidade do recurso da parte condenada em pecúnia, a título de garantia do juízo."
+            ],
+            [
+              "Art. 899, §§9º e 10, CLT",
+              "Isenção total do depósito recursal (gratuidade, entes públicos, MPT, massa falida, filantrópicas, recuperação judicial) e redução pela metade (sem fins lucrativos, doméstico, MEI, ME e EPP)."
+            ],
+            [
+              "Súmula 341, TST",
+              "Responsabilidade pelo pagamento dos honorários periciais é da parte sucumbente na pretensão objeto da perícia, salvo se beneficiária da justiça gratuita."
             ]
           ]
         }
@@ -1190,6 +1712,68 @@
               "Indelegabilidade da competência tributária; delegabilidade apenas da capacidade tributária ativa."
             ]
           ]
+        },
+        "2": {
+          "teoria": "Os princípios constitucionais tributários (art. 150 da CF, essencialmente) são as garantias que limitam o poder de tributar dos entes federativos, protegendo o contribuinte de cobranças arbitrárias. O princípio da legalidade exige lei para instituir, majorar, reduzir ou extinguir tributo — e não basta lei genérica: ela precisa definir fato gerador, sujeitos, base de cálculo e alíquota. Isenções, reduções de base de cálculo e anistias exigem lei específica. Medida provisória pode instituir/majorar tributo, desde que a matéria não seja reservada à lei complementar e, no caso de imposto, seja convertida em lei até o fim do exercício em que editada.\n\nO princípio da isonomia veda tratamento desigual entre contribuintes em situação equivalente, vedando privilégios por ocupação profissional ou função (ligado à capacidade contributiva). O princípio da irretroatividade impede que a lei tributária alcance fatos geradores ocorridos antes de sua vigência — com exceções do CTN (retroatividade benigna e lei interpretativa).\n\nAs anterioridades protegem o contribuinte de surpresas fiscais: a anterioridade anual veda cobrar tributo no mesmo exercício financeiro da lei que o instituiu ou aumentou; a nonagesimal exige 90 dias entre a publicação e a cobrança. Elas se aplicam cumulativamente na maioria dos tributos, mas cada uma tem sua própria lista de exceções (II, IE, IOF, IR foge só da nonagesimal, IPI foge só da anual, empréstimo compulsório de guerra/calamidade e IEG fogem de ambas).\n\nO princípio do não confisco veda que o tributo (ou a multa) tenha efeito de confisco, avaliado casuisticamente pelo STF. A liberdade de tráfego proíbe usar tributo interestadual/intermunicipal para limitar o direito de ir e vir, ressalvado o pedágio pela utilização de vias. Por fim, a pecúnia non olet determina interpretação objetiva do fato gerador: o tributo incide mesmo sobre rendimentos de atividade ilícita, pois o que importa é a ocorrência do fato gerador, não a validade do ato que o originou.",
+          "referencia": "Gabaritaço - Tributário, Dicas 01 a 15 (seção \"Princípios Tributários\"); Revisão - Tributário, seção \"Princípios Tributários\".",
+          "lei_seca": [
+            [
+              "Art. 150, I, CF",
+              "Princípio da legalidade: veda exigir ou aumentar tributo sem lei que o estabeleça."
+            ],
+            [
+              "Art. 97, CTN",
+              "Reserva legal: só a lei institui tributo, define fato gerador, fixa alíquota/base de cálculo e cominações de penalidade."
+            ],
+            [
+              "Art. 150, §6º, CF",
+              "Isenção, redução de base de cálculo, crédito presumido, anistia e remissão só por lei específica."
+            ],
+            [
+              "Art. 150, II, CF",
+              "Princípio da isonomia: veda tratamento desigual entre contribuintes em situação equivalente."
+            ],
+            [
+              "Art. 145, §1º, CF",
+              "Princípio da capacidade contributiva, fundamento da isonomia tributária."
+            ],
+            [
+              "Art. 150, III, \"a\", CF",
+              "Irretroatividade: veda cobrar tributo sobre fato gerador ocorrido antes da lei que o instituiu/aumentou."
+            ],
+            [
+              "Art. 106, CTN",
+              "Exceções à irretroatividade (lei interpretativa e retroatividade benigna em matéria de infração)."
+            ],
+            [
+              "Art. 150, III, \"b\", CF",
+              "Anterioridade anual: veda cobrar tributo no mesmo exercício financeiro da publicação da lei."
+            ],
+            [
+              "Art. 150, III, \"c\", CF",
+              "Anterioridade nonagesimal: veda cobrar tributo antes de 90 dias da publicação da lei."
+            ],
+            [
+              "Art. 150, §1º, CF",
+              "Lista as exceções às anterioridades anual e nonagesimal (II, IE, IOF, IPI, IEG, empréstimo compulsório etc.)."
+            ],
+            [
+              "Art. 150, IV, CF",
+              "Princípio do não confisco: veda tributo com efeito confiscatório."
+            ],
+            [
+              "Art. 150, V, CF",
+              "Liberdade de tráfego: veda limitar tráfego de pessoas/bens por tributo interestadual/intermunicipal, ressalvado o pedágio."
+            ],
+            [
+              "Art. 118, CTN",
+              "Pecúnia non olet: interpretação objetiva do fato gerador, independente da validade jurídica do ato praticado."
+            ],
+            [
+              "Súmula Vinculante 50, STF",
+              "Norma que altera prazo de recolhimento não se sujeita ao princípio da anterioridade."
+            ]
+          ]
         }
       }
     }
@@ -1198,69 +1782,139 @@
     "constitucional": {
       "1": {
         "firstStudiedWeek": 1,
+        "reviews": [
+          2
+        ],
+        "nextReviewWeek": 3
+      },
+      "2": {
+        "firstStudiedWeek": 2,
         "reviews": [],
-        "nextReviewWeek": 2
+        "nextReviewWeek": 3
       }
     },
     "administrativo": {
       "1": {
         "firstStudiedWeek": 1,
+        "reviews": [
+          2
+        ],
+        "nextReviewWeek": 3
+      },
+      "2": {
+        "firstStudiedWeek": 2,
         "reviews": [],
-        "nextReviewWeek": 2
+        "nextReviewWeek": 3
       }
     },
     "civil": {
       "1": {
         "firstStudiedWeek": 1,
+        "reviews": [
+          2
+        ],
+        "nextReviewWeek": 3
+      },
+      "2": {
+        "firstStudiedWeek": 2,
         "reviews": [],
-        "nextReviewWeek": 2
+        "nextReviewWeek": 3
       }
     },
     "processoCivil": {
       "1": {
         "firstStudiedWeek": 1,
+        "reviews": [
+          2
+        ],
+        "nextReviewWeek": 3
+      },
+      "2": {
+        "firstStudiedWeek": 2,
         "reviews": [],
-        "nextReviewWeek": 2
+        "nextReviewWeek": 3
       }
     },
     "penal": {
       "1": {
         "firstStudiedWeek": 1,
+        "reviews": [
+          2
+        ],
+        "nextReviewWeek": 3
+      },
+      "2": {
+        "firstStudiedWeek": 2,
         "reviews": [],
-        "nextReviewWeek": 2
+        "nextReviewWeek": 3
       }
     },
     "processoPenal": {
       "1": {
         "firstStudiedWeek": 1,
+        "reviews": [
+          2
+        ],
+        "nextReviewWeek": 3
+      },
+      "2": {
+        "firstStudiedWeek": 2,
         "reviews": [],
-        "nextReviewWeek": 2
+        "nextReviewWeek": 3
       }
     },
     "etica": {
       "1": {
         "firstStudiedWeek": 1,
-        "reviews": [],
-        "nextReviewWeek": 2
+        "reviews": [
+          2
+        ],
+        "nextReviewWeek": 3
       },
       "2": {
         "firstStudiedWeek": 1,
+        "reviews": [
+          2
+        ],
+        "nextReviewWeek": 3
+      },
+      "3": {
+        "firstStudiedWeek": 2,
         "reviews": [],
-        "nextReviewWeek": 2
+        "nextReviewWeek": 3
+      },
+      "4": {
+        "firstStudiedWeek": 2,
+        "reviews": [],
+        "nextReviewWeek": 3
       }
     },
     "processoDoTrabalho": {
       "1": {
         "firstStudiedWeek": 1,
+        "reviews": [
+          2
+        ],
+        "nextReviewWeek": 3
+      },
+      "2": {
+        "firstStudiedWeek": 2,
         "reviews": [],
-        "nextReviewWeek": 2
+        "nextReviewWeek": 3
       }
     },
     "tributario": {
       "1": {
         "firstStudiedWeek": 1,
+        "reviews": [
+          2
+        ],
+        "nextReviewWeek": 3
+      },
+      "2": {
+        "firstStudiedWeek": 2,
         "reviews": [],
-        "nextReviewWeek": 2
+        "nextReviewWeek": 3
       }
     }
   },

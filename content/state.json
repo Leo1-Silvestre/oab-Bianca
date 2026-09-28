@@ -1,8 +1,8 @@
 {
   "examDate": "2027-01-10",
   "startDate": "2026-09-14",
-  "weeksTotal": 16,
-  "currentWeek": 2,
+  "weeksTotal": 15,
+  "currentWeek": 3,
   "pureReviewFromWeek": 15,
   "reviewIntervals": [
     1,
@@ -224,6 +224,64 @@
               "É assegurado o direito à proteção dos dados pessoais, inclusive nos meios digitais."
             ]
           ]
+        },
+        "3": {
+          "teoria": "Os remédios constitucionais são ações previstas no art. 5º da CF/88 (e no art. 129, III, para a ação civil pública) que o cidadão usa para proteger direitos fundamentais ameaçados ou violados por ilegalidade ou abuso de poder. É um bloco de decoreba, mas com lógica: cada remédio protege um tipo específico de direito, e boa parte das questões testa exatamente \"qual remédio cabe nesse caso\".\n\nO habeas corpus (art. 5º, LXVIII) protege a liberdade de locomoção — o direito de ir e vir. Pode ser preventivo (salvo-conduto, quando há ameaça) ou repressivo (soltura, quando a prisão já ocorreu). É o único remédio que dispensa advogado: qualquer pessoa pode impetrar, em causa própria ou em favor de terceiro, e é gratuito.\n\nO habeas data (art. 5º, LXXII) protege o acesso a informações pessoais em registros ou bancos de dados de entidades governamentais ou de caráter público, e a retificação desses dados. Diferente do HC, exige prova de recusa prévia na esfera administrativa (ou decurso de prazo sem resposta) e exige advogado. Só o titular dos dados tem legitimidade para impetrar.\n\nO mandado de segurança (art. 5º, LXIX e LXX) é residual: protege direito líquido e certo (comprovável de plano, por prova pré-constituída, sem dilação probatória) sempre que não for caso de HC ou HD. Pode ser individual (qualquer pessoa física ou jurídica) ou coletivo (partido político com representação no Congresso, sindicato, entidade de classe, ou associação em funcionamento há mais de 1 ano). Tem prazo decadencial de 120 dias.\n\nO mandado de injunção (art. 5º, LXXI) resolve a falta de norma regulamentadora que inviabiliza o exercício de um direito, liberdade ou prerrogativa constitucional. Não confunda com a ADO: o MI é processo subjetivo (há partes, efeitos inter partes), enquanto a ADO é controle de constitucionalidade (processo objetivo, sem partes, efeitos erga omnes, competência exclusiva do STF).\n\nA ação popular (art. 5º, LXXIII) só pode ser proposta por cidadão (portador de título de eleitor) — pessoa jurídica não tem legitimidade — para anular ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente ou ao patrimônio histórico e cultural. O autor fica isento de custas e ônus de sucumbência, salvo má-fé comprovada.\n\nPor fim, a ação civil pública (art. 129, III, CF + Lei 7.347/85), embora não conste tecnicamente do rol do art. 5º, é estudada junto por proteger interesses difusos, coletivos e individuais homogêneos, com legitimidade ampla: Ministério Público, Defensoria Pública, entes federativos, autarquias, empresas públicas, sociedades de economia mista, fundações e associações constituídas há mais de 1 ano.",
+          "referencia": "Gabaritaço - Constitucional, Dicas 15 a 21 (Remédios Constitucionais); Revisão - Constitucional, seção \"Remédios Constitucionais\".",
+          "lei_seca": [
+            [
+              "Art. 5º, LXVIII, CF",
+              "Habeas corpus contra ilegalidade ou abuso de poder que viole ou ameace a liberdade de locomoção."
+            ],
+            [
+              "Art. 5º, LXIX, CF",
+              "Mandado de segurança individual para proteger direito líquido e certo não amparado por HC/HD."
+            ],
+            [
+              "Art. 23, Lei 12.016/2009",
+              "Prazo decadencial de 120 dias para impetrar mandado de segurança."
+            ],
+            [
+              "Art. 5º, LXX, CF",
+              "Legitimados do mandado de segurança coletivo (partido político, sindicato, entidade de classe, associação)."
+            ],
+            [
+              "Art. 5º, LXXI, CF",
+              "Mandado de injunção diante da falta de norma regulamentadora que inviabilize direito constitucional."
+            ],
+            [
+              "Art. 8º, Lei 13.300/2016",
+              "Procedimento do mandado de injunção individual e coletivo."
+            ],
+            [
+              "Art. 5º, LXXII, CF",
+              "Habeas data para acesso ou retificação de dados pessoais em bancos governamentais ou de caráter público."
+            ],
+            [
+              "Art. 5º, LXXIII, CF",
+              "Ação popular para anular ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural."
+            ],
+            [
+              "Lei 4.717/1965",
+              "Disciplina o rito da ação popular; autor isento de custas e sucumbência salvo má-fé."
+            ],
+            [
+              "Art. 129, III, CF",
+              "Legitima o Ministério Público a propor ação civil pública."
+            ],
+            [
+              "Art. 1º, Lei 7.347/1985",
+              "Objeto da ação civil pública (danos ao meio ambiente, consumidor, ordem econômica, patrimônio público e cultural, interesses difusos e coletivos)."
+            ],
+            [
+              "Art. 5º, Lei 7.347/1985",
+              "Rol de legitimados da ação civil pública."
+            ],
+            [
+              "Art. 5º, LXXVII, CF",
+              "Gratuidade das ações de habeas corpus e habeas data."
+            ]
+          ]
         }
       }
     },
@@ -392,6 +450,52 @@
             [
               "Súmula 510, STF",
               "Praticado o ato por autoridade no exercício de competência delegada, contra ela (e não contra o delegante) cabe o mandado de segurança."
+            ]
+          ]
+        },
+        "3": {
+          "teoria": "Hoje vemos como o Estado se organiza para executar suas funções: Administração Direta (os próprios entes federativos) e Administração Indireta (entidades com personalidade jurídica própria, criadas por eles).\n\nDuas técnicas de distribuição de competências são a armadilha clássica de prova: desconcentração e descentralização. A desconcentração é interna — a mesma pessoa jurídica cria órgãos (ministérios, secretarias, departamentos) para organizar melhor suas atividades, sem gerar nova personalidade jurídica. Existe hierarquia entre os órgãos, e quem responde por eventual dano é sempre a pessoa jurídica a que o órgão pertence. Já a descentralização é externa: o Estado transfere o exercício (ou a titularidade) de uma atividade a outra pessoa jurídica, criada especificamente para isso. Aqui não há hierarquia, apenas controle finalístico (tutela).\n\nA descentralização ocorre de duas formas: por outorga, quando a lei cria a entidade e transfere a ela a titularidade E a execução do serviço — só cabe a pessoas jurídicas de direito público da indireta (autarquias e fundações públicas de direito público); e por delegação, quando se transfere apenas a execução, mantendo a titularidade com o Estado — pode ser feita por lei (para entidades de direito privado da indireta) ou por contrato de concessão/permissão (para particulares).\n\nAutarquia é a entidade clássica da outorga: pessoa jurídica de direito público, criada diretamente por lei específica, com capacidade administrativa própria para exercer atividade típica de Estado. Tem autonomia administrativa, técnica e financeira — mas não plena, pois se sujeita a controle finalístico do ente criador. Goza de prerrogativas públicas: imunidade tributária recíproca, bens impenhoráveis/imprescritíveis/inalienáveis, execução fiscal e prescrição quinquenal. Responde objetivamente por danos.\n\nDentro do gênero autarquia, duas espécies merecem atenção. As autarquias especiais/em regime especial (ex.: agências reguladoras) têm maior independência do Executivo — dirigentes com mandato fixo e estabilidade. As autarquias profissionais (conselhos de fiscalização, como CRM, CREA, CAU) fiscalizam o exercício de profissões regulamentadas, cobram anuidades (não impostos) e exercem poder de polícia sobre a categoria — exceto a OAB, que o STF classifica como entidade sui generis, fora do regime de autarquia comum.\n\nFundação pública é instituída para atividades sociais sem fins lucrativos (saúde, cultura, pesquisa, educação, assistência social). Diferente da autarquia, sua criação é apenas autorizada por lei — a personalidade jurídica só nasce depois, com os atos constitutivos. Pode ser de direito público (regime quase idêntico ao de autarquia) ou de direito privado (regime híbrido, servidores celetistas), a depender da lei instituidora — mas em ambos os casos responde objetivamente e se sujeita a controle finalístico do ente que a criou.",
+          "referencia": "Gabaritaço - Administrativo, Dicas 16 a 21 e 24 (Organização da Adm. Pública); Revisão - Administrativo, seção \"Organização da Administração Pública\".",
+          "lei_seca": [
+            [
+              "Art. 37, caput, CF/88",
+              "Princípios expressos da Administração Pública, aplicáveis também às entidades da administração indireta."
+            ],
+            [
+              "Art. 37, §6º, CF/88",
+              "Responsabilidade civil objetiva das pessoas jurídicas de direito público e das de direito privado prestadoras de serviço público (alcança autarquias e fundações)."
+            ],
+            [
+              "Art. 37, XIX, CF/88",
+              "Autarquia é instituída diretamente por lei específica; lei complementar define as áreas de atuação de fundações públicas."
+            ],
+            [
+              "Art. 84, VI, \"a\", CF/88",
+              "Competência do Chefe do Executivo para dispor, por decreto, sobre organização e funcionamento da administração, sem criar/extinguir órgãos (fundamento da desconcentração)."
+            ],
+            [
+              "Art. 150, VI, \"a\", CF/88",
+              "Imunidade tributária recíproca entre os entes federativos quanto a impostos sobre patrimônio, renda e serviços."
+            ],
+            [
+              "Art. 150, §2º, CF/88",
+              "Extensão da imunidade tributária recíproca às autarquias e fundações instituídas e mantidas pelo Poder Público."
+            ],
+            [
+              "Art. 5º, I e IV, Decreto-Lei 200/67",
+              "Conceitua autarquia e fundação pública como entidades dotadas de personalidade jurídica própria, integrantes da administração indireta."
+            ],
+            [
+              "Lei 6.830/80 (Lei de Execução Fiscal)",
+              "Regula a cobrança judicial da dívida ativa (tributária e não tributária) das autarquias."
+            ],
+            [
+              "Decreto 20.910/32",
+              "Fixa em 5 anos o prazo de prescrição das dívidas passivas e de todo e qualquer direito/ação contra a Fazenda Pública, aplicável também às autarquias."
+            ],
+            [
+              "Lei 12.514/2011",
+              "Disciplina a cobrança de anuidades pelos conselhos profissionais (autarquias corporativas), como CRM, CREA e CAU."
             ]
           ]
         }
@@ -623,6 +727,64 @@
               "Salvo estipulação em contrário, o cedente não responde pela solvência do devedor, apenas pela existência do crédito ao tempo em que cedeu."
             ]
           ]
+        },
+        "3": {
+          "teoria": "Quando o devedor não cumpre a obrigação, o primeiro passo é distinguir inadimplemento absoluto de inadimplemento relativo (mora). No inadimplemento absoluto, a prestação se tornou impossível ou inútil ao credor — não há mais como cumpri-la de forma proveitosa. A consequência é a extinção da obrigação original, convertida em perdas e danos, com possível resolução do contrato. Já no inadimplemento relativo, ainda há utilidade no cumprimento tardio: a obrigação persiste, mas o devedor responde pelo atraso.\n\nA mora tem duas faces. A mora do devedor (solvendi) ocorre quando ele não paga no tempo, lugar ou forma devidos; ele responde por perdas e danos, juros, atualização monetária e honorários advocatícios, e — ponto que cai bastante em prova — passa a responder até por caso fortuito e força maior ocorridos durante o atraso, salvo se provar que o dano ocorreria de qualquer forma. A mora do credor (accipiendi) surge quando ele se recusa a receber a prestação nas condições devidas, independentemente de culpa; como efeito, o devedor deixa de responder pela conservação da coisa (salvo dolo) e o credor deve ressarcir as despesas de guarda.\n\nOs juros se dividem em moratórios (penalizam o atraso no pagamento, decorrem do inadimplemento) e compensatórios (remuneram o uso do capital emprestado ou investido, como em contratos de mútuo). Não confundir os dois: o moratório é sanção; o compensatório é remuneração contratual.\n\nA cláusula penal é a multa contratual pré-fixada para o caso de inadimplemento, dispensando prova de prejuízo. Divide-se em moratória (dissuade o atraso ou o descumprimento de cláusula acessória — é cumulável com o cumprimento da obrigação principal) e compensatória (pré-fixa a indenização pelo inadimplemento total — funciona como alternativa em favor do credor, que escolhe entre exigir a obrigação ou o valor da cláusula, mas não ambos). Em qualquer caso, o valor da pena não pode exceder o da obrigação principal, podendo o juiz reduzi-la equitativamente se a obrigação for cumprida em parte.\n\nPor fim, as arras (ou sinal) são valores/bens entregues como garantia do contrato. Confirmatórias: reforçam o vínculo; em caso de inadimplemento, cabe indenização suplementar mediante prova de prejuízo maior, servindo as arras como indenização mínima. Penitenciais: pressupõem direito de arrependimento contratual; têm função unicamente indenizatória (sem indenização suplementar) — quem deu perde as arras, quem recebeu devolve em dobro.",
+          "referencia": "Gabaritaço - Civil, Dicas 17 a 22 (Inadimplemento, Mora, Cláusula Penal, Arras); Revisão - Civil, seção \"Obrigações: Inadimplemento\".",
+          "lei_seca": [
+            [
+              "Art. 389, CC",
+              "Não cumprida a obrigação, o devedor responde por perdas e danos, juros, atualização monetária e honorários de advogado."
+            ],
+            [
+              "Art. 394, CC",
+              "Considera-se em mora o devedor que não paga e o credor que não quer receber no tempo, lugar e forma devidos."
+            ],
+            [
+              "Art. 395, CC",
+              "O devedor em mora responde pelos prejuízos que causar, mais juros e atualização monetária; se a prestação ficar inútil, o credor pode enjeitá-la e exigir perdas e danos."
+            ],
+            [
+              "Art. 399, CC",
+              "O devedor em mora responde até por caso fortuito/força maior ocorridos durante o atraso, salvo prova de isenção de culpa."
+            ],
+            [
+              "Art. 400, CC",
+              "A mora do credor isenta o devedor sem dolo da conservação da coisa e obriga o credor a ressarcir despesas de guarda."
+            ],
+            [
+              "Art. 402, CC",
+              "Perdas e danos abrangem o que o credor efetivamente perdeu e o que razoavelmente deixou de lucrar."
+            ],
+            [
+              "Art. 408, CC",
+              "Incorre de pleno direito na cláusula penal o devedor que, culposamente, deixa de cumprir a obrigação ou se constitui em mora."
+            ],
+            [
+              "Art. 412, CC",
+              "O valor da cominação imposta na cláusula penal não pode exceder o da obrigação principal."
+            ],
+            [
+              "Art. 413, CC",
+              "O juiz deve reduzir equitativamente a cláusula penal se a obrigação foi cumprida em parte ou se o valor for manifestamente excessivo."
+            ],
+            [
+              "Art. 416 c/c parágrafo único, CC",
+              "A cláusula penal independe de prova de prejuízo; não cabe indenização suplementar além dela, salvo convenção em contrário."
+            ],
+            [
+              "Art. 418, CC",
+              "Nas arras confirmatórias, a parte inocente pode ter o contrato por desfeito e reter as arras (ou exigir sua devolução em dobro)."
+            ],
+            [
+              "Art. 419, CC",
+              "Cabe indenização suplementar nas arras confirmatórias, provado maior prejuízo, valendo as arras como taxa mínima."
+            ],
+            [
+              "Art. 420, CC",
+              "Havendo direito de arrependimento (arras penitenciais), as arras têm função unicamente indenizatória, sem indenização suplementar."
+            ]
+          ]
         }
       }
     },
@@ -824,6 +986,64 @@
               "Faz jus à gratuidade da justiça a pessoa jurídica, com ou sem fins lucrativos, que comprovar sua impossibilidade de arcar com os encargos processuais."
             ]
           ]
+        },
+        "3": {
+          "teoria": "Intervenção de terceiros é o mecanismo pelo qual alguém que não é parte original passa a integrar um processo em andamento, para proteger direito próprio ou o de outrem afetado pela decisão. O CPC prevê cinco modalidades, cada uma com lógica própria.\n\nNa assistência, um terceiro com interesse jurídico (não mero interesse econômico ou afetivo) ingressa para ajudar uma das partes a vencer, porque o resultado da causa pode repercutir sobre sua própria relação jurídica. Pode ocorrer a qualquer tempo e grau de jurisdição. Há duas espécies: assistência simples (o assistente tem vínculo com o assistido, mas não com o adversário, e atua como auxiliar, sujeito aos mesmos ônus da parte) e assistência litisconsorcial (o assistente é cotitular da relação jurídica discutida, sendo tratado como litisconsorte).\n\nA denunciação da lide serve para viabilizar o direito de regresso dentro do mesmo processo, evitando uma ação autônoma futura. Cabe em duas hipóteses centrais: evicção (o alienante garante o adquirente) e obrigação legal ou contratual de indenizar em regresso. O autor denuncia na petição inicial; o réu, na contestação, sob pena de preclusão. É vedada nas relações de consumo. Julgada procedente a ação, o autor pode executar a sentença também contra o denunciado, nos limites da condenação regressiva.\n\nO chamamento ao processo é exclusivo do réu, cabível apenas na contestação, e serve para trazer para o processo os demais coobrigados (fiadores, afiançado, devedores solidários), formando litisconsórcio passivo ulterior. A citação do chamado deve ocorrer em 30 dias, sob pena de o chamamento perder efeito. Diferente da denunciação, aqui todos respondem solidariamente perante o autor, e quem pagar poderá executar os demais com base na própria sentença.\n\nO incidente de desconsideração da personalidade jurídica (IDPJ) permite atingir o patrimônio de sócios ou administradores quando há abuso da personalidade jurídica (desvio de finalidade ou confusão patrimonial). Cabe em qualquer fase do processo, nunca de ofício. Se pedido já na petição inicial, o sócio integra o processo desde o início, sem incidente autônomo; se pedido depois, instaura-se o incidente, suspendendo o processo principal até o julgamento.\n\nO amicus curiae (\"amigo da corte\") é intervenção atípica, sem vínculo com nenhuma das partes: pessoa física, jurídica, órgão ou entidade especializada é admitida pela relevância, especificidade ou repercussão social da matéria, para colaborar tecnicamente com o juiz. Sua admissão ou inadmissão é irrecorrível.",
+          "referencia": "Gabaritaço - Processo Civil, Dicas 15 a 20 (Intervenção de Terceiros); Revisão - Processo Civil, seção \"Intervenção de Terceiros e Litisconsórcio\".",
+          "lei_seca": [
+            [
+              "Art. 119, CPC",
+              "Legitimidade e requisito de interesse jurídico para requerer assistência a qualquer das partes."
+            ],
+            [
+              "Art. 121, CPC",
+              "Assistente simples atua como auxiliar da parte assistida, sujeitando-se aos mesmos ônus processuais dela."
+            ],
+            [
+              "Art. 122, CPC",
+              "Na assistência litisconsorcial, o assistente é considerado litisconsorte da parte principal."
+            ],
+            [
+              "Art. 125, CPC",
+              "Hipóteses de cabimento da denunciação da lide: evicção e obrigação legal/contratual de indenizar em regresso."
+            ],
+            [
+              "Art. 126, CPC",
+              "Momento da denunciação: autor na petição inicial, réu na contestação, sob pena de preclusão."
+            ],
+            [
+              "Art. 88, CDC",
+              "Veda a denunciação da lide nas relações de consumo."
+            ],
+            [
+              "Art. 130, CPC",
+              "Hipóteses de cabimento do chamamento ao processo (afiançado, fiadores, devedores solidários)."
+            ],
+            [
+              "Art. 131, CPC",
+              "Prazo de 30 dias para citação do chamado, sob pena de ineficácia do chamamento."
+            ],
+            [
+              "Art. 132, CPC",
+              "Sentença de procedência vale como título executivo em favor de quem pagou, contra os demais coobrigados."
+            ],
+            [
+              "Art. 133, CPC",
+              "Legitimidade para requerer o IDPJ: parte ou Ministério Público, vedada instauração de ofício."
+            ],
+            [
+              "Art. 134, CPC",
+              "Cabimento do IDPJ em todas as fases do processo de conhecimento, no cumprimento de sentença e na execução."
+            ],
+            [
+              "Art. 136, CPC",
+              "O incidente de desconsideração da personalidade jurídica é resolvido por decisão interlocutória."
+            ],
+            [
+              "Art. 138, CPC",
+              "Amicus curiae: cabimento por relevância da matéria, especificidade do tema ou repercussão social; decisão sobre admissão é irrecorrível."
+            ]
+          ]
         }
       }
     },
@@ -1003,6 +1223,64 @@
               "Consuma-se o roubo com a inversão da posse mediante violência ou grave ameaça, ainda que por breve tempo, mesmo seguida de perseguição imediata e recuperação da coisa."
             ]
           ]
+        },
+        "3": {
+          "teoria": "Depois de estudar fato típico, chegamos aos dois próximos substratos do crime: ilicitude e culpabilidade. Ilicitude é a contrariedade entre a conduta e o ordenamento jurídico. O CP prevê quatro excludentes: estado de necessidade, legítima defesa, estrito cumprimento do dever legal e exercício regular de direito — presente qualquer uma delas, o fato continua típico, mas deixa de ser crime.\n\nNa legítima defesa, o agente repele, usando moderadamente os meios necessários, injusta agressão atual ou iminente a direito próprio ou de terceiro. Desde o Pacote Anticrime, também age em legítima defesa o agente de segurança que repele agressão ou risco de agressão a vítima mantida refém. Cuidado com a legítima defesa putativa: o agente imagina agressão que não existe — é hipótese distinta, tratada como descriminante putativa, e não legítima defesa real.\n\nNo estado de necessidade, o agente sacrifica bem jurídico alheio para salvar de perigo atual — não provocado por ele e inevitável de outro modo — direito próprio ou alheio de valor igual ou superior ao sacrificado; se o bem salvo for de valor menor, não há exclusão da ilicitude, mas a pena pode ser reduzida de 1 a 2/3. Estrito cumprimento do dever legal exige que o agente cumpra obrigação imposta por lei; exercício regular de direito cobre o cidadão comum agindo dentro de conduta autorizada pelo ordenamento.\n\nCulpabilidade é o juízo de reprovação sobre quem praticou fato típico e ilícito, formado por três elementos: imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa — a ausência de qualquer um deles isenta de pena, embora o fato continue crime. Imputabilidade é afastada por menoridade (menores de 18 anos, critério biológico puro) e por doença mental/desenvolvimento incompleto ou retardado. Emoção, paixão e embriaguez voluntária ou culposa NÃO excluem a imputabilidade; já a embriaguez completa proveniente de caso fortuito ou força maior exclui a culpabilidade, e a incompleta reduz a pena de 1/3 a 2/3.\n\nO erro de proibição afeta a potencial consciência da ilicitude: o agente sabe o que faz, mas acredita, equivocadamente, que é lícito. Se inevitável, isenta de pena; se evitável, reduz de 1/6 a 1/3. Por fim, a inexigibilidade de conduta diversa (coação moral irresistível ou obediência hierárquica a ordem não manifestamente ilegal) afasta a culpabilidade quando, na situação concreta, não era possível exigir do agente comportamento diverso.",
+          "referencia": "Gabaritaço - Penal, Dicas 14 a 23 (Ilicitude e Culpabilidade); Revisão - Penal, seções \"Ilicitude\" e \"Culpabilidade\".",
+          "lei_seca": [
+            [
+              "Art. 23, CP",
+              "Rol das excludentes de ilicitude: estado de necessidade, legítima defesa, estrito cumprimento do dever legal e exercício regular de direito."
+            ],
+            [
+              "Art. 24, CP",
+              "Estado de necessidade: sacrifício de bem alheio para salvar de perigo atual não provocado e inevitável."
+            ],
+            [
+              "Art. 25, CP",
+              "Legítima defesa: uso moderado dos meios necessários para repelir injusta agressão atual ou iminente."
+            ],
+            [
+              "Art. 20, §1º, CP",
+              "Descriminante putativa: erro plenamente justificado pelas circunstâncias sobre situação fática."
+            ],
+            [
+              "Art. 21, CP",
+              "Erro de proibição: isenta de pena (se inevitável) ou reduz de 1/6 a 1/3 (se evitável)."
+            ],
+            [
+              "Art. 22, CP",
+              "Coação irresistível e obediência hierárquica a ordem não manifestamente ilegal: só responde o autor da coação ou da ordem."
+            ],
+            [
+              "Art. 26, caput, CP",
+              "Inimputabilidade por doença mental ou desenvolvimento mental incompleto/retardado (critério biopsicológico)."
+            ],
+            [
+              "Art. 26, parágrafo único, CP",
+              "Semi-imputabilidade: perturbação de saúde mental que reduz a capacidade de entendimento, com redução de pena de 1/3 a 2/3."
+            ],
+            [
+              "Art. 27, CP",
+              "Menores de 18 anos são penalmente inimputáveis, sujeitos à legislação especial (ECA)."
+            ],
+            [
+              "Art. 28, I e II, CP",
+              "Emoção, paixão e embriaguez voluntária ou culposa não excluem a imputabilidade penal."
+            ],
+            [
+              "Art. 28, §1º, CP",
+              "Embriaguez completa proveniente de caso fortuito ou força maior isenta de pena (exclui culpabilidade)."
+            ],
+            [
+              "Art. 28, §2º, CP",
+              "Embriaguez incompleta acidental reduz a pena de 1/3 a 2/3."
+            ],
+            [
+              "Art. 97, CP",
+              "Medida de segurança (internação ou tratamento ambulatorial) para inimputável por doença mental."
+            ]
+          ]
         }
       }
     },
@@ -1166,6 +1444,56 @@
             [
               "Art. 107, CP",
               "Causas de extinção da punibilidade (decadência, perempção, renúncia e perdão aceito estão entre elas)."
+            ]
+          ]
+        },
+        "3": {
+          "teoria": "A competência em processo penal é o critério que define qual juiz ou tribunal tem o poder legal de julgar determinado caso. A primeira distinção fundamental é entre competência absoluta e relativa. A competência absoluta (fixada por matéria ou por prerrogativa de função) não admite prorrogação, pode ser arguida a qualquer tempo e seu desrespeito gera prejuízo presumido. Já a competência relativa (fixada por território, via de regra) admite prorrogação, deve ser arguida na resposta à acusação sob pena de preclusão.\n\nA regra geral de competência territorial é o lugar da infração: adota-se a Teoria do Resultado, segundo a qual o crime se considera praticado no local da consumação ou, na tentativa, no local do último ato de execução. Essa regra resolve os chamados crimes plurilocais. Já os crimes à distância (envolvendo mais de um país) seguem a Teoria da Ubiquidade: local da conduta ou do resultado, o que der ao Brasil poder de julgar. Regras subsidiárias entram quando o lugar da infração é desconhecido: domicílio do réu. No estelionato por meios eletrônicos, a competência é do domicílio da vítima.\n\nQuando não há regra específica de competência, usa-se a prevenção: torna-se competente o juiz que primeiro praticar ato decisório no processo.\n\nConexão e continência são causas de modificação/unificação da competência, para evitar decisões contraditórias. Continência ocorre em concurso de agentes ou concurso formal de crimes; conexão ocorre quando há vínculo entre infrações distintas que recomenda julgamento conjunto. Regra-chave: crime de competência do Tribunal do Júri conexo a outro \"puxa\" a competência para si; concurso entre Justiça Federal e Estadual conexos vai para a Justiça Federal.\n\nSobre Justiça Federal x Estadual: a competência da Justiça Federal é taxativa (crimes contra bens, serviços ou interesse da União, autarquias e empresas públicas federais), e a da Justiça Estadual é residual. Empresa pública federal atrai a Justiça Federal; sociedade de economia mista (mesmo federal) vai para a Justiça Estadual.\n\nPor fim, o foro por prerrogativa de função (\"foro privilegiado\") define a competência pelo cargo exercido, não pela natureza do crime, e prevalece sobre a regra geral — exceto que a competência constitucional do júri prevalece sobre foro por prerrogativa fixado só por Constituição Estadual.",
+          "referencia": "Gabaritaço - Processo Penal, Dicas 16 a 23 (Competência); Revisão - Processo Penal, seção \"Competência\".",
+          "lei_seca": [
+            [
+              "Art. 69, CPP",
+              "Rol dos critérios determinantes da competência."
+            ],
+            [
+              "Art. 70, CPP",
+              "Regra geral: competência pelo lugar da consumação (ou último ato de execução, na tentativa)."
+            ],
+            [
+              "Art. 70, §4º, CPP",
+              "Regra especial de competência territorial no estelionato eletrônico (domicílio da vítima)."
+            ],
+            [
+              "Art. 6º, CP",
+              "Teoria da Ubiquidade para crimes à distância (lugar da conduta ou do resultado)."
+            ],
+            [
+              "Art. 76, CPP",
+              "Hipóteses de conexão (intersubjetiva, objetiva/teleológica e instrumental/probatória)."
+            ],
+            [
+              "Art. 77, CPP",
+              "Hipóteses de continência (concurso de agentes, concurso formal, aberratio ictus/criminis)."
+            ],
+            [
+              "Art. 78, CPP",
+              "Regras para fixação do juízo prevalente nos casos de conexão/continência."
+            ],
+            [
+              "Art. 109, IV, CF",
+              "Competência da Justiça Federal para crimes contra bens/serviços/interesse da União, autarquias e empresas públicas federais."
+            ],
+            [
+              "Súmula 42, STJ",
+              "Compete à Justiça Comum Estadual julgar causas envolvendo sociedade de economia mista."
+            ],
+            [
+              "Súmula 122, STJ",
+              "Conexão entre crime federal e estadual: julgamento unificado na Justiça Federal."
+            ],
+            [
+              "Súmula Vinculante 45",
+              "Competência constitucional do Tribunal do Júri prevalece sobre foro por prerrogativa de função fixado só por Constituição Estadual."
             ]
           ]
         }
@@ -1438,6 +1766,74 @@
               "Atos que o estagiário pode praticar isoladamente, sob responsabilidade do advogado: assinar petição de juntada, retirar/devolver autos, obter certidões e praticar atos extrajudiciais mediante autorização ou substabelecimento."
             ]
           ]
+        },
+        "5": {
+          "teoria": "O Estatuto da Advocacia protege o exercício da profissão por meio de prerrogativas — não são privilégios pessoais, mas garantias funcionais indispensáveis para que o advogado defenda seu cliente com independência. Este bloco reúne três delas.\n\nPrimeiro, o tratamento isonômico. A advocacia é indispensável à administração da justiça, e por isso o Estatuto deixa claro que não há hierarquia nem subordinação entre advogados, magistrados e membros do Ministério Público — todos devem se tratar com igual consideração e respeito. Na prática, isso aparece de forma bem concreta nas audiências: os advogados do autor e do réu devem ficar no mesmo plano topográfico, equidistantes do juiz, nunca em posição inferior a ele.\n\nSegundo, a comunicação com clientes presos. O advogado tem o direito de se comunicar pessoal e reservadamente com seu cliente, mesmo sem procuração, sempre que ele estiver preso, detido ou recolhido em estabelecimento civil ou militar — mesmo que a lei local considere o preso incomunicável. Essa prerrogativa é tão relevante que sua violação pela autoridade gera nulidade absoluta de qualquer interrogatório ou depoimento colhido sem que o advogado tivesse acesso ao cliente.\n\nTerceiro, a inviolabilidade do escritório e dos instrumentos de trabalho. O advogado tem direito à inviolabilidade de seu local de trabalho, de seus instrumentos profissionais e de sua correspondência escrita, eletrônica, telefônica e telemática, desde que relacionados ao exercício da advocacia. Essa proteção não é absoluta: pode ser quebrada quando houver indícios concretos de que o próprio advogado praticou crime, mediante decisão judicial motivada e mandado de busca e apreensão específico e pormenorizado, cumprido obrigatoriamente na presença de um representante da OAB. Mesmo nesse cenário excepcional, fica vedado o uso de documentos, mídias ou objetos pertencentes aos clientes do advogado investigado.",
+          "referencia": "Gabaritaço - Ética, Dicas 14 e 16; Revisão - Ética, seção \"Direitos e Prerrogativas dos Advogados\".",
+          "lei_seca": [
+            [
+              "Art. 133, CF/88",
+              "A advocacia é indispensável à administração da justiça, fundamento da isonomia com magistratura e MP."
+            ],
+            [
+              "Art. 6º, caput, Lei 8.906/94",
+              "Não há hierarquia nem subordinação entre advogados, magistrados e membros do MP."
+            ],
+            [
+              "Art. 6º, parágrafo único, Lei 8.906/94",
+              "Em audiência, advogados do autor e do réu permanecem no mesmo plano topográfico, equidistantes do magistrado."
+            ],
+            [
+              "Art. 7º, II, Lei 8.906/94",
+              "Inviolabilidade do escritório, dos instrumentos de trabalho e da correspondência relativos à advocacia."
+            ],
+            [
+              "Art. 7º, III, Lei 8.906/94",
+              "Direito de comunicar-se pessoal e reservadamente com o cliente preso, detido ou recolhido, mesmo sem procuração."
+            ],
+            [
+              "Art. 7º, §6º, Lei 8.906/94",
+              "Quebra da inviolabilidade só por decisão judicial motivada, com mandado de busca e apreensão específico, cumprido na presença de representante da OAB."
+            ],
+            [
+              "Art. 154, Código Penal",
+              "Violação de segredo profissional; norma penal que reforça a proteção do sigilo ligado à inviolabilidade."
+            ]
+          ]
+        },
+        "6": {
+          "teoria": "O Estatuto disciplina de forma bem específica o que acontece quando um advogado é preso, exatamente para que a prisão não vire instrumento de perseguição contra quem exerce a profissão.\n\nPrisão em flagrante: o advogado só pode ser preso em flagrante por motivo ligado ao exercício da profissão quando se tratar de crime inafiançável. Nesse caso, ele tem direito à presença de um representante da OAB no momento da lavratura do auto de prisão em flagrante — a ausência desse representante gera nulidade do ato. Se a prisão não tiver relação com a advocacia, não existe esse direito à presença da OAB durante a lavratura, mas ainda assim a autoridade é obrigada a comunicar expressamente a prisão à seccional da OAB.\n\nPrisão especial (ou diferenciada): antes do trânsito em julgado de sentença condenatória, o advogado não pode ser recolhido a uma cela comum. Ele tem direito a ficar em Sala de Estado Maior — um espaço com instalações e comodidades condignas — e, na falta desse local, o direito se converte em prisão domiciliar. É dever do Poder Judiciário e do Poder Executivo instalar salas especiais permanentes para advogados em juizados, fóruns, tribunais, delegacias e presídios.\n\nColaboração premiada: é expressamente vedado ao advogado firmar acordo de colaboração premiada que prejudique quem seja ou tenha sido seu cliente — a vedação vale tanto para cliente atual quanto para ex-cliente. A lógica é proteger a confiança que sustenta a relação advogado-cliente. Descumprir essa vedação sujeita o advogado a processo disciplinar, que pode culminar na sanção mais grave prevista no Estatuto — a exclusão dos quadros da OAB —, sem prejuízo das penas do crime de violação de segredo profissional.",
+          "referencia": "Gabaritaço - Ética, Dicas 15, 17 e 20; Revisão - Ética, seção \"Direitos e Prerrogativas dos Advogados\".",
+          "lei_seca": [
+            [
+              "Art. 7º, §3º, Lei 8.906/94",
+              "O advogado só pode ser preso em flagrante, por motivo de exercício da profissão, em caso de crime inafiançável."
+            ],
+            [
+              "Art. 7º, IV, Lei 8.906/94",
+              "Direito à presença de representante da OAB na lavratura do auto de prisão em flagrante, sob pena de nulidade."
+            ],
+            [
+              "Art. 7º, V, Lei 8.906/94",
+              "Direito de não ser recolhido preso antes do trânsito em julgado, senão em Sala de Estado Maior, e, na sua falta, em prisão domiciliar."
+            ],
+            [
+              "Art. 7º, §4º, Lei 8.906/94",
+              "Obrigação do Poder Judiciário e do Poder Executivo de instalar salas especiais permanentes para advogados."
+            ],
+            [
+              "Art. 7º, §6º-I, Lei 8.906/94",
+              "É vedado ao advogado efetuar colaboração premiada contra quem seja ou tenha sido seu cliente."
+            ],
+            [
+              "Art. 35, III, Lei 8.906/94",
+              "A exclusão é a sanção disciplinar cabível ao advogado que violar a vedação de colaboração premiada contra cliente/ex-cliente."
+            ],
+            [
+              "Art. 154, Código Penal",
+              "Violação de segredo profissional; pena cumulável com a sanção disciplinar de exclusão."
+            ]
+          ]
         }
       }
     },
@@ -1589,6 +1985,52 @@
             [
               "Súmula 341, TST",
               "Responsabilidade pelo pagamento dos honorários periciais é da parte sucumbente na pretensão objeto da perícia, salvo se beneficiária da justiça gratuita."
+            ]
+          ]
+        },
+        "3": {
+          "teoria": "Este bloco fecha o entendimento de como a ação trabalhista nasce e tramita até a petição inicial estar pronta para seguir ao julgamento — é a porta de entrada do processo do trabalho.\n\nComece pelo jus postulandi: na Justiça do Trabalho, diferente da Justiça Comum, empregado e empregador podem ajuizar e acompanhar pessoalmente a reclamação, sem advogado, mas isso só vale na 1ª e na 2ª instância (Vara do Trabalho e TRT). Esse direito não alcança Mandado de Segurança, Ação Rescisória, Recursos ao TST, Ação Cautelar e Acordo Extrajudicial.\n\nO rito da ação depende do valor da causa: sumário (até 2 salários mínimos), sumaríssimo (de 2 até 40 salários mínimos, até 2 testemunhas para cada parte) e ordinário (acima de 40 salários mínimos, até 3 testemunhas para cada parte). Atenção à pegadinha clássica de prova: o sumaríssimo não se aplica quando a Administração Pública direta, autarquias ou fundações estão no polo passivo — nesse caso, o rito ordinário incide mesmo em causas de valor baixo.\n\nA reclamação trabalhista é a petição inicial: pode ser escrita ou verbal (reduzida a termo pela Secretaria), exceto nos casos de inquérito para apuração de falta grave e dissídio coletivo, que exigem forma escrita obrigatória. Antes da apresentação da contestação, o reclamante pode desistir da ação livremente; depois de oferecida a defesa, a desistência passa a exigir o consentimento do reclamado.\n\nDuas figuras de correção da inicial não podem ser confundidas: a emenda é determinação do juiz para corrigir defeito formal da peça (prazo de 15 dias, obrigatória por ordem judicial); o aditamento é iniciativa voluntária do próprio autor para modificar o pedido ou a causa de pedir, e deve ocorrer antes da citação.\n\nA perempção trabalhista pune a inércia do reclamante: falta a 2 audiências seguidas ou não formalização de reclamação verbal em 5 dias sem justo motivo levam ao arquivamento e impedem que ele ajuíze nova ação idêntica pelo prazo de 6 meses.\n\nPor fim, a litigância de má-fé pune quem falseia fatos, usa o processo para fim ilegal, resiste injustificadamente ao andamento ou interpõe recurso protelatório: multa de 1% a 10% do valor corrigido da causa, mais indenização pelos prejuízos e cobertura de honorários/despesas.",
+          "referencia": "Gabaritaço - Processo do Trabalho, Dicas 12 a 18 (Ação Trabalhista); Revisão - Processo do Trabalho, seção \"Ação Trabalhista\".",
+          "lei_seca": [
+            [
+              "Art. 731, CLT",
+              "Reclamação verbal não formalizada em 5 dias (sem força maior) é arquivada, configurando perempção."
+            ],
+            [
+              "Art. 732, CLT",
+              "Falta do reclamante a 2 audiências seguidas gera arquivamento e impede nova ação idêntica por 6 meses."
+            ],
+            [
+              "Art. 791, CLT",
+              "Consagra o jus postulandi: empregado e empregador podem reclamar pessoalmente perante a Justiça do Trabalho."
+            ],
+            [
+              "Art. 793-A, CLT",
+              "Responde por perdas e danos quem litigar de má-fé no processo do trabalho."
+            ],
+            [
+              "Art. 793-C, CLT",
+              "Fixa a multa de 1% a 10% do valor corrigido da causa por litigância de má-fé, mais indenização, honorários e despesas."
+            ],
+            [
+              "Art. 840, CLT",
+              "A reclamação trabalhista poderá ser escrita ou verbal, com os respectivos requisitos de cada forma."
+            ],
+            [
+              "Art. 841, §3º, CLT",
+              "Oferecida a contestação, o reclamante só pode desistir da ação com o consentimento do reclamado."
+            ],
+            [
+              "Art. 852-A, parágrafo único, CLT",
+              "Exclui a Administração Pública direta, autárquica e fundacional do procedimento sumaríssimo."
+            ],
+            [
+              "Súmula 263, TST",
+              "Reafirma a perempção do art. 732 da CLT: 6 meses sem poder ajuizar a mesma reclamação."
+            ],
+            [
+              "Súmula 425, TST",
+              "A citação por edital é incompatível com o rito sumaríssimo."
             ]
           ]
         }
@@ -1774,6 +2216,60 @@
               "Norma que altera prazo de recolhimento não se sujeita ao princípio da anterioridade."
             ]
           ]
+        },
+        "3": {
+          "teoria": "Imunidade tributária é uma limitação constitucional ao poder de tributar: a própria Constituição retira do ente federativo a competência para instituir imposto sobre certas pessoas, bens ou situações. É diferente de isenção, que é uma dispensa legal de pagamento de um tributo que, em tese, poderia ser cobrado. A imunidade nasce na CF, é ampla e permanente (só pode ser retirada por emenda constitucional — e o STF já reconheceu que as hipóteses de imunidade são cláusulas pétreas); a isenção nasce em lei, é pontual e pode ser revogada. Importante: em ambos os casos, as obrigações acessórias continuam existindo — seu descumprimento gera multa, mesmo por quem é imune.\n\nA imunidade recíproca impede que União, Estados, DF e Municípios cobrem impostos uns dos outros sobre patrimônio, renda ou serviços, protegendo o pacto federativo. Estende-se a autarquias, fundações públicas e à empresa pública de serviço postal (Correios), desde que ligados às finalidades essenciais, mas não alcança empresas públicas/sociedades de economia mista que exploram atividade econômica em regime concorrencial (Banco do Brasil, Caixa) nem cartórios.\n\nA imunidade dos templos de qualquer culto alcança patrimônio, renda e serviços ligados ao culto, incluindo entidades religiosas e suas organizações assistenciais. Imóvel alugado a terceiros permanece imune se o aluguel for revertido às finalidades da entidade.\n\nA imunidade de partidos políticos (e fundações), sindicatos de trabalhadores (não patronais) e instituições de educação e assistência social sem fins lucrativos depende do cumprimento dos requisitos do art. 14 do CTN: não distribuir patrimônio/renda, aplicar integralmente os recursos no país e manter escrituração regular.\n\nA imunidade cultural livra de impostos livros, jornais, periódicos e o papel destinado à sua impressão, estendida a e-books e e-readers (mesmo com funções acessórias) — mas não alcança encartes puramente publicitários nem insumos como tinta e cola.\n\nPor fim, a imunidade musical desonera fonogramas e videofonogramas de obras musicais/literomusicais de autores brasileiros (e/ou interpretadas por artista brasileiro), exceto na etapa de replicação industrial das mídias.",
+          "referencia": "Gabaritaço - Tributário, Dicas 25 a 31 (Imunidades Tributárias); Revisão - Tributário, seção \"Imunidades Tributárias\".",
+          "lei_seca": [
+            [
+              "Art. 150, VI, \"a\", CF",
+              "Imunidade recíproca: veda impostos entre União, Estados, DF e Municípios sobre patrimônio, renda ou serviços."
+            ],
+            [
+              "Art. 150, §2º, CF",
+              "Estende a imunidade recíproca a autarquias, fundações públicas e à empresa pública de serviço postal (Correios)."
+            ],
+            [
+              "Art. 150, VI, \"b\", CF",
+              "Imunidade de templos de qualquer culto e entidades religiosas."
+            ],
+            [
+              "Art. 150, VI, \"c\", CF",
+              "Imunidade de partidos políticos e suas fundações, entidades sindicais de trabalhadores e instituições de educação e assistência social sem fins lucrativos."
+            ],
+            [
+              "Art. 14, CTN",
+              "Requisitos para gozo da imunidade do art. 150, VI, \"c\": não distribuir patrimônio/renda, aplicar recursos integralmente no país e manter escrituração."
+            ],
+            [
+              "Art. 150, VI, \"d\", CF",
+              "Imunidade cultural: livros, jornais, periódicos e o papel destinado à sua impressão."
+            ],
+            [
+              "Art. 150, VI, \"e\", CF",
+              "Imunidade musical: fonogramas e videofonogramas musicais ou literomusicais de autores brasileiros."
+            ],
+            [
+              "Art. 60, §4º, CF",
+              "As imunidades tributárias, por serem garantias fundamentais do contribuinte, são consideradas cláusulas pétreas."
+            ],
+            [
+              "Súmula Vinculante 52, STF",
+              "Imóvel alugado a terceiro permanece imune ao IPTU se a renda do aluguel for aplicada nas finalidades essenciais da entidade imune."
+            ],
+            [
+              "Súmula Vinculante 57, STF",
+              "A imunidade cultural aplica-se à importação e comercialização de livros eletrônicos (e-books) e dos suportes exclusivos para sua leitura (e-readers)."
+            ],
+            [
+              "Súmula 591, STF",
+              "A imunidade tributária não afasta a exigência do tributo quando o ente imune figura apenas como contribuinte de fato."
+            ],
+            [
+              "ADI 3089, STF",
+              "Cartórios (serventias extrajudiciais) não gozam de imunidade recíproca, por possuírem capacidade contributiva."
+            ]
+          ]
         }
       }
     }
@@ -1783,138 +2279,218 @@
       "1": {
         "firstStudiedWeek": 1,
         "reviews": [
-          2
+          2,
+          3
         ],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 6
       },
       "2": {
         "firstStudiedWeek": 2,
+        "reviews": [
+          3
+        ],
+        "nextReviewWeek": 4
+      },
+      "3": {
+        "firstStudiedWeek": 3,
         "reviews": [],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 4
       }
     },
     "administrativo": {
       "1": {
         "firstStudiedWeek": 1,
         "reviews": [
-          2
+          2,
+          3
         ],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 6
       },
       "2": {
         "firstStudiedWeek": 2,
+        "reviews": [
+          3
+        ],
+        "nextReviewWeek": 4
+      },
+      "3": {
+        "firstStudiedWeek": 3,
         "reviews": [],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 4
       }
     },
     "civil": {
       "1": {
         "firstStudiedWeek": 1,
         "reviews": [
-          2
+          2,
+          3
         ],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 6
       },
       "2": {
         "firstStudiedWeek": 2,
+        "reviews": [
+          3
+        ],
+        "nextReviewWeek": 4
+      },
+      "3": {
+        "firstStudiedWeek": 3,
         "reviews": [],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 4
       }
     },
     "processoCivil": {
       "1": {
         "firstStudiedWeek": 1,
         "reviews": [
-          2
+          2,
+          3
         ],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 6
       },
       "2": {
         "firstStudiedWeek": 2,
+        "reviews": [
+          3
+        ],
+        "nextReviewWeek": 4
+      },
+      "3": {
+        "firstStudiedWeek": 3,
         "reviews": [],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 4
       }
     },
     "penal": {
       "1": {
         "firstStudiedWeek": 1,
         "reviews": [
-          2
+          2,
+          3
         ],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 6
       },
       "2": {
         "firstStudiedWeek": 2,
+        "reviews": [
+          3
+        ],
+        "nextReviewWeek": 4
+      },
+      "3": {
+        "firstStudiedWeek": 3,
         "reviews": [],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 4
       }
     },
     "processoPenal": {
       "1": {
         "firstStudiedWeek": 1,
         "reviews": [
-          2
+          2,
+          3
         ],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 6
       },
       "2": {
         "firstStudiedWeek": 2,
+        "reviews": [
+          3
+        ],
+        "nextReviewWeek": 4
+      },
+      "3": {
+        "firstStudiedWeek": 3,
         "reviews": [],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 4
       }
     },
     "etica": {
       "1": {
         "firstStudiedWeek": 1,
         "reviews": [
-          2
+          2,
+          3
         ],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 6
       },
       "2": {
         "firstStudiedWeek": 1,
         "reviews": [
-          2
+          2,
+          3
         ],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 6
       },
       "3": {
         "firstStudiedWeek": 2,
-        "reviews": [],
-        "nextReviewWeek": 3
+        "reviews": [
+          3
+        ],
+        "nextReviewWeek": 4
       },
       "4": {
         "firstStudiedWeek": 2,
+        "reviews": [
+          3
+        ],
+        "nextReviewWeek": 4
+      },
+      "5": {
+        "firstStudiedWeek": 3,
         "reviews": [],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 4
+      },
+      "6": {
+        "firstStudiedWeek": 3,
+        "reviews": [],
+        "nextReviewWeek": 4
       }
     },
     "processoDoTrabalho": {
       "1": {
         "firstStudiedWeek": 1,
         "reviews": [
-          2
+          2,
+          3
         ],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 6
       },
       "2": {
         "firstStudiedWeek": 2,
+        "reviews": [
+          3
+        ],
+        "nextReviewWeek": 4
+      },
+      "3": {
+        "firstStudiedWeek": 3,
         "reviews": [],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 4
       }
     },
     "tributario": {
       "1": {
         "firstStudiedWeek": 1,
         "reviews": [
-          2
+          2,
+          3
         ],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 6
       },
       "2": {
         "firstStudiedWeek": 2,
+        "reviews": [
+          3
+        ],
+        "nextReviewWeek": 4
+      },
+      "3": {
+        "firstStudiedWeek": 3,
         "reviews": [],
-        "nextReviewWeek": 3
+        "nextReviewWeek": 4
       }
     }
   },

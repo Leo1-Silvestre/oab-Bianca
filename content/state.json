@@ -1,8 +1,8 @@
 {
   "examDate": "2027-01-10",
   "startDate": "2026-09-14",
-  "weeksTotal": 15,
-  "currentWeek": 3,
+  "weeksTotal": 14,
+  "currentWeek": 4,
   "pureReviewFromWeek": 15,
   "reviewIntervals": [
     1,
@@ -282,6 +282,68 @@
               "Gratuidade das ações de habeas corpus e habeas data."
             ]
           ]
+        },
+        "4": {
+          "teoria": "A nacionalidade é o vínculo jurídico-político que liga uma pessoa a um Estado. A CF/88 prevê duas formas de nacionalidade brasileira. A originária (nato) ocorre em três hipóteses: (i) nascido no Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país de origem (critério territorial, ius soli); (ii) nascido no estrangeiro, de pai brasileiro ou mãe brasileira, desde que um deles esteja a serviço do Brasil; (iii) nascido no estrangeiro, de pai ou mãe brasileiros, registrado em repartição brasileira competente, ou que venha a residir no Brasil e opte pela nacionalidade brasileira a qualquer tempo após a maioridade. Já a naturalização (derivada) pode ser ordinária (originários de países de língua portuguesa: 1 ano de residência ininterrupta + idoneidade moral) ou extraordinária (qualquer estrangeiro residente há mais de 15 anos ininterruptos, sem condenação penal, que requeira a naturalização).\n\nA perda da nacionalidade ocorre em duas hipóteses: cancelamento da naturalização por sentença judicial (fraude no processo ou atentado à ordem constitucional/Estado Democrático) ou pedido expresso do próprio brasileiro perante autoridade competente — vedado se gerar apatridia, e sem impedir reaquisição futura da nacionalidade originária. Importante: hoje adquirir outra nacionalidade não causa mais perda automática.\n\nQuanto à extradição, o nato jamais é extraditado. O naturalizado pode ser extraditado em duas situações: crime comum cometido antes da naturalização, ou envolvimento em tráfico de drogas, cometido antes ou depois dela.\n\nNo campo dos direitos políticos, a regra é o voto direto, secreto, universal e periódico (cláusula pétrea); a exceção é a eleição indireta pelo Congresso no \"mandato-tampão\" presidencial (vacância na segunda metade do mandato). Plebiscito é consulta popular prévia a uma decisão legislativa; referendo é posterior; iniciativa popular é a apresentação de projeto de lei subscrito por 1% do eleitorado nacional, distribuído em 5 estados, com no mínimo 0,3% dos eleitores de cada um. Elegibilidade exige nacionalidade brasileira, pleno exercício dos direitos políticos, alistamento, domicílio eleitoral, filiação partidária e idade mínima. São absolutamente inelegíveis os inalistáveis e os analfabetos; a inelegibilidade relativa alcança situações de cargo (desincompatibilização, em regra 6 meses antes do pleito) e parentesco até 2º grau com o titular do Executivo (a dissolução do vínculo conjugal no curso do mandato não afasta essa inelegibilidade, salvo por morte).",
+          "referencia": "Gabaritaço - Constitucional, Dicas 22 a 31 (Nacionalidade, Extradição e Direitos Políticos); Revisão - Constitucional, seção \"Nacionalidade\".",
+          "lei_seca": [
+            [
+              "Art. 12, I, CF",
+              "Hipóteses de brasileiro nato (ius soli e ius sanguinis combinado com serviço público ou registro/opção)."
+            ],
+            [
+              "Art. 12, II, CF",
+              "Naturalização ordinária e extraordinária."
+            ],
+            [
+              "Art. 12, §3º, CF",
+              "Cargos privativos de brasileiro nato."
+            ],
+            [
+              "Art. 12, §4º, CF",
+              "Hipóteses de perda da nacionalidade (cancelamento judicial e pedido expresso)."
+            ],
+            [
+              "Art. 5º, LI, CF",
+              "Vedação de extradição do nato; hipóteses de extradição do naturalizado."
+            ],
+            [
+              "Art. 14, caput, CF",
+              "Soberania popular exercida por sufrágio, voto direto e secreto, plebiscito, referendo e iniciativa popular."
+            ],
+            [
+              "Art. 14, §2º, CF",
+              "Inalistáveis (estrangeiros e conscritos durante o serviço militar obrigatório)."
+            ],
+            [
+              "Art. 14, §3º, CF",
+              "Condições de elegibilidade."
+            ],
+            [
+              "Art. 14, §4º, CF",
+              "Inelegibilidade absoluta (inalistáveis e analfabetos)."
+            ],
+            [
+              "Art. 14, §7º, CF",
+              "Inelegibilidade reflexa (parentesco até 2º grau com titular do Executivo)."
+            ],
+            [
+              "Art. 14, §9º, CF",
+              "Reserva de lei complementar para outros casos de inelegibilidade (LC 64/90, Lei da Ficha Limpa)."
+            ],
+            [
+              "Art. 61, §2º, CF",
+              "Requisitos da iniciativa popular de lei."
+            ],
+            [
+              "Art. 81, §1º, CF",
+              "Eleição indireta pelo Congresso Nacional em vacância presidencial na segunda metade do mandato."
+            ],
+            [
+              "Súmula Vinculante 18, STF",
+              "Dissolução do vínculo conjugal no curso do mandato não afasta a inelegibilidade por parentesco (exceção: dissolução por morte)."
+            ]
+          ]
         }
       }
     },
@@ -496,6 +558,64 @@
             [
               "Lei 12.514/2011",
               "Disciplina a cobrança de anuidades pelos conselhos profissionais (autarquias corporativas), como CRM, CREA e CAU."
+            ]
+          ]
+        },
+        "4": {
+          "teoria": "Empresas estatais (empresa pública e sociedade de economia mista): ambas são pessoas jurídicas de direito privado, integrantes da administração indireta, cuja criação é apenas autorizada por lei. A diferença central está no capital e na forma: a empresa pública tem capital 100% público (podendo reunir mais de um ente ou entidade estatal) e pode adotar qualquer forma societária; a sociedade de economia mista tem capital misto, mas o controle acionário é sempre do Poder Público, e ela só pode se organizar como sociedade anônima (S/A). Quanto ao foro, ações envolvendo empresa pública federal tramitam na Justiça Federal, enquanto a sociedade de economia mista, mesmo federal, vai para a Justiça Estadual.\n\nAmbas podem ter dois objetivos distintos, com regimes diferentes: (a) prestar serviço público — aí se submetem a regras mais protetivas, como possível imunidade tributária recíproca e impenhorabilidade de bens afetados ao serviço, respondendo objetivamente; ou (b) explorar atividade econômica em sentido estrito — hipótese excepcional, que só se justifica por relevante interesse coletivo ou imperativo de segurança nacional, submetendo-se então ao mesmo regime das empresas privadas, sem privilégios não extensíveis ao setor privado. A Lei 13.303/2016 (Lei das Estatais) traz regras de governança, licitação e contratação para as duas. Nenhuma das duas se sujeita a falência.\n\nAgências reguladoras são autarquias em regime especial, criadas para regular e fiscalizar setores específicos (ANATEL, ANEEL, ANP, ANVISA, ANS, ANAC, entre outras). O \"regime especial\" se traduz em maior autonomia frente ao Executivo: dirigentes com mandato fixo, indicados pelo Chefe do Executivo com aprovação do Senado, estáveis durante o mandato e sujeitos a quarentena ao deixarem o cargo. Têm poder normativo técnico, mas é vedado que deleguem sua competência normativa a agências/órgãos estaduais, distritais ou municipais — podem delegar apenas fiscalização, sanção e arbitragem, permanecendo a agência federal como instância recursal superior.\n\nO terceiro setor reúne entidades privadas sem fins lucrativos que colaboram com o Estado sem integrar a Administração: Serviços Sociais Autônomos (Sistema S), Entidades de Apoio (apoiam universidades públicas), Organizações Sociais — OS (qualificação por ato discricionário + contrato de gestão), OSCIP (qualificação por ato vinculado + termo de parceria; bens adquiridos com recursos do termo são inalienáveis) e OSC (atuam via chamamento público e termo de fomento, colaboração ou acordo de cooperação).",
+          "referencia": "Gabaritaço - Administrativo, Dicas 20 a 26 (Empresas Estatais, Agências Reguladoras e Terceiro Setor); Revisão - Administrativo, seções \"Empresa Pública\", \"Sociedade de Economia Mista\" e \"Terceiro Setor\".",
+          "lei_seca": [
+            [
+              "Art. 37, XIX, CF",
+              "Só por lei específica se cria autarquia e se autoriza a instituição de empresa pública, sociedade de economia mista e fundação."
+            ],
+            [
+              "Art. 173, CF",
+              "A exploração direta de atividade econômica pelo Estado só é permitida por imperativo de segurança nacional ou relevante interesse coletivo."
+            ],
+            [
+              "Art. 173, §1º, CF",
+              "A lei deve dispor sobre o estatuto jurídico das empresas estatais que explorem atividade econômica (base da Lei 13.303/2016)."
+            ],
+            [
+              "Art. 173, §2º, CF",
+              "Empresas públicas e sociedades de economia mista não podem gozar de privilégios fiscais não extensivos ao setor privado."
+            ],
+            [
+              "Art. 37, §6º, CF",
+              "Responsabilidade civil objetiva das pessoas jurídicas de direito público e de direito privado prestadoras de serviço público."
+            ],
+            [
+              "Súmula 556, STF",
+              "Compete à Justiça Estadual (e não à Federal) julgar causas de sociedade de economia mista, mesmo federal."
+            ],
+            [
+              "Art. 3º, Lei 13.303/2016",
+              "Conceito de empresa pública: capital 100% público, qualquer forma societária admitida."
+            ],
+            [
+              "Art. 5º, Lei 13.303/2016",
+              "Conceito de sociedade de economia mista: capital misto com controle acionário público, obrigatoriamente constituída como S/A."
+            ],
+            [
+              "Art. 8º, Lei 9.986/2000",
+              "Mandato fixo dos dirigentes de agências reguladoras e regra de quarentena ao final do mandato."
+            ],
+            [
+              "Lei 9.637/98",
+              "Disciplina a qualificação de entidades como Organizações Sociais (OS) e o contrato de gestão."
+            ],
+            [
+              "Lei 9.790/99",
+              "Disciplina a qualificação de entidades como OSCIP; bens adquiridos com recursos de termo de parceria são inalienáveis."
+            ],
+            [
+              "Lei 13.019/2014",
+              "Marco regulatório das Organizações da Sociedade Civil (OSC): termo de fomento, colaboração ou acordo de cooperação."
+            ],
+            [
+              "Art. 2º, I, Lei 11.101/2005",
+              "Exclui empresas públicas e sociedades de economia mista do regime de falência."
             ]
           ]
         }
@@ -785,6 +905,68 @@
               "Havendo direito de arrependimento (arras penitenciais), as arras têm função unicamente indenizatória, sem indenização suplementar."
             ]
           ]
+        },
+        "4": {
+          "teoria": "Contrato é o negócio jurídico bilateral ou plurilateral que cria, modifica ou extingue direitos obrigacionais pelo encontro de vontades. Para ser válido, exige agente capaz, objeto lícito/possível/determinável e forma não vedada em lei, além da ausência de vícios.\n\nClassificação: quanto aos deveres, unilateral (obriga só uma parte, ex. doação pura) ou bilateral (obrigações recíprocas, ex. compra e venda); quanto ao proveito, oneroso ou gratuito; quanto ao risco, comutativo (prestações certas) ou aleatório (prestação incerta para uma parte); quanto à previsão legal, típico ou atípico; quanto ao aperfeiçoamento, consensual (basta a vontade) ou real (exige entrega da coisa, ex. comodato); quanto à execução, instantânea, diferida ou de trato sucessivo; e quanto à negociação das cláusulas, de adesão ou paritário.\n\nFormação: o contrato nasce, em regra, do encontro entre proposta (oferta) e aceitação. A proposta obriga o proponente, salvo se o contrário resultar dos próprios termos, da natureza do negócio ou das circunstâncias. Deixa de ser obrigatória em hipóteses como: feita sem prazo a presente (ou por telefone) e não aceita de imediato; feita sem prazo a ausente e decorrido tempo razoável sem resposta; ou se a retratação chega ao destinatário antes ou junto com a proposta. Entre presentes, o contrato se forma quando a aceitação é manifestada; entre ausentes, no momento em que a aceitação é expedida (teoria da expedição), salvo prazo fixado pelo proponente ou retratação tempestiva do aceitante.\n\nA exceção de contrato não cumprido (exceptio non adimpleti contractus) autoriza, nos contratos bilaterais onerosos, que a parte obrigada a cumprir primeiro suspenda sua prestação até que a outra cumpra a dela ou dê garantia suficiente — mecanismo de defesa ligado à boa-fé e à reciprocidade das obrigações.\n\nNa estipulação em favor de terceiro, o estipulante ajusta com o promitente uma prestação em benefício de terceiro estranho ao contrato, que adquire direito próprio de exigi-la mesmo sem ter participado da celebração. Diferente é a promessa de fato de terceiro: o promitente apenas garante que um terceiro praticará certo ato; se este não o fizer, quem responde por perdas e danos é o próprio promitente.\n\nO vício redibitório é o defeito oculto que torna a coisa imprópria ao uso a que se destina ou lhe diminui o valor, cabível em contratos comutativos e onerosos; o adquirente pode redibir o negócio ou pedir abatimento no preço, com responsabilidade objetiva do alienante, que ainda paga perdas e danos se conhecia o vício. Já a evicção é a perda total ou parcial da coisa adquirida por decisão judicial ou ato administrativo que reconhece direito de terceiro anterior à aquisição; o evicto pode pleitear restituição do preço e indenização mesmo havendo cláusula excludente de garantia, salvo se assumiu conscientemente o risco.",
+          "referencia": "Gabaritaço - Civil, Dicas 23 a 27 (Contratos em Geral, Exceção de Contrato Não Cumprido, Vício Redibitório, Evicção); Revisão - Civil, seção \"Contratos em Geral\".",
+          "lei_seca": [
+            [
+              "Art. 421-A, CC",
+              "Nos contratos paritários civis e empresariais, presume-se que as partes são iguais e que a revisão contratual é excepcional."
+            ],
+            [
+              "Art. 425, CC",
+              "É lícito às partes estipular contratos atípicos, observadas as normas gerais do Código."
+            ],
+            [
+              "Art. 427, CC",
+              "A proposta de contrato obriga o proponente, salvo exceções previstas."
+            ],
+            [
+              "Art. 428, CC",
+              "Hipóteses em que a proposta deixa de ser obrigatória."
+            ],
+            [
+              "Art. 434, CC",
+              "Entre ausentes, o contrato reputa-se concluído com a expedição da aceitação (teoria da expedição), com exceções."
+            ],
+            [
+              "Art. 439, CC",
+              "Quem promete fato de terceiro responde por perdas e danos se este não o executar."
+            ],
+            [
+              "Art. 443, CC",
+              "Se o alienante conhecia o vício, restitui com perdas e danos; se não conhecia, só restitui o valor + despesas."
+            ],
+            [
+              "Art. 445, CC",
+              "Prazos decadenciais da ação redibitória/estimatória."
+            ],
+            [
+              "Art. 447, CC",
+              "Nos contratos onerosos, o alienante responde pela evicção, ainda que não haja cláusula expressa."
+            ],
+            [
+              "Art. 448, CC",
+              "As partes podem, por cláusula expressa, reforçar, diminuir ou excluir a responsabilidade pela evicção."
+            ],
+            [
+              "Art. 449, CC",
+              "Mesmo com cláusula excludente, o evicto tem direito a receber o preço se não soube do risco."
+            ],
+            [
+              "Art. 450, CC",
+              "O evicto pode exigir a restituição integral do preço e indenizações correlatas."
+            ],
+            [
+              "Art. 476, CC",
+              "Exceção do contrato não cumprido: nos contratos bilaterais, nenhum dos contratantes pode exigir o implemento da obrigação do outro antes de cumprir a própria."
+            ],
+            [
+              "Art. 477, CC",
+              "Pode a parte recusar a prestação devida se a situação patrimonial do outro contratante comprometer ou tornar duvidosa a prestação."
+            ]
+          ]
         }
       }
     },
@@ -1044,6 +1226,52 @@
               "Amicus curiae: cabimento por relevância da matéria, especificidade do tema ou repercussão social; decisão sobre admissão é irrecorrível."
             ]
           ]
+        },
+        "4": {
+          "teoria": "Litisconsórcio é a situação em que duas ou mais pessoas ocupam o mesmo polo processual — autoras (litisconsórcio ativo) ou rés (litisconsórcio passivo). Pode ser inicial, quando a pluralidade já existe desde o ajuizamento, ou ulterior, quando alguém é incluído depois (tipicamente via intervenção de terceiros).\n\nA classificação mais cobrada em prova cruza dois eixos. O primeiro é obrigatoriedade: facultativo é aquele em que as partes escolhem litigar juntas, por haver comunhão de direitos/obrigações, conexão pelo pedido ou causa de pedir, ou afinidade de questões; necessário é imposto por lei ou pela natureza da relação jurídica — por exemplo, ações reais imobiliárias normalmente exigem a citação de ambos os cônjuges. O segundo eixo é a uniformidade da decisão: unitário é aquele em que a sentença precisa ser idêntica para todos os litisconsortes, porque a relação jurídica de fundo é indivisível; simples é aquele em que a decisão pode variar entre eles, pois cada um tem situação jurídica individualizada.\n\nEsses dois eixos são independentes — existe necessário-simples, necessário-unitário, facultativo-simples e facultativo-unitário — mas a banca adora testar a consequência de não citar todos num litisconsórcio necessário: se ele também for unitário, a sentença é nula; se for apenas necessário mas não unitário, a sentença é ineficaz em relação aos que não foram citados. Em qualquer caso de litisconsórcio passivo necessário não formado, o juiz determina ao autor que promova a citação de todos no prazo que fixar, sob pena de extinção do processo.\n\nComo regra geral, os atos de um litisconsorte não prejudicam os demais, mas podem beneficiá-los — e no litisconsórcio unitário, o recurso de um aproveita aos outros, salvo interesses distintos ou opostos. Sobre prazos: litisconsortes com procuradores de escritórios diferentes têm prazo em dobro para todos os atos, mas só em processos físicos — essa regra não se aplica ao processo eletrônico. Por fim, o juiz pode limitar o número de litigantes no litisconsórcio facultativo (multitudinário) quando a pluralidade comprometer a rápida solução do litígio, dificultar a defesa ou o cumprimento da sentença.",
+          "referencia": "Gabaritaço - Processo Civil, Dicas 21 a 23 (Litisconsórcio); Revisão - Processo Civil, seção \"Litisconsórcio\".",
+          "lei_seca": [
+            [
+              "Art. 73, CPC",
+              "Ações reais imobiliárias exigem, em regra, consentimento/citação de ambos os cônjuges (exemplo de litisconsórcio necessário por lei)."
+            ],
+            [
+              "Art. 113, CPC",
+              "Hipóteses de litisconsórcio facultativo: comunhão de direitos/obrigações, conexão por pedido/causa de pedir, ou afinidade de questões."
+            ],
+            [
+              "Art. 113, §1º, CPC",
+              "O juiz pode limitar o litisconsórcio facultativo multitudinário quando comprometer a rápida solução do litígio."
+            ],
+            [
+              "Art. 114, CPC",
+              "Litisconsórcio necessário por disposição de lei ou pela natureza da relação jurídica controvertida (unitária)."
+            ],
+            [
+              "Art. 115, CPC",
+              "Sentença sem integração do contraditório é nula (se devia ser uniforme) ou ineficaz (nos demais casos) para os não citados."
+            ],
+            [
+              "Art. 115, parágrafo único, CPC",
+              "No litisconsórcio passivo necessário, o juiz determina ao autor que requeira a citação de todos, sob pena de extinção do processo."
+            ],
+            [
+              "Art. 116, CPC",
+              "Distinção entre litisconsórcio unitário (decisão deve ser uniforme) e simples (decisão pode ser diferente)."
+            ],
+            [
+              "Art. 117, CPC",
+              "Os atos e omissões de um litisconsorte não prejudicam os demais, mas podem beneficiá-los."
+            ],
+            [
+              "Art. 229, CPC",
+              "Prazo em dobro para litisconsortes com procuradores distintos de escritórios diferentes, apenas em processos físicos."
+            ],
+            [
+              "Art. 1.005, CPC",
+              "O recurso de um litisconsorte aproveita aos demais, salvo se os interesses forem distintos ou opostos entre eles."
+            ]
+          ]
         }
       }
     },
@@ -1281,6 +1509,48 @@
               "Medida de segurança (internação ou tratamento ambulatorial) para inimputável por doença mental."
             ]
           ]
+        },
+        "4": {
+          "teoria": "Hoje você entra em dois temas que se completam: quem responde pelo crime quando mais de uma pessoa participa (concurso de pessoas) e o que acontece quando uma mesma pessoa pratica mais de um crime (concurso de crimes).\n\nO Código Penal adota, como regra, a teoria monista: todos que concorrem para o crime — autores, coautores e partícipes — respondem pelo mesmo crime, na medida da própria culpabilidade. Há exceções pluralistas, em que cada agente responde por um tipo penal diferente: corrupção ativa e passiva e aborto consentido.\n\nPara existir concurso de pessoas, exige-se pluralidade de agentes e de condutas, relevância causal de cada conduta para o resultado, liame subjetivo e identidade de infração para todos. Distinguem-se autor/coautor (quem pratica diretamente o núcleo do tipo) de partícipe, que não executa o verbo do tipo mas contribui: pela participação moral (induzimento ou instigação) ou material (auxílio). A teoria da acessoriedade limitada exige só que a conduta do autor seja típica e ilícita para punir o partícipe.\n\nDuas regras de dosagem aparecem aqui: a participação de menor importância permite reduzir a pena de 1/6 a 1/3; e a cooperação dolosamente distinta faz quem quis participar de crime menos grave responder só por ele, salvo se era previsível o resultado mais grave, caso em que a pena é aumentada até metade. Já a comunicabilidade segue a lógica: circunstâncias e condições pessoais subjetivas não se comunicam; elementares do tipo (objetivas) se comunicam a todos que delas tinham conhecimento.\n\nNa segunda metade do bloco, o concurso de crimes tem três espécies. No concurso material, há pluralidade de condutas e de crimes, e as penas se somam. No concurso formal, uma única conduta gera dois ou mais crimes: sem desígnios autônomos (formal próprio), aplica-se a exasperação (uma pena aumentada de 1/6 a 1/2); havendo desígnios autônomos (formal impróprio), as penas se somam como no concurso material. Já o crime continuado exige pluralidade de crimes da mesma espécie, em condições semelhantes de tempo, lugar e execução — exasperação de 1/6 a 2/3; havendo crimes dolosos, violentos, contra vítimas diferentes, o aumento pode chegar ao triplo (crime continuado específico). Não confunda com crime permanente, cuja consumação se prolonga no tempo pela vontade do agente.",
+          "referencia": "Gabaritaço - Penal, Dicas 24 a 28 (Concurso de Pessoas) e Dicas 40 a 43 (Concurso de Crimes); Revisão - Penal, seção \"Concurso de Crimes\".",
+          "lei_seca": [
+            [
+              "Art. 29, caput, CP",
+              "Teoria monista: quem concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade."
+            ],
+            [
+              "Art. 29, §1º, CP",
+              "Participação de menor importância: pena pode ser reduzida de 1/6 a 1/3."
+            ],
+            [
+              "Art. 29, §2º, CP",
+              "Cooperação dolosamente distinta: quem quis participar de crime menos grave responde pela pena deste, aumentada até metade se previsível o resultado mais grave."
+            ],
+            [
+              "Art. 30, CP",
+              "Comunicabilidade: circunstâncias e condições de caráter pessoal não se comunicam, salvo quando elementares do crime."
+            ],
+            [
+              "Art. 69, CP",
+              "Concurso material: pluralidade de condutas e crimes, penas somadas."
+            ],
+            [
+              "Art. 70, CP",
+              "Concurso formal: uma só conduta gerando dois ou mais crimes; pena aumentada de 1/6 a 1/2 (próprio) ou soma das penas (impróprio)."
+            ],
+            [
+              "Art. 71, caput, CP",
+              "Crime continuado: pluralidade de crimes da mesma espécie em condições semelhantes de tempo, lugar e execução; pena aumentada de 1/6 a 2/3."
+            ],
+            [
+              "Art. 71, parágrafo único, CP",
+              "Crime continuado específico: crimes dolosos, com violência ou grave ameaça, contra vítimas diferentes; aumento pode chegar ao triplo."
+            ],
+            [
+              "Súmula 711, STF",
+              "Lei penal mais grave aplica-se ao crime continuado ou permanente se sua vigência é anterior à cessação da continuidade/permanência."
+            ]
+          ]
         }
       }
     },
@@ -1494,6 +1764,64 @@
             [
               "Súmula Vinculante 45",
               "Competência constitucional do Tribunal do Júri prevalece sobre foro por prerrogativa de função fixado só por Constituição Estadual."
+            ]
+          ]
+        },
+        "4": {
+          "teoria": "Este bloco reúne os fundamentos da teoria da prova no processo penal. O ponto de partida é a teoria dos frutos da árvore envenenada: toda prova obtida a partir de uma descoberta ilícita contamina as provas dela derivadas, que também se tornam inadmissíveis. A regra, porém, comporta exceções: (i) fonte independente, quando a prova derivada poderia ter sido obtida por outro caminho lícito; (ii) descoberta inevitável, quando a prova seria encontrada de qualquer forma; (iii) atenuação do nexo causal, quando o vínculo se rompe por fatores supervenientes; (iv) prova pré-existente não se contamina pela ilicitude posterior; e, excepcionalmente, (v) a proporcionalidade pode admitir prova ilícita para proteger um direito fundamental de maior peso.\n\nDiretamente ligada a isso está a cadeia de custódia: o conjunto de procedimentos que documenta, do início ao fim, o caminho percorrido por um vestígio — reconhecimento, isolamento, fixação, coleta (preferencialmente por perito oficial), acondicionamento, transporte, recebimento, processamento, armazenamento e descarte. Falhas na cadeia de custódia não geram automaticamente a nulidade da prova, mas podem comprometer sua credibilidade.\n\nO corpo de delito é a prova material da infração: se o crime deixa vestígios, o exame pericial é indispensável, e a confissão do acusado não supre sua ausência — embora a prova testemunhal possa suprir a falta quando os vestígios desaparecerem. A perícia é feita, em regra, por 1 perito oficial; na sua falta, por 2 pessoas idôneas com diploma superior. O juiz não está vinculado ao laudo, podendo aceitá-lo ou rejeitá-lo, no todo ou em parte.\n\nComo meios de obtenção de prova, destacam-se a busca e apreensão — domiciliar (em regra de dia e mediante mandado judicial) ou pessoal (dispensando mandado diante de fundada suspeita) — e a interceptação telefônica, que depende sempre de autorização judicial, não sendo admitida quando faltarem indícios razoáveis de autoria, quando a prova puder ser obtida por outro meio, ou quando o crime investigado for punido apenas com detenção.",
+          "referencia": "Revisão - Processo Penal, seção \"Provas\"; Gabaritaço - Processo Penal, Dicas 24 a 31 (Provas, Corpo de Delito, Teoria da Árvore Envenenada).",
+          "lei_seca": [
+            [
+              "Art. 157, caput, CPP",
+              "Prova ilícita é inadmissível e deve ser desentranhada do processo."
+            ],
+            [
+              "Art. 157, §1º, CPP",
+              "Também são inadmissíveis as provas derivadas das ilícitas, salvo fonte independente ou nexo causal não evidenciado."
+            ],
+            [
+              "Art. 158, CPP",
+              "Se a infração deixar vestígios, é indispensável o exame de corpo de delito, não suprido pela confissão do acusado."
+            ],
+            [
+              "Arts. 158-A a 158-F, CPP",
+              "Disciplinam a cadeia de custódia: conceito, etapas e guarda dos vestígios."
+            ],
+            [
+              "Art. 159, caput, CPP",
+              "O exame de corpo de delito será realizado por perito oficial, portador de diploma de curso superior."
+            ],
+            [
+              "Art. 159, §1º, CPP",
+              "Na falta de perito oficial, o exame será feito por 2 pessoas idôneas, portadoras de diploma de curso superior."
+            ],
+            [
+              "Art. 182, CPP",
+              "O juiz não fica adstrito ao laudo pericial, podendo aceitá-lo ou rejeitá-lo, no todo ou em parte."
+            ],
+            [
+              "Art. 5º, XI, CF",
+              "A casa é asilo inviolável, salvo flagrante delito, desastre, socorro ou, durante o dia, por determinação judicial."
+            ],
+            [
+              "Art. 240, CPP",
+              "Define as hipóteses que autorizam a busca domiciliar e a busca pessoal."
+            ],
+            [
+              "Art. 245, caput, CPP",
+              "A busca domiciliar deve ser cumprida durante o dia, salvo quando o morador consentir em outro horário."
+            ],
+            [
+              "Art. 1º, Lei 9.296/96",
+              "A interceptação de comunicações telefônicas depende de ordem do juiz competente."
+            ],
+            [
+              "Art. 2º, Lei 9.296/96",
+              "Hipóteses em que a interceptação não será admitida."
+            ],
+            [
+              "Art. 5º, Lei 9.296/96",
+              "A interceptação não poderá exceder o prazo de 15 dias, renovável por igual período."
             ]
           ]
         }
@@ -1834,6 +2162,70 @@
               "Violação de segredo profissional; pena cumulável com a sanção disciplinar de exclusão."
             ]
           ]
+        },
+        "7": {
+          "teoria": "Este bloco reúne três prerrogativas do dia a dia forense: os direitos específicos da advogada, o acesso aos autos e a tolerância com o atraso da autoridade.\n\nDesde a Lei 13.363/2016, o Estatuto reconhece prerrogativas próprias para a advogada gestante, lactante, adotante ou que deu à luz — são hipóteses distintas, cada uma com direitos específicos. A gestante entra em tribunais sem passar por detectores de metais ou aparelhos de raio-X, além de ter vaga reservada em garagens de fóruns e tribunais. A lactante tem acesso a creche (onde houver) ou a local adequado às necessidades do bebê. A preferência na ordem das sustentações orais e das audiências do dia, mediante comprovação da condição, é comum às quatro situações. Já a suspensão dos prazos processuais é exclusiva de quem é adotante ou deu à luz e for a única patrona da causa, desde que notifique o cliente por escrito.\n\nO segundo tema é o exame de autos: o advogado pode examinar, em qualquer órgão do Judiciário, do Legislativo ou da Administração Pública, autos de processos findos ou em andamento, mesmo sem procuração, desde que não estejam sob sigilo ou segredo de justiça.\n\nPor fim, a retirada por atraso da autoridade: se o juiz não comparecer ao ato em até 30 minutos do horário designado, o advogado pode se retirar, desde que comunique o fato em juízo por petição protocolizada. A regra não se aplica se a autoridade estiver ocupada em outro ato — nem na Justiça do Trabalho, onde a CLT prevê tolerância de apenas 15 minutos para o início da audiência.",
+          "referencia": "Gabaritaço - Ética, Dicas 18 a 20; Revisão - Ética, seção \"Direitos e Prerrogativas dos Advogados\".",
+          "lei_seca": [
+            [
+              "Art. 7º-A, I, Lei 8.906/94",
+              "Advogada gestante: ingresso em tribunais sem detectores de metais/raios X e vaga reservada em garagens."
+            ],
+            [
+              "Art. 7º-A, II, Lei 8.906/94",
+              "Advogada lactante: acesso a creche ou a local adequado às necessidades do bebê."
+            ],
+            [
+              "Art. 7º-A, III, Lei 8.906/94",
+              "Gestante, lactante, adotante ou que deu à luz: preferência na ordem das sustentações orais e audiências."
+            ],
+            [
+              "Art. 7º-A, IV, Lei 8.906/94",
+              "Adotante ou que deu à luz, sendo única patrona da causa: suspensão dos prazos processuais, mediante notificação escrita ao cliente."
+            ],
+            [
+              "Art. 7º, XIII, Lei 8.906/94",
+              "Direito de examinar autos de processos findos ou em andamento, mesmo sem procuração, quando não sujeitos a sigilo."
+            ],
+            [
+              "Art. 7º, XX, Lei 8.906/94",
+              "Direito de retirar-se do recinto após 30 minutos de atraso da autoridade, mediante comunicação protocolizada."
+            ],
+            [
+              "Art. 815, parágrafo único, CLT",
+              "Na Justiça do Trabalho, a tolerância para início da audiência é de apenas 15 minutos."
+            ]
+          ]
+        },
+        "8": {
+          "teoria": "Este bloco fecha as prerrogativas com três temas que a prova gosta de combinar: a imunidade profissional (hoje controversa), o direito de falar \"pela ordem\" e o desagravo público.\n\nA imunidade profissional estava no revogado §2º do art. 7º do Estatuto: o advogado não cometia injúria nem difamação puníveis por manifestações feitas no exercício da profissão, em juízo ou fora dele, sempre sem prejuízo de sanção disciplinar pelos excessos cometidos. Mesmo antes de qualquer mudança legislativa, o STF já excluía o desacato dessa proteção — a imunidade nunca cobriu ofensa à autoridade, só injúria e difamação ligadas à atividade profissional. Em 2022, a Lei 14.365/2022 revogou formalmente o §2º, retirando a imunidade do texto legal — revogação muito criticada, pois foi inserida em lei sobre outro assunto, sem pertinência temática. Na prática, a prerrogativa segue invocada com base no art. 133 da Constituição. Regra para a prova: questão que citar a posição do STF/a revogação → não há mais imunidade expressa; questão baseada no Estatuto ou na Constituição → a imunidade existe.\n\n\"Pela ordem\" é o direito de usar da palavra, de forma pontual e sumária, em qualquer tribunal judicial ou administrativo, em órgão de deliberação coletiva da Administração Pública ou em CPI, para esclarecer equívoco ou dúvida sobre fatos, documentos ou afirmações que influam na decisão do órgão — não se confunde com sustentação oral nem com debate de mérito.\n\nO desagravo público é o direito do advogado (ou de quem exerce cargo/função na OAB) ofendido comprovadamente em razão do exercício profissional de receber, do Conselho competente, manifestação pública de apoio. O pedido pode partir do ofendido, de qualquer pessoa ou do Conselho de ofício. Em urgência e notoriedade, a Diretoria concede o desagravo de imediato, ad referendum; nos demais casos, segue para instrução. Cabe arquivamento se a ofensa for pessoal, sem relação com a profissão, ou crítica doutrinária, política ou religiosa. Acolhido o pedido, a sessão ocorre em até 30 dias, de preferência no local da ofensa, e independe da concordância do ofendido.",
+          "referencia": "Gabaritaço - Ética, Dicas 20 e 21; Revisão - Ética, seção \"Direitos e Prerrogativas dos Advogados\".",
+          "lei_seca": [
+            [
+              "Art. 7º, §2º, Lei 8.906/94 (revogado pela Lei 14.365/2022)",
+              "Previa a imunidade profissional: manifestações do advogado no exercício da profissão não constituem injúria nem difamação puníveis."
+            ],
+            [
+              "Art. 133, CF/88",
+              "Base constitucional da inviolabilidade do advogado por seus atos e manifestações no exercício da profissão."
+            ],
+            [
+              "STF, ADI 1.127-8",
+              "Já antes da Lei 14.365/2022, excluiu o desacato da imunidade profissional."
+            ],
+            [
+              "Art. 7º, X, Lei 8.906/94",
+              "Direito de usar a palavra, pela ordem, em qualquer tribunal judicial/administrativo, órgão de deliberação coletiva ou CPI."
+            ],
+            [
+              "Art. 18, Regulamento Geral do EAOAB",
+              "Conceito do desagravo público: direito do inscrito ofendido em razão do exercício profissional."
+            ],
+            [
+              "Art. 19, RGOAB",
+              "Competência para promover o desagravo: Diretoria/Conselho da Subseção ou Conselho Federal, conforme a abrangência da ofensa."
+            ]
+          ]
         }
       }
     },
@@ -2031,6 +2423,52 @@
             [
               "Súmula 425, TST",
               "A citação por edital é incompatível com o rito sumaríssimo."
+            ]
+          ]
+        },
+        "4": {
+          "teoria": "Depois de receber a notificação citatória, o réu (normalmente o empregador) tem a chance de reagir à reclamação trabalhista por meio da contestação, a peça em que apresenta sua defesa quanto aos fatos e pedidos do autor. A regra histórica é a defesa oral em audiência, com limite de 20 minutos — mas hoje a praxe é a contestação escrita, protocolada no PJe até o início da audiência. Depois que a contestação é apresentada, o reclamante perde a liberdade de desistir da ação sem a concordância do reclamado: antes da defesa, a desistência é unilateral; depois dela, exige anuência da outra parte.\n\nJunto com a contestação, o reclamado pode ajuizar reconvenção: é o \"contra-ataque\" processual, em que ele formula seu próprio pedido contra o reclamante dentro do mesmo processo. Para ser admitida, a reconvenção precisa ter conexão com a ação original ou com a defesa, respeitar a competência do juízo e ser compatível em termos de rito processual.\n\nSe o reclamado simplesmente não comparece à audiência (e não se faz representar por advogado presente, que pode apresentar a defesa mesmo na ausência da parte), configura-se a revelia, cujo efeito principal é a confissão ficta: presumem-se verdadeiros os fatos alegados pelo autor. Essa presunção, porém, não é absoluta: ela cai quando há pluralidade de réus e pelo menos um contestou; quando o litígio trata de direitos indisponíveis; quando falta documento que a lei considera essencial à prova do ato; ou quando as alegações do autor são inverossímeis ou contrariam prova já nos autos.\n\nA citação trabalhista é feita por via postal, e a lei presume o recebimento 48 horas após a expedição — cabendo ao notificado provar que não recebeu, se quiser afastar essa presunção.\n\nPor fim, os prazos prescricionais: a prescrição quinquenal atinge créditos trabalhistas vencidos há mais de 5 anos contados retroativamente do ajuizamento; a prescrição bienal extingue o próprio direito de ação se ela não for proposta em até 2 anos após o fim do contrato de trabalho.",
+          "referencia": "Gabaritaço - Processo do Trabalho, Dicas 19 a 23 (Contestação, Reconvenção, Revelia, Prescrição); Revisão - Processo do Trabalho, seção \"Defesa do Réu\".",
+          "lei_seca": [
+            [
+              "Art. 847, caput, CLT",
+              "Réu tem 20 minutos para aduzir defesa oral em audiência, após a leitura da reclamação."
+            ],
+            [
+              "Art. 847, parágrafo único, CLT",
+              "Admite defesa escrita pelo PJe até a audiência, substituindo a defesa oral."
+            ],
+            [
+              "Art. 844, caput, CLT",
+              "Ausência do reclamado na audiência gera revelia e confissão quanto à matéria de fato."
+            ],
+            [
+              "Art. 844, §4º, I a IV, CLT",
+              "Hipóteses em que a revelia não produz o efeito de confissão."
+            ],
+            [
+              "Art. 844, §5º, CLT",
+              "Mesmo ausente o reclamado, se o advogado comparece, são aceitos contestação e documentos apresentados."
+            ],
+            [
+              "Art. 841, §1º, CLT",
+              "A notificação (citação) do reclamado é feita por via postal."
+            ],
+            [
+              "Art. 11, CLT",
+              "Prescrição: 5 anos (quinquenal) para créditos trabalhistas, observado o limite de 2 anos (bienal) após a extinção do contrato."
+            ],
+            [
+              "Art. 7º, XXIX, CF/88",
+              "Base constitucional da prescrição trabalhista quinquenal e bienal."
+            ],
+            [
+              "Súmula 16, TST",
+              "Presume-se recebida a notificação 48 horas depois de sua postagem, cabendo ao destinatário provar o não recebimento."
+            ],
+            [
+              "Art. 843, CLT",
+              "Na audiência, as partes devem comparecer pessoalmente, podendo o reclamado se fazer substituir pelo preposto."
             ]
           ]
         }
@@ -2270,6 +2708,64 @@
               "Cartórios (serventias extrajudiciais) não gozam de imunidade recíproca, por possuírem capacidade contributiva."
             ]
           ]
+        },
+        "4": {
+          "teoria": "O CTN define tributo como toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada. Cada elemento tem função própria: \"compulsória\" afasta a voluntariedade (não é contrato); \"não constitua sanção de ato ilícito\" separa tributo de multa; \"atividade administrativa plenamente vinculada\" significa que a autoridade não tem discricionariedade para cobrar ou não.\n\nO STF adota a teoria pentapartida, segundo a qual existem cinco espécies tributárias: impostos, taxas, contribuição de melhoria, empréstimos compulsórios e contribuições especiais.\n\nImposto é tributo não vinculado: seu fato gerador independe de qualquer atividade estatal específica dirigida ao contribuinte. Sua finalidade é predominantemente arrecadatória (fiscal), embora possa ter função extrafiscal.\n\nTaxa é tributo vinculado e contraprestacional, cobrado pelo exercício regular do poder de polícia (taxa de polícia) ou pela utilização efetiva ou potencial de serviço público específico e divisível (taxa de serviço). Não pode ter base de cálculo idêntica à de imposto.\n\nContribuição de melhoria é tributo vinculado à valorização imobiliária decorrente de obra pública, com dois limites: o total arrecadado não pode superar o custo da obra, e o valor cobrado de cada contribuinte não pode superar a valorização do seu imóvel.\n\nEmpréstimo compulsório é tributo de competência exclusiva da União, instituído só por lei complementar, para despesas extraordinárias (guerra externa ou sua iminência, calamidade pública) ou investimento público urgente de relevante interesse nacional. É temporário e restituível.\n\nContribuições especiais têm destinação vinculada a uma finalidade constitucional específica, e se subdividem em: sociais (financiam a seguridade social), CIDE (intervenção no domínio econômico), corporativas (custeiam conselhos profissionais) e COSIP (custeio da iluminação pública, de competência municipal/distrital, que não pode ser cobrada mediante taxa). Todas, salvo exceções pontuais, são de competência da União, exceto a COSIP.",
+          "referencia": "Gabaritaço - Tributário, Dicas 32 a 39 (Conceito de Tributos e Espécies Tributárias); Revisão - Tributário, seção \"Conceito de Tributo e Espécies Tributárias\".",
+          "lei_seca": [
+            [
+              "Art. 3º, CTN",
+              "Define tributo: prestação pecuniária compulsória, que não constitui sanção de ato ilícito, instituída em lei e cobrada por atividade vinculada."
+            ],
+            [
+              "Art. 145, CF",
+              "Autoriza União, Estados, DF e Municípios a instituir impostos, taxas e contribuição de melhoria."
+            ],
+            [
+              "Art. 16, CTN",
+              "Conceitua imposto como tributo não vinculado a atividade estatal específica relativa ao contribuinte."
+            ],
+            [
+              "Art. 77, CTN",
+              "Define taxa como tributo cobrado pelo exercício do poder de polícia ou por serviço público específico e divisível."
+            ],
+            [
+              "Art. 81, CTN",
+              "Contribuição de melhoria: limite total (custo da obra) e limite individual (valorização de cada imóvel)."
+            ],
+            [
+              "Art. 148, CF",
+              "Empréstimo compulsório: competência exclusiva da União, só por lei complementar, guerra/calamidade ou investimento urgente."
+            ],
+            [
+              "Art. 149, CF",
+              "Contribuições sociais, CIDE e corporativas, de competência exclusiva da União."
+            ],
+            [
+              "Art. 149-A, CF",
+              "COSIP, de competência dos Municípios e do DF, para custeio da iluminação pública."
+            ],
+            [
+              "Art. 195, CF",
+              "Contribuições para financiamento da seguridade social."
+            ],
+            [
+              "Súmula 70, STF",
+              "É inadmissível a interdição de estabelecimento como meio coercitivo para cobrança de tributo."
+            ],
+            [
+              "Súmula 323, STF",
+              "É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos."
+            ],
+            [
+              "Súmula Vinculante 29",
+              "É constitucional taxa cujo cálculo usa um ou mais elementos da base de cálculo de imposto, desde que sem identidade integral."
+            ],
+            [
+              "Súmula Vinculante 41",
+              "O serviço de iluminação pública não pode ser remunerado mediante taxa (deve ser COSIP)."
+            ]
+          ]
         }
       }
     }
@@ -2287,14 +2783,22 @@
       "2": {
         "firstStudiedWeek": 2,
         "reviews": [
-          3
+          3,
+          4
         ],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 7
       },
       "3": {
         "firstStudiedWeek": 3,
+        "reviews": [
+          4
+        ],
+        "nextReviewWeek": 5
+      },
+      "4": {
+        "firstStudiedWeek": 4,
         "reviews": [],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 5
       }
     },
     "administrativo": {
@@ -2309,14 +2813,22 @@
       "2": {
         "firstStudiedWeek": 2,
         "reviews": [
-          3
+          3,
+          4
         ],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 7
       },
       "3": {
         "firstStudiedWeek": 3,
+        "reviews": [
+          4
+        ],
+        "nextReviewWeek": 5
+      },
+      "4": {
+        "firstStudiedWeek": 4,
         "reviews": [],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 5
       }
     },
     "civil": {
@@ -2331,14 +2843,22 @@
       "2": {
         "firstStudiedWeek": 2,
         "reviews": [
-          3
+          3,
+          4
         ],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 7
       },
       "3": {
         "firstStudiedWeek": 3,
+        "reviews": [
+          4
+        ],
+        "nextReviewWeek": 5
+      },
+      "4": {
+        "firstStudiedWeek": 4,
         "reviews": [],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 5
       }
     },
     "processoCivil": {
@@ -2353,14 +2873,22 @@
       "2": {
         "firstStudiedWeek": 2,
         "reviews": [
-          3
+          3,
+          4
         ],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 7
       },
       "3": {
         "firstStudiedWeek": 3,
+        "reviews": [
+          4
+        ],
+        "nextReviewWeek": 5
+      },
+      "4": {
+        "firstStudiedWeek": 4,
         "reviews": [],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 5
       }
     },
     "penal": {
@@ -2375,14 +2903,22 @@
       "2": {
         "firstStudiedWeek": 2,
         "reviews": [
-          3
+          3,
+          4
         ],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 7
       },
       "3": {
         "firstStudiedWeek": 3,
+        "reviews": [
+          4
+        ],
+        "nextReviewWeek": 5
+      },
+      "4": {
+        "firstStudiedWeek": 4,
         "reviews": [],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 5
       }
     },
     "processoPenal": {
@@ -2397,14 +2933,22 @@
       "2": {
         "firstStudiedWeek": 2,
         "reviews": [
-          3
+          3,
+          4
         ],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 7
       },
       "3": {
         "firstStudiedWeek": 3,
+        "reviews": [
+          4
+        ],
+        "nextReviewWeek": 5
+      },
+      "4": {
+        "firstStudiedWeek": 4,
         "reviews": [],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 5
       }
     },
     "etica": {
@@ -2427,26 +2971,42 @@
       "3": {
         "firstStudiedWeek": 2,
         "reviews": [
-          3
+          3,
+          4
         ],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 7
       },
       "4": {
         "firstStudiedWeek": 2,
         "reviews": [
-          3
+          3,
+          4
         ],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 7
       },
       "5": {
         "firstStudiedWeek": 3,
-        "reviews": [],
-        "nextReviewWeek": 4
+        "reviews": [
+          4
+        ],
+        "nextReviewWeek": 5
       },
       "6": {
         "firstStudiedWeek": 3,
+        "reviews": [
+          4
+        ],
+        "nextReviewWeek": 5
+      },
+      "7": {
+        "firstStudiedWeek": 4,
         "reviews": [],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 5
+      },
+      "8": {
+        "firstStudiedWeek": 4,
+        "reviews": [],
+        "nextReviewWeek": 5
       }
     },
     "processoDoTrabalho": {
@@ -2461,14 +3021,22 @@
       "2": {
         "firstStudiedWeek": 2,
         "reviews": [
-          3
+          3,
+          4
         ],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 7
       },
       "3": {
         "firstStudiedWeek": 3,
+        "reviews": [
+          4
+        ],
+        "nextReviewWeek": 5
+      },
+      "4": {
+        "firstStudiedWeek": 4,
         "reviews": [],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 5
       }
     },
     "tributario": {
@@ -2483,14 +3051,22 @@
       "2": {
         "firstStudiedWeek": 2,
         "reviews": [
-          3
+          3,
+          4
         ],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 7
       },
       "3": {
         "firstStudiedWeek": 3,
+        "reviews": [
+          4
+        ],
+        "nextReviewWeek": 5
+      },
+      "4": {
+        "firstStudiedWeek": 4,
         "reviews": [],
-        "nextReviewWeek": 4
+        "nextReviewWeek": 5
       }
     }
   },

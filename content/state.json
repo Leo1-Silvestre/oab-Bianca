@@ -1,8 +1,8 @@
 {
   "examDate": "2027-01-10",
   "startDate": "2026-09-14",
-  "weeksTotal": 14,
-  "currentWeek": 4,
+  "weeksTotal": 13,
+  "currentWeek": 5,
   "pureReviewFromWeek": 15,
   "reviewIntervals": [
     1,
@@ -344,6 +344,60 @@
               "Dissolução do vínculo conjugal no curso do mandato não afasta a inelegibilidade por parentesco (exceção: dissolução por morte)."
             ]
           ]
+        },
+        "5": {
+          "teoria": "Depois de estudar os fundamentos da Constituição, agora entramos na estrutura concreta da Federação brasileira: quem são os entes que a compõem e como eles podem nascer, se transformar ou deixar de existir. O art. 1º, caput, da CF define o Brasil como uma Federação formada pela união indissolúvel de Estados, Municípios e Distrito Federal — \"indissolúvel\" porque não existe direito à secessão. O art. 18, caput, completa o quadro: a organização político-administrativa compreende União, Estados, DF e Municípios, todos autônomos. Essa autonomia se manifesta em quatro capacidades: auto-organização, autogoverno, autoadministração e autolegislação.\n\nA União merece atenção conceitual: é pessoa jurídica de direito público interno, diferente da República Federativa do Brasil, que é a pessoa jurídica de direito público externo — por isso é a União (em nome da República) quem representa o país nas relações internacionais.\n\nO fio condutor do bloco é o princípio da simetria constitucional: Estados, DF e Municípios devem adotar, sempre que possível, em suas Constituições estaduais e Leis Orgânicas, os princípios e as regras de organização da CF (normas de reprodução obrigatória). Não é cópia literal, mas respeito a um núcleo mínimo imposto pelo poder constituinte originário.\n\nQuanto à formação dos Estados, eles podem se incorporar entre si, subdividir-se ou desmembrar-se para se anexarem a outros ou formarem novos Estados/Territórios, mediante dois requisitos cumulativos: plebiscito da população diretamente interessada e aprovação do Congresso Nacional por lei complementar.\n\nOs Territórios Federais integram a União e não têm autonomia política — são autarquias territoriais, sem capacidade de autogoverno ou autolegislação própria. Hoje não existe nenhum território no Brasil, mas a criação continua prevista, por lei complementar; já a organização administrativa e judiciária interna é definida por lei ordinária.\n\nO Distrito Federal é peculiar: acumula competências legislativas de Estado e de Município, mas não tem Constituição — rege-se por Lei Orgânica, votada em dois turnos. Ele não pode ser dividido em Municípios, e, diferentemente dos Estados, não organiza nem mantém seu próprio Poder Judiciário, Ministério Público ou polícias — essas estruturas são organizadas e mantidas pela União, embora atuem no DF.",
+          "referencia": "Gabaritaço - Constitucional, Dicas 32 a 39 (Princípio da Simetria, União, Estados, Territórios, Distrito Federal).",
+          "lei_seca": [
+            [
+              "Art. 1º, caput, CF",
+              "Federação formada pela união indissolúvel de União, Estados, Municípios e DF; não há direito de secessão."
+            ],
+            [
+              "Art. 18, caput, CF",
+              "Organização político-administrativa: União, Estados, DF e Municípios, todos autônomos."
+            ],
+            [
+              "Art. 18, §2º, CF",
+              "Territórios Federais integram a União; criação regulada por lei complementar."
+            ],
+            [
+              "Art. 18, §3º, CF",
+              "Incorporação, subdivisão ou desmembramento de Estados exige plebiscito + lei complementar do Congresso."
+            ],
+            [
+              "Art. 18, §4º, CF",
+              "Criação, fusão, incorporação e desmembramento de Municípios por lei estadual, após plebiscito."
+            ],
+            [
+              "Art. 25, caput, CF",
+              "Estados se organizam pelas Constituições e leis que adotarem, observados os princípios da CF (princípio da simetria)."
+            ],
+            [
+              "Art. 29, CF",
+              "Município regido por Lei Orgânica, votada em 2 turnos, aprovada por 2/3 dos membros da Câmara Municipal."
+            ],
+            [
+              "Art. 32, caput, CF",
+              "Distrito Federal regido por Lei Orgânica (não possui Constituição própria)."
+            ],
+            [
+              "Art. 32, §1º, CF",
+              "Competências legislativas do DF somam as reservadas aos Estados e aos Municípios."
+            ],
+            [
+              "Art. 32, §4º, CF",
+              "Organização e manutenção da Polícia Civil, PM e Corpo de Bombeiros do DF são competência da União."
+            ],
+            [
+              "Art. 33, caput, CF",
+              "Lei ordinária disporá sobre a organização administrativa e judiciária dos Territórios."
+            ],
+            [
+              "Art. 33, §3º, CF",
+              "Territórios com mais de 100 mil habitantes terão órgãos judiciários, MP e Defensoria federais."
+            ]
+          ]
         }
       }
     },
@@ -616,6 +670,52 @@
             [
               "Art. 2º, I, Lei 11.101/2005",
               "Exclui empresas públicas e sociedades de economia mista do regime de falência."
+            ]
+          ]
+        },
+        "5": {
+          "teoria": "Ato administrativo é toda manifestação unilateral de vontade da Administração Pública, regida pelo direito público, que produz efeitos jurídicos imediatos visando a um fim público. Diferencia-se do ato da administração, categoria mais ampla que engloba também atos puramente materiais, que não traduzem manifestação de vontade com efeito jurídico próprio.\n\nTodo ato administrativo possui cinco requisitos (elementos). Competência, forma e finalidade são sempre elementos vinculados: a lei define exatamente quem pode praticar o ato, como ele deve se formalizar e qual objetivo de interesse público ele persegue. Já objeto e motivo podem ser vinculados ou discricionários, dependendo do caso. É importante não confundir motivo com motivação: motivo é a razão que levou à prática do ato; motivação é a exposição expressa, por escrito, dessa razão. Todo ato precisa ter motivo, mas nem todo ato precisa ser motivado — é o caso clássico da exoneração de cargo de livre nomeação, em que o motivo decorre da própria competência discricionária de quem nomeia.\n\nDaí a distinção entre ato vinculado e ato discricionário: no vinculado, a lei esgota todos os elementos, sem deixar opção ao agente; no discricionário, a lei confere margem de escolha quanto à conveniência e oportunidade (mérito administrativo), sempre dentro dos limites da razoabilidade e proporcionalidade — discricionariedade nunca é sinônimo de arbitrariedade. Por isso, o controle judicial sobre atos discricionários fica restrito à legalidade, sem que o Judiciário possa substituir o juízo de mérito do administrador.\n\nOs atributos do ato administrativo são: presunção de legitimidade e veracidade (presume-se, relativamente, que o ato foi editado conforme a lei); imperatividade (a Administração impõe obrigações unilateralmente); exigibilidade (usa meios indiretos de coerção, como multas); e autoexecutoriedade (executa o ato sem precisar de autorização judicial prévia).\n\nPor fim, vale o gancho com a autotutela: a Administração pode anular, de ofício ou por provocação, atos ilegais, e revogar atos válidos mas inconvenientes por razões de mérito — sempre respeitando direitos adquiridos e sujeito a controle judicial de legalidade.",
+          "referencia": "Gabaritaço - Administrativo, Dicas 27 a 35 (Atos Administrativos).",
+          "lei_seca": [
+            [
+              "Art. 37, II, CF/88",
+              "Exoneração de cargo de livre nomeação dispensa motivação expressa."
+            ],
+            [
+              "Art. 11, Lei 9.784/99",
+              "A competência administrativa é irrenunciável e se exerce pelo órgão a que foi atribuída."
+            ],
+            [
+              "Art. 12, Lei 9.784/99",
+              "Permite a delegação de competência a órgão ou agente não hierarquicamente subordinado, quando conveniente."
+            ],
+            [
+              "Art. 13, Lei 9.784/99",
+              "Veda a delegação de atos normativos, decisão de recursos administrativos e matérias de competência exclusiva."
+            ],
+            [
+              "Art. 15, Lei 9.784/99",
+              "Admite, em caráter excepcional e justificado, a avocação temporária de competência."
+            ],
+            [
+              "Art. 54, Lei 9.784/99",
+              "O direito de anular atos administrativos favoráveis decai em 5 anos da prática do ato, salvo má-fé."
+            ],
+            [
+              "Art. 55, Lei 9.784/99",
+              "Permite a convalidação de atos com defeitos sanáveis que não lesem o interesse público nem terceiros."
+            ],
+            [
+              "Art. 56, Lei 9.784/99",
+              "Cabe recurso administrativo das decisões, por razões de legalidade e de mérito."
+            ],
+            [
+              "Súmula 346, STF",
+              "A Administração Pública pode declarar a nulidade dos seus próprios atos (autotutela)."
+            ],
+            [
+              "Súmula 473, STF",
+              "A Administração pode anular atos ilegais ou revogar atos por conveniência/oportunidade, respeitados direitos adquiridos."
             ]
           ]
         }
@@ -967,6 +1067,68 @@
               "Pode a parte recusar a prestação devida se a situação patrimonial do outro contratante comprometer ou tornar duvidosa a prestação."
             ]
           ]
+        },
+        "5": {
+          "teoria": "O contrato de compra e venda é bilateral e oneroso: uma parte se obriga a transferir o domínio de uma coisa, e a outra, a pagar o preço em dinheiro. Importante não confundir o contrato — que é apenas título, uma promessa de transmitir — com a transferência da propriedade em si: para bens móveis ela ocorre pela tradição (entrega), e para imóveis, pelo registro no cartório. Entre as modalidades especiais estão a venda ad corpus (coisa certa) e ad mensuram (por medida, cabendo complemento ou abatimento se a área não corresponder); a venda a contento, que só se completa após o agrado do comprador; e a retrovenda, em que o vendedor de imóvel reserva o direito de recobrar a coisa em até 3 anos.\n\nDuas restrições merecem atenção redobrada para a prova. Primeiro, a venda de ascendente a descendente: é anulável se não houver consentimento dos demais descendentes e do cônjuge do alienante. Segundo, a venda entre cônjuges: é lícita, mas só quanto a bens excluídos da comunhão; vender bem que integra o patrimônio comum é nulo.\n\nJá a doação é a transferência gratuita de bens por liberalidade, aceita pelo donatário. Exige escritura pública ou instrumento particular; a doação verbal só vale para bem móvel de pequeno valor com tradição imediata. É nula a doação de todos os bens sem reserva do necessário à subsistência do doador, e nula a doação inoficiosa, isto é, a parcela que excede o que o doador poderia dispor em testamento, respeitando a legítima dos herdeiros necessários. A doação entre ascendente e descendente, ou entre cônjuges, importa adiantamento de herança e deve ser colacionada no inventário.\n\nA doação pode ser revogada por ingratidão do donatário (hipóteses taxativas: atentado à vida, ofensa física, injúria/calúnia grave, recusa de alimentos) ou por inexecução do encargo, no prazo de 1 ano a contar do conhecimento do fato. Esse direito é personalíssimo: não passa aos herdeiros do doador nem atinge os do donatário, salvo a ação já iniciada.",
+          "referencia": "Gabaritaço - Civil, Dicas 29 a 33 (Compra e Venda e Doação); Revisão - Civil, seção \"Contratos em Espécie\".",
+          "lei_seca": [
+            [
+              "Art. 481, CC",
+              "Conceito do contrato de compra e venda: um contratante transfere o domínio da coisa, o outro paga o preço em dinheiro."
+            ],
+            [
+              "Art. 489, CC",
+              "Venda a contento: só se reputa perfeita depois que o comprador manifesta seu agrado."
+            ],
+            [
+              "Art. 496, CC",
+              "Venda de ascendente a descendente é anulável sem o consentimento dos demais descendentes e do cônjuge do alienante."
+            ],
+            [
+              "Art. 499, CC",
+              "É lícita a compra e venda entre cônjuges, quanto a bens excluídos da comunhão."
+            ],
+            [
+              "Art. 500, CC",
+              "Na venda ad mensuram, cabe complemento da área ou abatimento do preço se não corresponder às dimensões dadas."
+            ],
+            [
+              "Art. 505, CC",
+              "Retrovenda: o vendedor de bem imóvel pode reservar o direito de recobrá-lo em até 3 anos."
+            ],
+            [
+              "Art. 538, CC",
+              "Conceito de doação: liberalidade pela qual o doador transfere bens ou vantagens de seu patrimônio para o donatário."
+            ],
+            [
+              "Art. 541, CC",
+              "A doação faz-se por escritura pública ou instrumento particular; doação verbal só é válida para bem móvel de pequeno valor com tradição imediata."
+            ],
+            [
+              "Art. 544, CC",
+              "Doação de ascendente a descendente, ou entre cônjuges, importa adiantamento da herança (sujeita a colação)."
+            ],
+            [
+              "Art. 548, CC",
+              "É nula a doação de todos os bens do doador sem reserva do necessário à sua subsistência."
+            ],
+            [
+              "Art. 549, CC",
+              "É nula a doação inoficiosa, na parte que exceder o que o doador poderia dispor em testamento."
+            ],
+            [
+              "Art. 555, CC",
+              "A doação pode ser revogada por ingratidão do donatário ou por inexecução do encargo."
+            ],
+            [
+              "Art. 557, CC",
+              "Hipóteses taxativas de ingratidão: atentado contra a vida, ofensa física, injúria/calúnia grave, ou recusa de alimentos ao doador necessitado."
+            ],
+            [
+              "Art. 559, CC",
+              "Prazo de 1 ano, a contar do conhecimento do fato, para pleitear a revogação da doação por ingratidão."
+            ]
+          ]
         }
       }
     },
@@ -1272,6 +1434,52 @@
               "O recurso de um litisconsorte aproveita aos demais, salvo se os interesses forem distintos ou opostos entre eles."
             ]
           ]
+        },
+        "5": {
+          "teoria": "A tutela provisória é o instrumento que permite ao juiz antecipar, mesmo antes do trânsito em julgado, um provimento jurisdicional que normalmente só viria ao final do processo. Ela se divide em duas espécies: tutela de urgência e tutela de evidência.\n\nA tutela de urgência exige dois requisitos cumulativos: probabilidade do direito e perigo de dano ou risco ao resultado útil do processo. Subdivide-se em cautelar e antecipada. A cautelar protege o direito para que ele possa ser satisfeito no futuro, sem satisfazê-lo de imediato. A antecipada, ao contrário, satisfaz desde já, na prática, o próprio direito pleiteado. Por isso, a antecipada não pode ser concedida quando houver risco de irreversibilidade dos efeitos.\n\nAmbas podem ser requeridas de forma antecedente (antes do ajuizamento da ação principal) ou incidental (no curso do processo já instaurado). Na tutela cautelar antecedente, concedida a medida, o autor deve formular o pedido principal nos mesmos autos em até 30 dias, sob pena de cessação de eficácia. Já na tutela antecipada antecedente, o procedimento é peculiar: o autor formula apenas o pedido de tutela, indicando a lide e a urgência; concedida, deve aditar a petição inicial em 15 dias; e, se o réu não recorrer da decisão concessiva, ocorre a estabilização da tutela — o processo é extinto e a tutela permanece eficaz, mas essa estabilização NÃO faz coisa julgada: qualquer das partes pode propor ação autônoma para revisar, reformar ou invalidar a decisão, no prazo de 2 anos.\n\nJá a tutela de evidência dispensa a demonstração de urgência — basta que o direito alegado seja evidente: abuso do direito de defesa ou manobra protelatória; tese firmada em julgamento repetitivo ou súmula vinculante; pedido de restituição de bem com prova documental de contrato de depósito; ou petição inicial bem instruída, sem que o réu crie dúvida razoável. Cabe apenas de forma incidental e, em algumas hipóteses, pode até ser concedida liminarmente, sem ouvir o réu antes.",
+          "referencia": "Gabaritaço - Processo Civil, Dicas 24 a 30 (Tutela Provisória); Revisão - Processo Civil, seção \"Tutela Provisória\".",
+          "lei_seca": [
+            [
+              "Art. 294, CPC",
+              "A tutela provisória pode ser de urgência (cautelar ou antecipada) ou de evidência, em caráter antecedente ou incidental."
+            ],
+            [
+              "Art. 300, CPC",
+              "Requisitos da tutela de urgência: probabilidade do direito e perigo de dano; veda a tutela antecipada quando houver risco de irreversibilidade."
+            ],
+            [
+              "Art. 302, CPC",
+              "A parte responde objetivamente pelo prejuízo causado pela efetivação da tutela de urgência."
+            ],
+            [
+              "Art. 303, CPC",
+              "Disciplina o procedimento da tutela antecipada antecedente, com aditamento obrigatório da petição inicial em 15 dias."
+            ],
+            [
+              "Art. 304, CPC",
+              "Estabilização da tutela antecipada antecedente não impugnada: extinção sem coisa julgada, com prazo de 2 anos para ação de revisão."
+            ],
+            [
+              "Art. 308, CPC",
+              "Na tutela cautelar antecedente efetivada, o pedido principal deve ser formulado em até 30 dias, nos mesmos autos."
+            ],
+            [
+              "Art. 309, CPC",
+              "Hipóteses de cessação da eficácia da tutela concedida em caráter antecedente."
+            ],
+            [
+              "Art. 310, CPC",
+              "O indeferimento da tutela cautelar não impede o ajuizamento da ação principal nem influi no seu julgamento."
+            ],
+            [
+              "Art. 311, CPC",
+              "Hipóteses de tutela de evidência, dispensada a demonstração de perigo de dano."
+            ],
+            [
+              "Art. 1.015, I, CPC",
+              "Cabe agravo de instrumento contra a decisão interlocutória que versar sobre tutelas provisórias."
+            ]
+          ]
         }
       }
     },
@@ -1551,6 +1759,52 @@
               "Lei penal mais grave aplica-se ao crime continuado ou permanente se sua vigência é anterior à cessação da continuidade/permanência."
             ]
           ]
+        },
+        "5": {
+          "teoria": "O Código Penal prevê três espécies de pena privativa de liberdade: reclusão (cumprida em qualquer regime), detenção (cumprida apenas em regime semiaberto ou aberto, salvo regressão) e prisão simples (exclusiva das contravenções penais). A escolha do regime inicial depende da quantidade de pena fixada e das circunstâncias judiciais: regime fechado para pena superior a 8 anos; semiaberto para pena superior a 4 e até 8 anos; e aberto para pena de até 4 anos, desde que as circunstâncias judiciais sejam favoráveis — mas o juiz pode fixar regime mais rigoroso se as circunstâncias forem desfavoráveis, mesmo dentro da faixa de pena mais branda.\n\nO coração deste bloco é o sistema trifásico de dosimetria da pena, usado para transformar a pena abstrata do tipo penal na pena concreta aplicada ao réu. Na 1ª fase, fixa-se a pena-base dentro dos limites mínimo e máximo do tipo, a partir das oito circunstâncias judiciais: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime, e comportamento da vítima. Atenção: é vedado usar inquéritos policiais ou ações penais em curso (sem trânsito em julgado) para agravar a pena-base.\n\nNa 2ª fase, aplicam-se as agravantes e atenuantes genéricas, respeitando o limite mínimo e máximo previsto no tipo — nunca podem extrapolá-lo. A reincidência (novo crime após trânsito em julgado de condenação anterior) é a principal agravante, mas não pode ser considerada simultaneamente como reincidência e como maus antecedentes na pena-base — seria bis in idem.\n\nNa 3ª fase, incidem as causas de aumento e de diminuição, que são frações fixas ou variáveis e, diferente das fases anteriores, podem extrapolar os limites mínimo/máximo do tipo. Havendo concurso de causas de aumento e diminuição na Parte Especial, o juiz pode limitar-se a um só aumento e uma só diminuição, prevalecendo a que mais aumente ou mais diminua.",
+          "referencia": "Gabaritaço - Penal, Dicas 29 a 35 (Regimes Prisionais e Dosimetria) e Dicas 38-39 (Reincidência); Revisão - Penal, seções \"Das Penas\" e \"Dosimetria da Pena\".",
+          "lei_seca": [
+            [
+              "Art. 33, caput, CP",
+              "Reclusão é cumprida em qualquer regime; detenção só em semiaberto ou aberto."
+            ],
+            [
+              "Art. 33, §2º, CP",
+              "Critério de regime inicial: fechado (>8 anos), semiaberto (>4 e ≤8 anos), aberto (≤4 anos)."
+            ],
+            [
+              "Art. 59, CP",
+              "Circunstâncias judiciais para fixação da pena-base na 1ª fase da dosimetria."
+            ],
+            [
+              "Art. 61, CP",
+              "Agravantes genéricas (reincidência e outras), aplicadas quando não constituem ou qualificam o crime."
+            ],
+            [
+              "Art. 63, CP",
+              "Conceito legal de reincidência: novo crime após trânsito em julgado de condenação anterior."
+            ],
+            [
+              "Art. 65, CP",
+              "Atenuantes genéricas (menoridade relativa, senilidade, confissão espontânea, motivo relevante) — sempre atenuam."
+            ],
+            [
+              "Art. 68, caput, CP",
+              "Sistema trifásico: pena-base → agravantes/atenuantes → causas de aumento/diminuição."
+            ],
+            [
+              "Art. 68, parágrafo único, CP",
+              "No concurso de causas de aumento/diminuição da Parte Especial, o juiz pode limitar-se a um só aumento e uma só diminuição."
+            ],
+            [
+              "Súmula 444, STJ",
+              "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base."
+            ],
+            [
+              "Súmula 241, STJ",
+              "A reincidência não pode ser considerada simultaneamente como agravante e como maus antecedentes, sob pena de bis in idem."
+            ]
+          ]
         }
       }
     },
@@ -1822,6 +2076,60 @@
             [
               "Art. 5º, Lei 9.296/96",
               "A interceptação não poderá exceder o prazo de 15 dias, renovável por igual período."
+            ]
+          ]
+        },
+        "5": {
+          "teoria": "Depois de tratar das provas em geral, o roteiro chega às \"provas pessoais\" — aquelas que dependem da palavra de alguém. O interrogatório do acusado é o último ato da instrução e é também o momento de autodefesa do réu: ele deve estar sempre acompanhado de advogado e, havendo corréus, cada um é interrogado separadamente. O réu tem direito constitucional ao silêncio — pode se calar total ou parcialmente, sem que isso seja interpretado como confissão ou em seu prejuízo — e não pode ser conduzido coercitivamente para esse ato. Também não é obrigado a participar de acareações, reconhecimentos ou reconstituições (princípio da não autoincriminação). O interrogatório por videoconferência é excepcional, cabendo só por decisão fundamentada.\n\nA confissão é o ato pelo qual o acusado admite, total ou parcialmente, os fatos que lhe são imputados. Para valer, precisa ser livre e espontânea: se obtida por coação, ameaça ou promessa de vantagem, é prova ilícita. Mesmo válida, a confissão não dispensa o juiz de confrontá-la com as demais provas dos autos, e é divisível e retratável. Mesmo assim, ela funciona como atenuante genérica, inclusive se usada para formar o convencimento do julgador apesar da retratação.\n\nA vítima também é ouvida sobre as circunstâncias do crime, a identidade do autor e eventuais provas — sem prestar compromisso de dizer a verdade.\n\nJá a testemunha presta compromisso e depõe oralmente, sendo ouvida individualmente. A lei distingue quem pode se recusar a depor por vínculo familiar (ascendentes, descendentes, cônjuge, irmão — salvo se não houver outro meio de prova) de quem é proibido de depor por sigilo profissional. O número máximo de testemunhas varia por procedimento. Por fim, a acareação confronta presencialmente pessoas cujos relatos sejam divergentes sobre um fato relevante, inclusive por carta precatória.",
+          "referencia": "Gabaritaço - Processo Penal, Dicas 27 a 31 (Interrogatório, Confissão, Prova Testemunhal, Acareação); Revisão - Processo Penal, seção \"Provas\".",
+          "lei_seca": [
+            [
+              "Art. 185, CPP",
+              "Interrogatório exige presença de defensor; videoconferência só excepcional e por decisão fundamentada."
+            ],
+            [
+              "Art. 186, CPP",
+              "Direito de permanecer calado, sem interpretação em prejuízo da defesa."
+            ],
+            [
+              "Art. 191, CPP",
+              "Havendo mais de um acusado, interrogatórios são feitos separadamente."
+            ],
+            [
+              "Art. 197, CPP",
+              "A confissão deve ser confrontada com as demais provas do processo."
+            ],
+            [
+              "Art. 200, CPP",
+              "A confissão é divisível e retratável."
+            ],
+            [
+              "Art. 201, CPP",
+              "Oitiva do ofendido sobre as circunstâncias, autoria e provas do crime."
+            ],
+            [
+              "Art. 203, CPP",
+              "A testemunha presta compromisso de dizer a verdade."
+            ],
+            [
+              "Art. 206, CPP",
+              "Parentes próximos podem se recusar a depor, salvo impossibilidade de outra prova."
+            ],
+            [
+              "Art. 207, CPP",
+              "Proibidos de depor por sigilo profissional, salvo desobrigados pela parte interessada."
+            ],
+            [
+              "Art. 229, CPP",
+              "Acareação cabe entre acusados, testemunhas e vítimas com depoimentos divergentes."
+            ],
+            [
+              "Art. 400, CPP",
+              "Ordem dos atos na instrução: interrogatório do acusado é o último."
+            ],
+            [
+              "Súmula 545, STJ",
+              "Confissão usada para formar a convicção do juiz dá direito à atenuante, mesmo se retratada."
             ]
           ]
         }
@@ -2226,6 +2534,78 @@
               "Competência para promover o desagravo: Diretoria/Conselho da Subseção ou Conselho Federal, conforme a abrangência da ofensa."
             ]
           ]
+        },
+        "9": {
+          "teoria": "O sigilo profissional é dever fundamental do advogado, decorrente da relação de confiança que sustenta toda a advocacia — sem ele, o cliente não revelaria fatos essenciais à sua defesa. O dever de sigilo abrange todos os fatos de que o advogado tome conhecimento no exercício da profissão, inclusive antes de qualquer contrato formal e mesmo depois de encerrado o mandato — a relação com ex-clientes também é protegida. O advogado deve, além de guardar sigilo pessoalmente, orientar seu cliente e seus colaboradores a fazerem o mesmo. O dever se estende ainda a informações obtidas no exercício de cargo ou função na própria OAB, persistindo mesmo após o fim do mandato classista.\n\nPor força do Estatuto, o advogado tem o direito-dever de recusar-se a depor como testemunha sobre fato relacionado a quem seja ou tenha sido seu cliente, mesmo que o próprio cliente autorize ou solicite a quebra do sigilo — isso mostra que o sigilo protege um interesse que vai além da vontade individual do cliente. Na mesma lógica, é absolutamente vedado ao advogado fazer colaboração premiada contra quem seja ou tenha sido seu cliente.\n\nA quebra injustificada do sigilo (\"sem justa causa\") configura infração disciplinar, punível com censura — e, cumulativamente, pode configurar o crime de violação de segredo profissional (art. 154, CP), que exige representação da vítima para a ação penal. \"Justa causa\" é interpretada restritivamente: abrange, por exemplo, a defesa própria do advogado em processo disciplinar ou judicial, ou autorização expressa do próprio cliente em seu exclusivo interesse.",
+          "referencia": "Código de Ética e Disciplina da OAB, Capítulo do Sigilo Profissional (arts. 25 a 27); Gabaritaço - Ética, Dicas 16 e 17.",
+          "lei_seca": [
+            [
+              "Art. 25, Código de Ética e Disciplina da OAB",
+              "Dever de guardar sigilo dos fatos conhecidos no exercício da profissão, inclusive orientando cliente e colaboradores."
+            ],
+            [
+              "Art. 26, Código de Ética e Disciplina da OAB",
+              "O sigilo abrange informações obtidas mesmo antes da constituição formal de mandato."
+            ],
+            [
+              "Art. 27, Código de Ética e Disciplina da OAB",
+              "Sigilo sobre fatos conhecidos em razão de cargo/função exercida na OAB, mantido mesmo após o fim do mandato classista."
+            ],
+            [
+              "Art. 7º, XIX, Lei 8.906/94",
+              "Direito/dever de recusar-se a depor como testemunha sobre fato de que teve ciência em razão da profissão."
+            ],
+            [
+              "Art. 7º, §6º, I, Lei 8.906/94",
+              "Veda colaboração premiada contra quem seja ou tenha sido cliente do advogado."
+            ],
+            [
+              "Art. 34, VII, Lei 8.906/94",
+              "Constitui infração disciplinar violar, sem justa causa, o sigilo profissional (sanção de censura)."
+            ],
+            [
+              "Art. 154, Código Penal",
+              "Crime de violação do segredo profissional; pena de detenção de 3 meses a 1 ano ou multa."
+            ],
+            [
+              "Art. 154, parágrafo único, Código Penal",
+              "A ação penal pelo crime de violação de segredo profissional depende de representação da vítima."
+            ]
+          ]
+        },
+        "10": {
+          "teoria": "As sociedades de advogados existem em duas formas: a Sociedade Simples de Advocacia, formada por 2 ou mais advogados, e a Sociedade Unipessoal de Advocacia (SUA), instituída pela Lei 13.247/2016, formada por um único advogado. A SUA segue, em regra, o mesmo tratamento da sociedade simples, mas seu nome deve conter obrigatoriamente o nome (completo ou parcial) do titular seguido da expressão \"Sociedade Individual de Advocacia\" — é vedado usar sigla ou nome fantasia tanto na SUA quanto na sociedade simples.\n\nA personalidade jurídica da sociedade nasce com o registro de seus atos constitutivos no Conselho Seccional da OAB do local da sede — nunca em Junta Comercial ou Cartório de Registro de Pessoas Jurídicas, pois a sociedade de advogados jamais pode assumir forma empresária. Essa personalidade jurídica serve apenas para a prática dos atos necessários à atividade, não para a prática de atos privativos da advocacia, que continuam sendo exercidos pelos advogados individualmente. É vedado admitir sócio não inscrito na OAB ou impedido de advogar, bem como misturar a advocacia com atividades estranhas a ela.\n\nA responsabilidade dos sócios, do titular da SUA e dos advogados associados é subsidiária e ilimitada por danos causados a clientes e terceiros, por dolo ou culpa, ação ou omissão. Por fim, cada advogado só pode integrar uma sociedade (sede ou filial) por Conselho Seccional, sendo vedado acumular SUA e outra sociedade na mesma base territorial — mas é permitido associar-se (sem vínculo de sócio) a outras sociedades, inclusive em Seccionais diferentes.",
+          "referencia": "Aulão - Ética, seção \"Sociedade de Advogados\" e \"Sociedade Unipessoal\"; Revisão - Ética, capítulo \"Sociedade de Advogados e Advogado Empregado\".",
+          "lei_seca": [
+            [
+              "Art. 15, Lei 8.906/94",
+              "Os advogados podem reunir-se em sociedade simples de advocacia ou constituir sociedade unipessoal, vedada a forma empresária."
+            ],
+            [
+              "Art. 15, §1º, Lei 8.906/94",
+              "A sociedade adquire personalidade jurídica com o registro de seus atos constitutivos no Conselho Seccional da OAB da sede."
+            ],
+            [
+              "Lei 13.247/2016",
+              "Instituiu a Sociedade Individual de Advocacia (unipessoal)."
+            ],
+            [
+              "Art. 16, Lei 8.906/94",
+              "Vedações à sociedade de advogados: forma empresária, nome fantasia, sócio não inscrito, mistura com atividades estranhas à advocacia."
+            ],
+            [
+              "Art. 16, §3º, Lei 8.906/94",
+              "A denominação da Sociedade Individual de Advocacia deve conter o nome do titular + \"Sociedade Individual de Advocacia\"."
+            ],
+            [
+              "Art. 17, Lei 8.906/94",
+              "Responsabilidade subsidiária e ilimitada dos sócios, do titular da sociedade unipessoal e dos advogados associados."
+            ],
+            [
+              "Art. 17-A, Lei 8.906/94",
+              "O advogado pode associar-se a uma ou mais sociedades de advogados, sem vínculo empregatício."
+            ]
+          ]
         }
       }
     },
@@ -2469,6 +2849,56 @@
             [
               "Art. 843, CLT",
               "Na audiência, as partes devem comparecer pessoalmente, podendo o reclamado se fazer substituir pelo preposto."
+            ]
+          ]
+        },
+        "5": {
+          "teoria": "A audiência trabalhista é, via de regra, una: conciliação, instrução e julgamento acontecem numa só sessão, evitando-se o fracionamento típico do processo civil. Ela deve ocorrer entre 8h e 18h, em dias úteis, sem ultrapassar 5 horas contínuas, salvo matéria urgente. Quanto ao atraso: se for só o juiz que falta, a tolerância clássica da CLT é de 15 minutos para as partes se retirarem, registrando o fato em livro; mas uma regra mais recente trouxe margem mais ampla — se a sessão não começar em 30 minutos, todos podem sair sem sofrer sanção, remarcando-se a audiência o mais breve possível.\n\nO juiz deve propor conciliação na abertura e, de novo, no encerramento da audiência. Se as partes acordam, o termo tem força de sentença e é irrecorrível — a única exceção é a Previdência Social, que pode questionar os valores de contribuições devidas a ela.\n\nSobre comparecimento: o reclamante ausente tem o processo arquivado (salvo justificativa), pagando custas mesmo sendo beneficiário da justiça gratuita; faltar a duas audiências seguidas gera perempção (impedido de propor a mesma ação por 6 meses). O reclamado ausente é declarado revel, com confissão ficta, mas seu advogado presente ainda pode apresentar contestação e documentos.\n\nQuanto às provas, a regra geral do ônus atribui ao reclamante o fato constitutivo do seu direito e ao reclamado os fatos impeditivo, modificativo ou extintivo — podendo o juiz inverter esse ônus por decisão fundamentada. Na prova testemunhal, as testemunhas comparecem independentemente de intimação; faltando, o juiz pode intimá-las e, se persistir a ausência, determinar condução coercitiva e multa. Por fim, o \"ponto britânico\" — cartões com horários de entrada/saída sempre idênticos — é inválido como prova, invertendo o ônus da prova das horas extras para o empregador.",
+          "referencia": "Gabaritaço - Processo do Trabalho, Dicas 24 a 33 (Audiência e Provas); Revisão - Processo do Trabalho, seção \"Audiência Trabalhista\".",
+          "lei_seca": [
+            [
+              "Art. 813, CLT",
+              "Audiências ocorrem entre 8h e 18h, sem exceder 5h contínuas, salvo matéria urgente."
+            ],
+            [
+              "Art. 815, §1º, CLT",
+              "Tolerância de 15 min de atraso do juiz para as partes se retirarem, com registro em livro de audiências."
+            ],
+            [
+              "Art. 843, CLT",
+              "Comparecimento pessoal das partes à audiência, com regras de representação."
+            ],
+            [
+              "Art. 844, §§1º a 5º, CLT",
+              "Efeitos do não comparecimento: arquivamento (reclamante ausente) e revelia/confissão ficta (reclamado ausente)."
+            ],
+            [
+              "Art. 732, CLT",
+              "Perempção por faltar a 2 audiências seguidas (impedimento de 6 meses para propor a mesma ação)."
+            ],
+            [
+              "Art. 846, CLT",
+              "Proposta de conciliação na abertura da audiência."
+            ],
+            [
+              "Art. 850, CLT",
+              "Proposta de conciliação após as razões finais, antes da decisão."
+            ],
+            [
+              "Art. 831, CLT",
+              "Termo de conciliação com força de decisão irrecorrível, exceto para a Previdência Social."
+            ],
+            [
+              "Art. 818, CLT",
+              "Distribuição do ônus da prova (fato constitutivo ao reclamante; impeditivo/modificativo/extintivo ao reclamado)."
+            ],
+            [
+              "Súmula 338, III, TST",
+              "Invalidade dos cartões de ponto com horários uniformes (\"ponto britânico\") e inversão do ônus da prova das horas extras."
+            ],
+            [
+              "Súmula 460, TST",
+              "Ônus do empregador de comprovar que o empregado não preenche os requisitos do vale-transporte."
             ]
           ]
         }
@@ -2766,6 +3196,56 @@
               "O serviço de iluminação pública não pode ser remunerado mediante taxa (deve ser COSIP)."
             ]
           ]
+        },
+        "5": {
+          "teoria": "Hoje o foco são os impostos federais em espécie: II, IE, IR, IPI, IOF, ITR e IGF, mais dois impostos federais \"especiais\": o Imposto Extraordinário de Guerra (IEG) e o novo Imposto Seletivo (IS, criado pela reforma tributária). A melhor forma de organizá-los é por função.\n\nPrimeiro, o bloco \"regulatório de mercado\" — II, IE, IPI e IOF. Esses quatro são exceção simultânea à legalidade (suas alíquotas podem ser alteradas por ato do Poder Executivo, sem lei) e às duas anterioridades, anual e nonagesimal (cobrança imediata). O II incide na entrada de produto estrangeiro no território nacional; seu pagamento é condição para o desembaraço aduaneiro. A IE incide na saída de produto nacional ou nacionalizado. O IPI exige saída do produto do estabelecimento industrial (é imune na exportação). O IOF incide sobre operações de crédito, câmbio, seguro e títulos/valores mobiliários.\n\nO IR é o grande imposto fiscal/arrecadatório: fato gerador é a aquisição de disponibilidade econômica ou jurídica de renda ou proventos de qualquer natureza, independente da denominação, origem (lícita ou ilícita) ou nacionalidade da fonte. Segue a legalidade e a anterioridade anual, mas é exceção à nonagesimal.\n\nO ITR é misto: fiscal, mas com viés extrafiscal ao permitir alíquotas progressivas contra terras improdutivas; é imune para pequenas glebas rurais exploradas pelo único imóvel do proprietário. O ITR não tem nenhuma exceção à legalidade ou às anterioridades.\n\nO IGF existe desde 1988 mas nunca foi efetivamente instituído: exige lei complementar, que até hoje não foi editada.\n\nO IEG é a única hipótese de bitributação autorizada pela CF: instituído por lei ordinária na iminência ou caso de guerra externa, pode usar fato gerador de impostos já existentes, é temporário e exceção às duas anterioridades, mas não à legalidade.\n\nO Imposto Seletivo, trazido pela reforma tributária, vai gradualmente substituir o IPI como \"imposto do pecado\": incide sobre produtos/serviços nocivos à saúde ou ao meio ambiente, incide obrigatoriamente sobre armas e munições, e não incide sobre exportações, energia elétrica e telecomunicações.",
+          "referencia": "Gabaritaço - Tributário, Dicas 53 a 60 (Impostos Federais e Imposto Seletivo); Revisão - Tributário, seção \"Impostos Federais\".",
+          "lei_seca": [
+            [
+              "Art. 153, CF",
+              "Lista os impostos da União: II, IE, IR, IPI, IOF, ITR, IGF e o Imposto Seletivo."
+            ],
+            [
+              "Art. 153, §1º, CF",
+              "Permite ao Poder Executivo alterar, dentro das condições e limites legais, as alíquotas de II, IE, IPI e IOF."
+            ],
+            [
+              "Art. 153, §3º, III, CF",
+              "Imunidade de IPI sobre produtos industrializados destinados ao exterior."
+            ],
+            [
+              "Art. 153, §4º, II, CF",
+              "Imunidade do ITR para pequenas glebas rurais exploradas pelo proprietário que não possua outro imóvel."
+            ],
+            [
+              "Art. 154, II, CF",
+              "Imposto Extraordinário de Guerra, instituível na iminência ou no caso de guerra externa."
+            ],
+            [
+              "Art. 150, §1º, CF",
+              "Define as exceções às anterioridades anual e nonagesimal (abrange II, IE, IPI, IOF e IEG)."
+            ],
+            [
+              "Art. 19, CTN",
+              "Fato gerador do Imposto de Importação (II): entrada do produto estrangeiro no território nacional."
+            ],
+            [
+              "Art. 43, CTN",
+              "Fato gerador do Imposto de Renda: aquisição de disponibilidade econômica ou jurídica de renda ou proventos."
+            ],
+            [
+              "Art. 46, CTN",
+              "Fato gerador do IPI, inclusive a saída do produto do estabelecimento industrial."
+            ],
+            [
+              "Art. 29, CTN",
+              "Fato gerador do ITR: propriedade, domínio útil ou posse de imóvel rural."
+            ],
+            [
+              "Súmula 323, STF",
+              "É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos."
+            ]
+          ]
         }
       }
     }
@@ -2791,14 +3271,22 @@
       "3": {
         "firstStudiedWeek": 3,
         "reviews": [
-          4
+          4,
+          5
         ],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 8
       },
       "4": {
         "firstStudiedWeek": 4,
+        "reviews": [
+          5
+        ],
+        "nextReviewWeek": 6
+      },
+      "5": {
+        "firstStudiedWeek": 5,
         "reviews": [],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 6
       }
     },
     "administrativo": {
@@ -2821,14 +3309,22 @@
       "3": {
         "firstStudiedWeek": 3,
         "reviews": [
-          4
+          4,
+          5
         ],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 8
       },
       "4": {
         "firstStudiedWeek": 4,
+        "reviews": [
+          5
+        ],
+        "nextReviewWeek": 6
+      },
+      "5": {
+        "firstStudiedWeek": 5,
         "reviews": [],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 6
       }
     },
     "civil": {
@@ -2851,14 +3347,22 @@
       "3": {
         "firstStudiedWeek": 3,
         "reviews": [
-          4
+          4,
+          5
         ],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 8
       },
       "4": {
         "firstStudiedWeek": 4,
+        "reviews": [
+          5
+        ],
+        "nextReviewWeek": 6
+      },
+      "5": {
+        "firstStudiedWeek": 5,
         "reviews": [],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 6
       }
     },
     "processoCivil": {
@@ -2881,14 +3385,22 @@
       "3": {
         "firstStudiedWeek": 3,
         "reviews": [
-          4
+          4,
+          5
         ],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 8
       },
       "4": {
         "firstStudiedWeek": 4,
+        "reviews": [
+          5
+        ],
+        "nextReviewWeek": 6
+      },
+      "5": {
+        "firstStudiedWeek": 5,
         "reviews": [],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 6
       }
     },
     "penal": {
@@ -2911,14 +3423,22 @@
       "3": {
         "firstStudiedWeek": 3,
         "reviews": [
-          4
+          4,
+          5
         ],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 8
       },
       "4": {
         "firstStudiedWeek": 4,
+        "reviews": [
+          5
+        ],
+        "nextReviewWeek": 6
+      },
+      "5": {
+        "firstStudiedWeek": 5,
         "reviews": [],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 6
       }
     },
     "processoPenal": {
@@ -2941,14 +3461,22 @@
       "3": {
         "firstStudiedWeek": 3,
         "reviews": [
-          4
+          4,
+          5
         ],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 8
       },
       "4": {
         "firstStudiedWeek": 4,
+        "reviews": [
+          5
+        ],
+        "nextReviewWeek": 6
+      },
+      "5": {
+        "firstStudiedWeek": 5,
         "reviews": [],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 6
       }
     },
     "etica": {
@@ -2987,26 +3515,42 @@
       "5": {
         "firstStudiedWeek": 3,
         "reviews": [
-          4
+          4,
+          5
         ],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 8
       },
       "6": {
         "firstStudiedWeek": 3,
         "reviews": [
-          4
+          4,
+          5
         ],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 8
       },
       "7": {
         "firstStudiedWeek": 4,
-        "reviews": [],
-        "nextReviewWeek": 5
+        "reviews": [
+          5
+        ],
+        "nextReviewWeek": 6
       },
       "8": {
         "firstStudiedWeek": 4,
+        "reviews": [
+          5
+        ],
+        "nextReviewWeek": 6
+      },
+      "9": {
+        "firstStudiedWeek": 5,
         "reviews": [],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 6
+      },
+      "10": {
+        "firstStudiedWeek": 5,
+        "reviews": [],
+        "nextReviewWeek": 6
       }
     },
     "processoDoTrabalho": {
@@ -3029,14 +3573,22 @@
       "3": {
         "firstStudiedWeek": 3,
         "reviews": [
-          4
+          4,
+          5
         ],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 8
       },
       "4": {
         "firstStudiedWeek": 4,
+        "reviews": [
+          5
+        ],
+        "nextReviewWeek": 6
+      },
+      "5": {
+        "firstStudiedWeek": 5,
         "reviews": [],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 6
       }
     },
     "tributario": {
@@ -3059,14 +3611,22 @@
       "3": {
         "firstStudiedWeek": 3,
         "reviews": [
-          4
+          4,
+          5
         ],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 8
       },
       "4": {
         "firstStudiedWeek": 4,
+        "reviews": [
+          5
+        ],
+        "nextReviewWeek": 6
+      },
+      "5": {
+        "firstStudiedWeek": 5,
         "reviews": [],
-        "nextReviewWeek": 5
+        "nextReviewWeek": 6
       }
     }
   },
